@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Which of the following is the correct pathway of CO₂ from body cells to the outside?",
+      "op_1": "Body cells → alveoli → bronchi → trachea → nostrils",
+      "op_2": "Body cells → veins → heart → arteries → alveoli",
+      "op_3": "Body cells → capillaries → alveoli → bronchi → trachea → larynx → pharynx → nostrils",
+      "op_4": "Body cells → arteries → heart → veins → alveoli",
+      "ans": "Body cells → capillaries → alveoli → bronchi → trachea → larynx → pharynx → nostrils"
+    },
+    {
+      "question": "What is the primary reason why terrestrial animals use atmospheric oxygen for respiration, while aquatic animals use dissolved oxygen?",
+      "op_1": "Atmospheric oxygen is more concentrated",
+      "op_2": "Gills are adapted to extract dissolved oxygen",
+      "op_3": "Lungs cannot extract dissolved oxygen",
+      "op_4": "All of the above",
+      "ans": "All of the above"
+    },
+    {
+      "question": "The volume of air that remains in the lungs after a forceful expiration is called:",
+      "op_1": "Tidal Volume",
+      "op_2": "Residual Volume",
+      "op_3": "Vital Capacity",
+      "op_4": "Inspiratory Reserve Volume",
+      "ans": "Residual Volume"
+    },
+    {
+      "question": "Which of the following statements is true regarding respiration and breathing?",
+      "op_1": "They are identical processes.",
+      "op_2": "Breathing is a part of respiration.",
+      "op_3": "Respiration is a part of breathing.",
+      "op_4": "They are completely unrelated.",
+      "ans": "Breathing is a part of respiration."
+    },
+    {
+      "question": "A person was admitted to a hospital after an accident. The doctor noted a high concentration of lactic acid in his muscles. The probable reason is:",
+      "op_1": "Aerobic respiration",
+      "op_2": "Anaerobic respiration",
+      "op_3": "Lack of food",
+      "op_4": "Excess of oxygen",
+      "ans": "Anaerobic respiration"
+    },
+    {
+      "question": "The energy released during cellular respiration is immediately used to synthesise a molecule called:",
+      "op_1": "DNA",
+      "op_2": "ATP",
+      "op_3": "Glucose",
+      "op_4": "Insulin",
+      "ans": "ATP"
+    },
+    {
+      "question": "Which of the following adaptations in alveoli maximize gas exchange in humans? (i) Thin walls (ii) Numerous in number (iii) Dry surface (iv) Surrounded by capillaries",
+      "op_1": "(i) and (ii)",
+      "op_2": "(i), (ii) and (iii)",
+      "op_3": "(i), (ii) and (iv)",
+      "op_4": "(ii), (iii) and (iv)",
+      "ans": "(i), (ii) and (iv)"
+    },
+    {
+      "question": "Analyse the two statements: Statement I: In humans, the left lung is smaller than the right lung. Statement II: The left lung has a cardiac notch to accommodate the heart.",
+      "op_1": "Both statements I and II are correct and II explains I.",
+      "op_2": "Both statements I and II are correct but II does not explain I.",
+      "op_3": "Statement I is correct but statement II is incorrect.",
+      "op_4": "Statement I is incorrect but statement II is correct.",
+      "ans": "Both statements I and II are correct and II explains I."
+    },
+    {
+      "question": "What would be the immediate consequence if the residual volume of air in our lungs became zero?",
+      "op_1": "We would not be able to inhale",
+      "op_2": "The lungs would collapse",
+      "op_3": "We would not be able to exhale",
+      "op_4": "Gas exchange would become more efficient",
+      "ans": "The lungs would collapse"
+    },
+    {
+      "question": "During a strenuous race, an athlete's muscle cells are likely to have:",
+      "op_1": "A high concentration of oxygen and low concentration of lactic acid",
+      "op_2": "A low concentration of oxygen and high concentration of lactic acid",
+      "op_3": "A high concentration of oxygen and high concentration of lactic acid",
+      "op_4": "A low concentration of oxygen and low concentration of lactic acid",
+      "ans": "A low concentration of oxygen and high concentration of lactic acid"
+    },
+    {
+      "question": "The breakdown of a glucose molecule in a cell occurs in a series of steps instead of a single step because:",
+      "op_1": "All the energy would not be released at once, which could damage the cell.",
+      "op_2": "The cell does not have enzymes for a single-step breakdown.",
+      "op_3": "A single-step process would require too much oxygen.",
+      "op_4": "It is the only way to produce ATP.",
+      "ans": "All the energy would not be released at once, which could damage the cell."
+    },
+    {
+      "question": "In the 'Krebs Cycle' of aerobic respiration, the 3-carbon pyruvate is first converted into:",
+      "op_1": "Citric Acid (6C)",
+      "op_2": "ATP",
+      "op_3": "Acetyl CoA (2C)",
+      "op_4": "Oxaloacetic Acid (4C)",
+      "ans": "Acetyl CoA (2C)"
+    },
+    {
+      "question": "Which of the following is a key difference between the electron transport chain in respiration and the one in photosynthesis?",
+      "op_1": "One occurs in plants, the other in animals.",
+      "op_2": "The final electron acceptor in respiration is oxygen, while in photosynthesis it is NADP+.",
+      "op_3": "One produces ATP, the other consumes it.",
+      "op_4": "There are no differences; the process is identical.",
+      "ans": "The final electron acceptor in respiration is oxygen, while in photosynthesis it is NADP+."
+    },
+    {
+      "question": "If a plant is kept in a closed chamber with a source of labeled ¹⁸O₂ (heavy oxygen), which molecule would first incorporate the ¹⁸O label?",
+      "op_1": "Glucose (C₆H₁₂O₆)",
+      "op_2": "Carbon Dioxide (CO₂)",
+      "op_3": "Water (H₂O)",
+      "op_4": "ATP",
+      "ans": "Water (H₂O)"
+    },
+    {
+      "question": "A student set up an experiment as shown below to study respiration in a plant. The lime water in flask B turns milky faster than in flask A. This is because: <br> [Diagram Description: Flask A has a live plant and NaOH pellets. Flask B has a live plant only. Both are connected to lime water vessels.]",
+      "op_1": "Flask A has NaOH which absorbs CO₂, so no CO₂ reaches its lime water.",
+      "op_2": "The plant in flask B performs more respiration.",
+      "op_3": "The plant in flask A performs more photosynthesis.",
+      "op_4": "The setup for flask B is faulty.",
+      "ans": "Flask A has NaOH which absorbs CO₂, so no CO₂ reaches its lime water."
+    }
+  ]
+}
