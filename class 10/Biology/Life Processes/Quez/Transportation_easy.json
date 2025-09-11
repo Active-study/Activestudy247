@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Which pigment in red blood cells carries oxygen?",
+      "op_1": "Chlorophyll",
+      "op_2": "Haemoglobin",
+      "op_3": "Myoglobin",
+      "op_4": "Keratin",
+      "ans": "Haemoglobin"
+    },
+    {
+      "question": "Which blood vessel carries oxygenated blood from lungs to heart?",
+      "op_1": "Pulmonary artery",
+      "op_2": "Pulmonary vein",
+      "op_3": "Aorta",
+      "op_4": "Vena cava",
+      "ans": "Pulmonary vein"
+    },
+    {
+      "question": "Which part of the plant transports water?",
+      "op_1": "Phloem",
+      "op_2": "Xylem",
+      "op_3": "Stomata",
+      "op_4": "Guard cells",
+      "ans": "Xylem"
+    },
+    {
+      "question": "The main pumping organ in the human circulatory system is:",
+      "op_1": "Lung",
+      "op_2": "Liver",
+      "op_3": "Heart",
+      "op_4": "Kidney",
+      "ans": "Heart"
+    },
+    {
+      "question": "Which blood vessels carry blood away from the heart?",
+      "op_1": "Arteries",
+      "op_2": "Veins",
+      "op_3": "Capillaries",
+      "op_4": "Venules",
+      "ans": "Arteries"
+    },
+    {
+      "question": "Which type of circulation occurs only in fish?",
+      "op_1": "Single circulation",
+      "op_2": "Double circulation",
+      "op_3": "Open circulation",
+      "op_4": "Lymph circulation",
+      "ans": "Single circulation"
+    },
+    {
+      "question": "Which plant tissue transports food?",
+      "op_1": "Phloem",
+      "op_2": "Xylem",
+      "op_3": "Epidermis",
+      "op_4": "Cambium",
+      "ans": "Phloem"
+    },
+    {
+      "question": "What is the normal heartbeat rate of a healthy adult?",
+      "op_1": "72 per minute",
+      "op_2": "60 per minute",
+      "op_3": "100 per minute",
+      "op_4": "45 per minute",
+      "ans": "72 per minute"
+    },
+    {
+      "question": "Which component of blood is responsible for clotting?",
+      "op_1": "RBC",
+      "op_2": "WBC",
+      "op_3": "Platelets",
+      "op_4": "Plasma",
+      "ans": "Platelets"
+    },
+    {
+      "question": "In humans, deoxygenated blood is carried by:",
+      "op_1": "Pulmonary vein",
+      "op_2": "Pulmonary artery",
+      "op_3": "Aorta",
+      "op_4": "Capillaries",
+      "ans": "Pulmonary artery"
+    },
+    {
+      "question": "Which part of the root absorbs water?",
+      "op_1": "Root hairs",
+      "op_2": "Root cap",
+      "op_3": "Epidermis",
+      "op_4": "Cambium",
+      "ans": "Root hairs"
+    },
+    {
+      "question": "Which chamber of the heart pumps blood to the lungs?",
+      "op_1": "Left atrium",
+      "op_2": "Right ventricle",
+      "op_3": "Left ventricle",
+      "op_4": "Right atrium",
+      "ans": "Right ventricle"
+    },
+    {
+      "question": "Which blood vessel is the largest artery in the human body?",
+      "op_1": "Pulmonary artery",
+      "op_2": "Aorta",
+      "op_3": "Vena cava",
+      "op_4": "Renal artery",
+      "ans": "Aorta"
+    },
+    {
+      "question": "Which type of blood circulation is found in humans?",
+      "op_1": "Single circulation",
+      "op_2": "Double circulation",
+      "op_3": "Open circulation",
+      "op_4": "Closed circulation",
+      "ans": "Double circulation"
+    },
+    {
+      "question": "Which blood cells fight against infections?",
+      "op_1": "RBC",
+      "op_2": "WBC",
+      "op_3": "Platelets",
+      "op_4": "Plasma",
+      "ans": "WBC"
+    }
+  ]
+}
