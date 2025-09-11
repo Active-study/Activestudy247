@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Which of the following organisms shows holozoic nutrition?",
+      "op_1": "Amoeba",
+      "op_2": "Mushroom",
+      "op_3": "Lichen",
+      "op_4": "Cuscuta",
+      "ans": "Amoeba"
+    },
+    {
+      "question": "Which enzyme breaks down proteins into peptides in the stomach?",
+      "op_1": "Pepsin",
+      "op_2": "Lipase",
+      "op_3": "Amylase",
+      "op_4": "Maltase",
+      "ans": "Pepsin"
+    },
+    {
+      "question": "The process by which green plants prepare food is:",
+      "op_1": "Respiration",
+      "op_2": "Photosynthesis",
+      "op_3": "Transpiration",
+      "op_4": "Germination",
+      "ans": "Photosynthesis"
+    },
+    {
+      "question": "In humans, bile helps in the digestion of:",
+      "op_1": "Carbohydrates",
+      "op_2": "Proteins",
+      "op_3": "Fats",
+      "op_4": "Vitamins",
+      "ans": "Fats"
+    },
+    {
+      "question": "Which of the following is the correct equation for photosynthesis?",
+      "op_1": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+      "op_2": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O",
+      "op_3": "O₂ + Glucose → Energy",
+      "op_4": "CO₂ + H₂O → Energy + O₂",
+      "ans": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂"
+    },
+    {
+      "question": "Which part of the alimentary canal receives bile juice?",
+      "op_1": "Mouth",
+      "op_2": "Stomach",
+      "op_3": "Duodenum",
+      "op_4": "Large intestine",
+      "ans": "Duodenum"
+    },
+    {
+      "question": "Which of the following statements about heterotrophic nutrition is true?",
+      "op_1": "Organisms make their own food",
+      "op_2": "Organisms depend on others for food",
+      "op_3": "Food is made by photosynthesis",
+      "op_4": "Occurs only in plants",
+      "ans": "Organisms depend on others for food"
+    },
+    {
+      "question": "Which part of Amoeba helps in engulfing food particles?",
+      "op_1": "Cilia",
+      "op_2": "Flagella",
+      "op_3": "Pseudopodia",
+      "op_4": "Nucleus",
+      "ans": "Pseudopodia"
+    },
+    {
+      "question": "Which type of nutrition is shown by fungi?",
+      "op_1": "Saprotrophic",
+      "op_2": "Autotrophic",
+      "op_3": "Parasitic",
+      "op_4": "Symbiotic",
+      "ans": "Saprotrophic"
+    },
+    {
+      "question": "In plants, stomata are mainly responsible for:",
+      "op_1": "Absorption of water",
+      "op_2": "Exchange of gases",
+      "op_3": "Transport of minerals",
+      "op_4": "Transport of food",
+      "ans": "Exchange of gases"
+    },
+    {
+      "question": "The inner lining of the stomach is protected from HCl by:",
+      "op_1": "Bile",
+      "op_2": "Mucus",
+      "op_3": "Amylase",
+      "op_4": "Pepsin",
+      "ans": "Mucus"
+    },
+    {
+      "question": "The finger-like projections in the small intestine are called:",
+      "op_1": "Cilia",
+      "op_2": "Villi",
+      "op_3": "Alveoli",
+      "op_4": "Glomeruli",
+      "ans": "Villi"
+    },
+    {
+      "question": "The ultimate products of carbohydrate digestion are:",
+      "op_1": "Glucose",
+      "op_2": "Amino acids",
+      "op_3": "Fatty acids",
+      "op_4": "Peptides",
+      "ans": "Glucose"
+    },
+    {
+      "question": "Which digestive juice is secreted by the pancreas?",
+      "op_1": "Bile",
+      "op_2": "Gastric juice",
+      "op_3": "Pancreatic juice",
+      "op_4": "Saliva",
+      "ans": "Pancreatic juice"
+    },
+    {
+      "question": "Which process releases oxygen as a by-product?",
+      "op_1": "Photosynthesis",
+      "op_2": "Respiration",
+      "op_3": "Transpiration",
+      "op_4": "Fermentation",
+      "ans": "Photosynthesis"
+    }
+  ]
+}
