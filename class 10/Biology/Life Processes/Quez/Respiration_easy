@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "The process of breakdown of food in the cell with the release of energy is called:",
+      "op_1": "Digestion",
+      "op_2": "Respiration",
+      "op_3": "Photosynthesis",
+      "op_4": "Transpiration",
+      "ans": "Respiration"
+    },
+    {
+      "question": "In which part of the cell does aerobic respiration occur?",
+      "op_1": "Nucleus",
+      "op_2": "Mitochondria",
+      "op_3": "Chloroplast",
+      "op_4": "Golgi Apparatus",
+      "ans": "Mitochondria"
+    },
+    {
+      "question": "The end products of aerobic respiration are:",
+      "op_1": "Ethanol and CO₂",
+      "op_2": "Lactic acid and CO₂",
+      "op_3": "Glucose and O₂",
+      "op_4": "CO₂, H₂O and energy",
+      "ans": "CO₂, H₂O and energy"
+    },
+    {
+      "question": "During heavy exercise, we get cramps in the legs due to the accumulation of:",
+      "op_1": "Carbon dioxide",
+      "op_2": "Lactic acid",
+      "op_3": "Alcohol",
+      "op_4": "Water",
+      "ans": "Lactic acid"
+    },
+    {
+      "question": "The respiratory pigment in human blood is:",
+      "op_1": "Chlorophyll",
+      "op_2": "Haemoglobin",
+      "op_3": "Melanin",
+      "op_4": "Insulin",
+      "ans": "Haemoglobin"
+    },
+    {
+      "question": "In yeast, the process of anaerobic respiration yields:",
+      "op_1": "Lactic acid and CO₂",
+      "op_2": "Ethanol and CO₂",
+      "op_3": "Water and energy",
+      "op_4": "Pyruvate only",
+      "ans": "Ethanol and CO₂"
+    },
+    {
+      "question": "The air tubes in insects are called:",
+      "op_1": "Bronchi",
+      "op_2": "Alveoli",
+      "op_3": "Tracheae",
+      "op_4": "Gills",
+      "ans": "Tracheae"
+    },
+    {
+      "question": "The small pores on the surface of leaves involved in gas exchange are called:",
+      "op_1": "Lenticels",
+      "op_2": "Stomata",
+      "op_3": "Lamina",
+      "op_4": "Veins",
+      "ans": "Stomata"
+    },
+    {
+      "question": "During respiration, the gas released is:",
+      "op_1": "Oxygen",
+      "op_2": "Hydrogen",
+      "op_3": "Carbon dioxide",
+      "op_4": "Nitrogen",
+      "ans": "Carbon dioxide"
+    },
+    {
+      "question": "The site of exchange of gases in the lungs is:",
+      "op_1": "Trachea",
+      "op_2": "Bronchi",
+      "op_3": "Bronchioles",
+      "op_4": "Alveoli",
+      "ans": "Alveoli"
+    },
+    {
+      "question": "Which of the following helps in transporting oxygen to all parts of the body?",
+      "op_1": "White Blood Cells",
+      "op_2": "Red Blood Cells",
+      "op_3": "Platelets",
+      "op_4": "Plasma",
+      "ans": "Red Blood Cells"
+    },
+    {
+      "question": "The process of taking in air rich in oxygen is called:",
+      "op_1": "Inhalation",
+      "op_2": "Exhalation",
+      "op_3": "Respiration",
+      "op_4": "Breathing",
+      "ans": "Inhalation"
+    },
+    {
+      "question": "Which of the following organisms can respire in the absence of oxygen?",
+      "op_1": "Yeast",
+      "op_2": "Leopard",
+      "op_3": "Eagle",
+      "op_4": "Human",
+      "ans": "Yeast"
+    },
+    {
+      "question": "Which of the following is not a part of the human respiratory system?",
+      "op_1": "Trachea",
+      "op_2": "Bronchi",
+      "op_3": "Alveoli",
+      "op_4": "Aorta",
+      "ans": "Aorta"
+    },
+    {
+      "question": "In anaerobic respiration of yeast:",
+      "op_1": "Oxygen is released",
+      "op_2": "Alcohol is produced",
+      "op_3": "Lactic acid is produced",
+      "op_4": "Water is produced",
+      "ans": "Alcohol is produced"
+    }
+  ]
+}
