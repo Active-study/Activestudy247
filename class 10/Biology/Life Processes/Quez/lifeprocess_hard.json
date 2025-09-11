@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Which chamber of the heart pumps blood into lungs for oxygenation?",
+      "op_1": "Left atrium",
+      "op_2": "Left ventricle",
+      "op_3": "Right ventricle",
+      "op_4": "Right atrium",
+      "ans": "Right ventricle"
+    },
+    {
+      "question": "Which process in plants is responsible for upward movement of water?",
+      "op_1": "Photosynthesis",
+      "op_2": "Transpiration pull",
+      "op_3": "Respiration",
+      "op_4": "Digestion",
+      "ans": "Transpiration pull"
+    },
+    {
+      "question": "What is the end product of anaerobic respiration in muscles?",
+      "op_1": "Carbon dioxide",
+      "op_2": "Alcohol",
+      "op_3": "Lactic acid",
+      "op_4": "Glucose",
+      "ans": "Lactic acid"
+    },
+    {
+      "question": "Which process in human body is responsible for absorption of nutrients?",
+      "op_1": "Stomach",
+      "op_2": "Small intestine",
+      "op_3": "Large intestine",
+      "op_4": "Liver",
+      "ans": "Small intestine"
+    },
+    {
+      "question": "During respiration, exchange of gases takes place in:",
+      "op_1": "Bronchi",
+      "op_2": "Bronchioles",
+      "op_3": "Alveoli",
+      "op_4": "Trachea",
+      "ans": "Alveoli"
+    },
+    {
+      "question": "Which type of blood circulation occurs between heart and lungs?",
+      "op_1": "Systemic circulation",
+      "op_2": "Pulmonary circulation",
+      "op_3": "Coronary circulation",
+      "op_4": "Double circulation",
+      "ans": "Pulmonary circulation"
+    },
+    {
+      "question": "Which part of nephron helps in reabsorption of useful substances?",
+      "op_1": "Loop of Henle",
+      "op_2": "Bowman’s capsule",
+      "op_3": "Tubule",
+      "op_4": "Collecting duct",
+      "ans": "Tubule"
+    },
+    {
+      "question": "What is the function of haemoglobin?",
+      "op_1": "Digest food",
+      "op_2": "Transport oxygen",
+      "op_3": "Transport hormones",
+      "op_4": "Produce antibodies",
+      "ans": "Transport oxygen"
+    },
+    {
+      "question": "In photosynthesis, light energy is converted into:",
+      "op_1": "Heat energy",
+      "op_2": "Mechanical energy",
+      "op_3": "Chemical energy",
+      "op_4": "Sound energy",
+      "ans": "Chemical energy"
+    },
+    {
+      "question": "The site of urea formation in the body is:",
+      "op_1": "Kidney",
+      "op_2": "Liver",
+      "op_3": "Heart",
+      "op_4": "Lungs",
+      "ans": "Liver"
+    },
+    {
+      "question": "Which process in plants helps in loss of excess water?",
+      "op_1": "Photosynthesis",
+      "op_2": "Respiration",
+      "op_3": "Transpiration",
+      "op_4": "Absorption",
+      "ans": "Transpiration"
+    },
+    {
+      "question": "Which organ filters blood to remove nitrogenous waste?",
+      "op_1": "Kidney",
+      "op_2": "Heart",
+      "op_3": "Liver",
+      "op_4": "Lungs",
+      "ans": "Kidney"
+    },
+    {
+      "question": "Which is the universal energy currency in cells?",
+      "op_1": "DNA",
+      "op_2": "ATP",
+      "op_3": "RNA",
+      "op_4": "Enzyme",
+      "ans": "ATP"
+    },
+    {
+      "question": "What is the function of phloem in plants?",
+      "op_1": "Transport water",
+      "op_2": "Transport food",
+      "op_3": "Absorb minerals",
+      "op_4": "Exchange gases",
+      "ans": "Transport food"
+    },
+    {
+      "question": "Which organelle is called the ‘powerhouse of the cell’ because it produces ATP?",
+      "op_1": "Nucleus",
+      "op_2": "Mitochondria",
+      "op_3": "Chloroplast",
+      "op_4": "Ribosome",
+      "ans": "Mitochondria"
+    }
+  ]
+}
