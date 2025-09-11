@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Which of the following is an autotrophic mode of nutrition?",
+      "op_1": "Saprotrophic",
+      "op_2": "Parasitic",
+      "op_3": "Photosynthesis",
+      "op_4": "Holozoic",
+      "ans": "Photosynthesis"
+    },
+    {
+      "question": "The ultimate source of energy for all living organisms is:",
+      "op_1": "Moon",
+      "op_2": "Sun",
+      "op_3": "Soil",
+      "op_4": "Water",
+      "ans": "Sun"
+    },
+    {
+      "question": "Which pigment is essential for photosynthesis?",
+      "op_1": "Haemoglobin",
+      "op_2": "Chlorophyll",
+      "op_3": "Carotene",
+      "op_4": "Melanin",
+      "ans": "Chlorophyll"
+    },
+    {
+      "question": "Which part of the plant carries out photosynthesis?",
+      "op_1": "Stem",
+      "op_2": "Root",
+      "op_3": "Leaf",
+      "op_4": "Flower",
+      "ans": "Leaf"
+    },
+    {
+      "question": "In humans, food is digested in:",
+      "op_1": "Small intestine",
+      "op_2": "Large intestine",
+      "op_3": "Stomach only",
+      "op_4": "Liver",
+      "ans": "Small intestine"
+    },
+    {
+      "question": "Which enzyme is present in saliva?",
+      "op_1": "Pepsin",
+      "op_2": "Amylase",
+      "op_3": "Lipase",
+      "op_4": "Trypsin",
+      "ans": "Amylase"
+    },
+    {
+      "question": "Iodine is used to test the presence of:",
+      "op_1": "Fats",
+      "op_2": "Starch",
+      "op_3": "Protein",
+      "op_4": "Glucose",
+      "ans": "Starch"
+    },
+    {
+      "question": "Which organ secretes bile?",
+      "op_1": "Pancreas",
+      "op_2": "Gall bladder",
+      "op_3": "Liver",
+      "op_4": "Kidney",
+      "ans": "Liver"
+    },
+    {
+      "question": "Which structure in plants opens and closes the stomata?",
+      "op_1": "Xylem cells",
+      "op_2": "Phloem cells",
+      "op_3": "Guard cells",
+      "op_4": "Root hairs",
+      "ans": "Guard cells"
+    },
+    {
+      "question": "Which of the following is a product of photosynthesis?",
+      "op_1": "Carbon dioxide",
+      "op_2": "Glucose",
+      "op_3": "Water",
+      "op_4": "Urea",
+      "ans": "Glucose"
+    },
+    {
+      "question": "Where does digestion of protein begin in humans?",
+      "op_1": "Mouth",
+      "op_2": "Stomach",
+      "op_3": "Small intestine",
+      "op_4": "Large intestine",
+      "ans": "Stomach"
+    },
+    {
+      "question": "Which substance is required for photosynthesis besides CO₂ and water?",
+      "op_1": "NADPH",
+      "op_2": "Light",
+      "op_3": "ATP",
+      "op_4": "Protein",
+      "ans": "Light"
+    },
+    {
+      "question": "Which component of food provides immediate energy?",
+      "op_1": "Proteins",
+      "op_2": "Fats",
+      "op_3": "Carbohydrates",
+      "op_4": "Vitamins",
+      "ans": "Carbohydrates"
+    },
+    {
+      "question": "In which part of the alimentary canal is villi found?",
+      "op_1": "Mouth",
+      "op_2": "Small intestine",
+      "op_3": "Large intestine",
+      "op_4": "Stomach",
+      "ans": "Small intestine"
+    },
+    {
+      "question": "Which is the site of complete digestion of carbohydrates, proteins, and fats?",
+      "op_1": "Stomach",
+      "op_2": "Small intestine",
+      "op_3": "Large intestine",
+      "op_4": "Pancreas",
+      "ans": "Small intestine"
+    }
+  ]
+}
