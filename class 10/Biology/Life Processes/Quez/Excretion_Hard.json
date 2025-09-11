@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "A patient is suffering from kidney failure and is on dialysis. What is the most fundamental process that the dialysis machine must perform?",
+      "op_1": "Pump blood around the body",
+      "op_2": "Remove nitrogenous wastes and regulate water and ion balance",
+      "op_3": "Produce hormones like erythropoietin",
+      "op_4": "Add glucose and nutrients to the blood",
+      "ans": "Remove nitrogenous wastes and regulate water and ion balance"
+    },
+    {
+      "question": "If the Henle's loop in a nephron is non-functional, what would be the most direct consequence?",
+      "op_1": "No filtration would occur.",
+      "op_2": "The urine would be highly diluted with excess water.",
+      "op_3": "Glucose would appear in the urine.",
+      "op_4": "Blood pressure in the glomerulus would drop.",
+      "ans": "The urine would be highly diluted with excess water."
+    },
+    {
+      "question": "Analyse the two statements: Statement I: The blood entering the glomerulus has a higher osmotic pressure than the filtrate formed. Statement II: The glomerular filtrate is devoid of plasma proteins.",
+      "op_1": "Both statements I and II are correct and II explains I.",
+      "op_2": "Both statements I and II are correct but II does not explain I.",
+      "op_3": "Statement I is correct but statement II is incorrect.",
+      "op_4": "Statement I is incorrect but statement II is correct.",
+      "ans": "Statement I is incorrect but statement II is correct."
+    },
+    {
+      "question": "The maximum amount of water from the glomerular filtrate is reabsorbed in:",
+      "op_1": "Proximal Convoluted Tubule (PCT)",
+      "op_2": "Distal Convoluted Tubule (DCT)",
+      "op_3": "Henle's loop",
+      "op_4": "Collecting duct",
+      "ans": "Proximal Convoluted Tubule (PCT)"
+    },
+    {
+      "question": "A person consumes a large amount of salty food. How would their kidneys respond to maintain homeostasis?",
+      "op_1": "Increase reabsorption of water only",
+      "op_2": "Increase reabsorption of salts only",
+      "op_3": "Decrease reabsorption of salts and increase water reabsorption",
+      "op_4": "Increase reabsorption of both salts and water",
+      "ans": "Decrease reabsorption of salts and increase water reabsorption"
+    },
+    {
+      "question": "The Malpighian body is composed of:",
+      "op_1": "Glomerulus and Bowman's capsule",
+      "op_2": "Henle's loop and Collecting duct",
+      "op_3": "PCT and DCT",
+      "op_4": "Renal artery and Renal vein",
+      "ans": "Glomerulus and Bowman's capsule"
+    },
+    {
+      "question": "Which of the following sequences correctly traces the path of urine in the body?",
+      "op_1": "Kidney → Urethra → Bladder → Ureter",
+      "op_2": "Kidney → Ureter → Bladder → Urethra",
+      "op_3": "Bladder → Kidney → Ureter → Urethra",
+      "op_4": "Ureter → Kidney → Bladder → Urethra",
+      "ans": "Kidney → Ureter → Bladder → Urethra"
+    },
+    {
+      "question": "What is the primary advantage of excreting uric acid over ammonia for terrestrial birds?",
+      "op_1": "Uric acid is less toxic and requires less water for excretion.",
+      "op_2": "Uric acid is more soluble in water.",
+      "op_3": "Ammonia is energetically cheaper to produce.",
+      "op_4": "Uric acid provides more energy upon excretion.",
+      "ans": "Uric acid is less toxic and requires less water for excretion."
+    },
+    {
+      "question": "In a nephron, the 'counter-current mechanism' for water reabsorption involves the interaction between:",
+      "op_1": "Afferent and Efferent arterioles",
+      "op_2": "Glomerulus and Bowman's capsule",
+      "op_3": "Ascending and Descending limbs of Henle's loop",
+      "op_4": "PCT and DCT",
+      "ans": "Ascending and Descending limbs of Henle's loop"
+    },
+    {
+      "question": "If the efferent arteriole constricts while the afferent arteriole remains the same size, what is the immediate effect on glomerular filtration rate (GFR)?",
+      "op_1": "GFR decreases",
+      "op_2": "GFR increases",
+      "op_3": "GFR remains unchanged",
+      "op_4": "Filtration stops completely",
+      "ans": "GFR increases"
+    },
+    {
+      "question": "The term 'ultrafiltration' in the kidney refers to:",
+      "op_1": "Reabsorption of water in the collecting duct",
+      "op_2": "Filtration of blood under high pressure in the glomerulus",
+      "op_3": "Secretion of ions in the DCT",
+      "op_4": "The flow of urine from the kidney to the bladder",
+      "ans": "Filtration of blood under high pressure in the glomerulus"
+    },
+    {
+      "question": "Which of the following is a direct consequence of Liver failure on excretion?",
+      "op_1": "Increase in blood urea levels",
+      "op_2": "Decrease in blood ammonia levels",
+      "op_3": "Increased formation of urine",
+      "op_4": "Failure of the kidneys to filter blood",
+      "ans": "Increase in blood urea levels"
+    },
+    {
+      "question": "A person suffers an injury that damages the pituitary gland, reducing ADH production. What would be the characteristic of their urine?",
+      "op_1": "Highly concentrated and low volume",
+      "op_2": "Highly diluted and large volume (Diabetes insipidus)",
+      "op_3": "Contains blood cells",
+      "op_4": "Contains high glucose",
+      "ans": "Highly diluted and large volume (Diabetes insipidus)"
+    },
+    {
+      "question": "The main purpose of tubular secretion in the nephron is to:",
+      "op_1": "Form the initial filtrate",
+      "op_2": "Reabsorb essential nutrients",
+      "op_3": "Maintain ionic and acid-base balance of body fluids",
+      "op_4": "Regulate blood pressure",
+      "ans": "Maintain ionic and acid-base balance of body fluids"
+    },
+    {
+      "question": "In a study, a substance 'X' that is not normally present in the blood is injected into it. It later appears in the urine without being metabolized. Through which process did it most likely enter the nephron?",
+      "op_1": "Glomerular filtration",
+      "op_2": "Tubular reabsorption",
+      "op_3": "Tubular secretion",
+      "op_4": "Both filtration and secretion",
+      "ans": "Glomerular filtration"
+    }
+  ]
+}
