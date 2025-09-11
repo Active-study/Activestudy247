@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "The function of bile is to:",
+      "op_1": "Digest proteins",
+      "op_2": "Digest starch",
+      "op_3": "Emulsify fats",
+      "op_4": "Absorb water",
+      "ans": "Emulsify fats"
+    },
+    {
+      "question": "Which blood vessel has thick muscular walls to withstand high pressure?",
+      "op_1": "Artery",
+      "op_2": "Vein",
+      "op_3": "Capillary",
+      "op_4": "Venule",
+      "ans": "Artery"
+    },
+    {
+      "question": "Which form of nitrogen is absorbed by plants?",
+      "op_1": "Nitrogen gas",
+      "op_2": "Nitrate",
+      "op_3": "Nitrite",
+      "op_4": "Ammonia",
+      "ans": "Nitrate"
+    },
+    {
+      "question": "What prevents backflow of blood in veins?",
+      "op_1": "Thick walls",
+      "op_2": "Valves",
+      "op_3": "Muscles",
+      "op_4": "Arteries",
+      "ans": "Valves"
+    },
+    {
+      "question": "The main excretory product in humans is:",
+      "op_1": "Ammonia",
+      "op_2": "Urea",
+      "op_3": "Uric acid",
+      "op_4": "Carbon dioxide",
+      "ans": "Urea"
+    },
+    {
+      "question": "Which process releases carbon dioxide in living organisms?",
+      "op_1": "Photosynthesis",
+      "op_2": "Respiration",
+      "op_3": "Transpiration",
+      "op_4": "Assimilation",
+      "ans": "Respiration"
+    },
+    {
+      "question": "Which of the following is not a raw material for photosynthesis?",
+      "op_1": "Water",
+      "op_2": "Carbon dioxide",
+      "op_3": "Oxygen",
+      "op_4": "Chlorophyll",
+      "ans": "Oxygen"
+    },
+    {
+      "question": "The blood vessel carrying blood from intestine to liver is:",
+      "op_1": "Renal vein",
+      "op_2": "Hepatic portal vein",
+      "op_3": "Vena cava",
+      "op_4": "Aorta",
+      "ans": "Hepatic portal vein"
+    },
+    {
+      "question": "Which part of nephron is responsible for ultrafiltration?",
+      "op_1": "Bowman’s capsule",
+      "op_2": "Loop of Henle",
+      "op_3": "Collecting duct",
+      "op_4": "Tubule",
+      "ans": "Bowman’s capsule"
+    },
+    {
+      "question": "In plants, transport of food takes place through:",
+      "op_1": "Xylem",
+      "op_2": "Phloem",
+      "op_3": "Stomata",
+      "op_4": "Guard cells",
+      "ans": "Phloem"
+    },
+    {
+      "question": "Which is the site of photosynthesis in plant cells?",
+      "op_1": "Mitochondria",
+      "op_2": "Chloroplast",
+      "op_3": "Nucleus",
+      "op_4": "Ribosome",
+      "ans": "Chloroplast"
+    },
+    {
+      "question": "During respiration, glucose is broken down into:",
+      "op_1": "Carbon dioxide and water",
+      "op_2": "Carbon monoxide",
+      "op_3": "Oxygen",
+      "op_4": "Protein",
+      "ans": "Carbon dioxide and water"
+    },
+    {
+      "question": "Which organ removes excess salts and water to maintain balance in the body?",
+      "op_1": "Heart",
+      "op_2": "Kidney",
+      "op_3": "Liver",
+      "op_4": "Lungs",
+      "ans": "Kidney"
+    },
+    {
+      "question": "Which type of circulation supplies blood to the heart itself?",
+      "op_1": "Systemic circulation",
+      "op_2": "Pulmonary circulation",
+      "op_3": "Coronary circulation",
+      "op_4": "Hepatic circulation",
+      "ans": "Coronary circulation"
+    },
+    {
+      "question": "Why is diffusion insufficient for transport in multicellular organisms?",
+      "op_1": "Because they have a large surface area",
+      "op_2": "Because diffusion is a fast process",
+      "op_3": "Because they have small volume",
+      "op_4": "Because diffusion is a slow process and cannot meet high requirements",
+      "ans": "Because diffusion is a slow process and cannot meet high requirements"
+    }
+  ]
+}
