@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "The cup-shaped end of a nephron that encloses a cluster of capillaries is called:",
+      "op_1": "Glomerulus",
+      "op_2": "Bowman's capsule",
+      "op_3": "Renal pelvis",
+      "op_4": "Collecting duct",
+      "ans": "Bowman's capsule"
+    },
+    {
+      "question": "The process of filtration of blood in the glomerulus is under:",
+      "op_1": "Osmotic pressure",
+      "op_2": "Atmospheric pressure",
+      "op_3": "Hydrostatic pressure",
+      "op_4": "Diffusion pressure",
+      "ans": "Hydrostatic pressure"
+    },
+    {
+      "question": "The main function of the Henle's loop is:",
+      "op_1": "Filtration of blood",
+      "op_2": "Reabsorption of water",
+      "op_3": "Secretion of urea",
+      "op_4": "Formation of urine",
+      "ans": "Reabsorption of water"
+    },
+    {
+      "question": "Which of the following substances is selectively reabsorbed in the renal tubule?",
+      "op_1": "Urea",
+      "op_2": "Glucose",
+      "op_3": "Uric acid",
+      "op_4": "Creatinine",
+      "ans": "Glucose"
+    },
+    {
+      "question": "The term 'urine' is formed after which process in the nephron?",
+      "op_1": "Ultrafiltration",
+      "op_2": "Tubular reabsorption",
+      "op_3": "Tubular secretion",
+      "op_4": "All of the above",
+      "ans": "All of the above"
+    },
+    {
+      "question": "Which of the following is NOT reabsorbed back into the blood from the nephric filtrate?",
+      "op_1": "Glucose",
+      "op_2": "Amino acids",
+      "op_3": "Salts",
+      "op_4": "Urea",
+      "ans": "Urea"
+    },
+    {
+      "question": "The presence of which substance in urine indicates a likely case of diabetes?",
+      "op_1": "Urea",
+      "op_2": "Glucose",
+      "op_3": "Salt",
+      "op_4": "Uric acid",
+      "ans": "Glucose"
+    },
+    {
+      "question": "Which part of the nephron is primarily involved in the secretion of ions, potassium, and hydrogen into the filtrate?",
+      "op_1": "Glomerulus",
+      "op_2": "Proximal Convoluted Tubule (PCT)",
+      "op_3": "Distal Convoluted Tubule (DCT)",
+      "op_4": "Collecting Duct",
+      "ans": "Distal Convoluted Tubule (DCT)"
+    },
+    {
+      "question": "The process of haemodialysis is based on the principle of:",
+      "op_1": "Osmosis",
+      "op_2": "Diffusion",
+      "op_3": "Both osmosis and diffusion",
+      "op_4": "Active transport",
+      "ans": "Both osmosis and diffusion"
+    },
+    {
+      "question": "Which hormone regulates the reabsorption of water from the glomerular filtrate?",
+      "op_1": "Insulin",
+      "op_2": "Adrenaline",
+      "op_3": "ADH (Vasopressin)",
+      "op_4": "Thyroxine",
+      "ans": "ADH (Vasopressin)"
+    },
+    {
+      "question": "The pale yellow colour of urine is due to the presence of a pigment called:",
+      "op_1": "Haemoglobin",
+      "op_2": "Urochrome",
+      "op_3": "Melanin",
+      "op_4": "Bilirubin",
+      "ans": "Urochrome"
+    },
+    {
+      "question": "The condition where crystals of uric acid get deposited in joints causing severe pain is called:",
+      "op_1": "Arthritis",
+      "op_2": "Gout",
+      "op_3": "Osteoporosis",
+      "op_4": "Renal calculi",
+      "ans": "Gout"
+    },
+    {
+      "question": "The main function of the excretory system is to:",
+      "op_1": "Control body temperature",
+      "op_2": "Remove undigested food",
+      "op_3": "Remove metabolic wastes and maintain osmotic balance",
+      "op_4": "Pump blood",
+      "ans": "Remove metabolic wastes and maintain osmotic balance"
+    },
+    {
+      "question": "Which of the following is NOT a function of the liver related to excretion?",
+      "op_1": "Conversion of ammonia to urea",
+      "op_2": "Detoxification of blood",
+      "op_3": "Secretion of bile containing bilirubin",
+      "op_4": "Filtration of blood to form urine",
+      "ans": "Filtration of blood to form urine"
+    },
+    {
+      "question": "The initial filtrate formed in the Bowman's capsule is most similar to blood plasma except that it lacks:",
+      "op_1": "Water",
+      "op_2": "Glucose",
+      "op_3": "Urea",
+      "op_4": "Proteins",
+      "ans": "Proteins"
+    }
+  ]
+}
