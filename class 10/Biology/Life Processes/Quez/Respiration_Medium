@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Which of the following statements about the diaphragm is correct?",
+      "op_1": "It contracts during exhalation",
+      "op_2": "It is a bone",
+      "op_3": "It flattens and moves down during inhalation",
+      "op_4": "It separates the heart from the lungs",
+      "ans": "It flattens and moves down during inhalation"
+    },
+    {
+      "question": "The first step of breakdown of glucose (6-carbon molecule) during respiration results in the formation of two molecules of:",
+      "op_1": "Acetic acid",
+      "op_2": "Lactic acid",
+      "op_3": "Pyruvate (3-carbon molecule)",
+      "op_4": "Ethanol",
+      "ans": "Pyruvate (3-carbon molecule)"
+    },
+    {
+      "question": "Which of the following equations represents aerobic respiration?",
+      "op_1": "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + Energy",
+      "op_2": "C₆H₁₂O₆ → 2C₃H₆O₃ + Energy",
+      "op_3": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy",
+      "op_4": "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6H₂O + 6O₂",
+      "ans": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy"
+    },
+    {
+      "question": "The rate of breathing in aquatic organisms is much faster than that in terrestrial organisms because:",
+      "op_1": "They need more energy",
+      "op_2": "The amount of dissolved oxygen in water is low",
+      "op_3": "They have gills",
+      "op_4": "Water is denser than air",
+      "ans": "The amount of dissolved oxygen in water is low"
+    },
+    {
+      "question": "Which structure in plants allows for the exchange of gases even when the stomata are closed?",
+      "op_1": "Root hairs",
+      "op_2": "Lenticels",
+      "op_3": "Xylem",
+      "op_4": "Phloem",
+      "ans": "Lenticels"
+    },
+    {
+      "question": "The energy currency of the cell is:",
+      "op_1": "DNA",
+      "op_2": "RNA",
+      "op_3": "ATP",
+      "op_4": "ADP",
+      "ans": "ATP"
+    },
+    {
+      "question": "During exhalation, the ribs:",
+      "op_1": "Move outwards",
+      "op_2": "Move downwards",
+      "op_3": "Do not move at all",
+      "op_4": "Move upwards",
+      "ans": "Move downwards"
+    },
+    {
+      "question": "The two organisms that breathe through their skin are:",
+      "op_1": "Fish and Frog",
+      "op_2": "Frog and Earthworm",
+      "op_3": "Cockroach and Earthworm",
+      "op_4": "Human and Earthworm",
+      "ans": "Frog and Earthworm"
+    },
+    {
+      "question": "A biochemical compound that readily combines with oxygen and carbon dioxide for transport is:",
+      "op_1": "Water",
+      "op_2": "Haemoglobin",
+      "op_3": "Plasma",
+      "op_4": "Chlorophyll",
+      "ans": "Haemoglobin"
+    },
+    {
+      "question": "The process of respiration is concerned with:",
+      "op_1": "Release of oxygen",
+      "op_2": "Release of carbon dioxide",
+      "op_3": "Release of energy",
+      "op_4": "Absorption of oxygen",
+      "ans": "Release of energy"
+    },
+    {
+      "question": "What is the fate of the 3-carbon pyruvate molecule in aerobic respiration?",
+      "op_1": "It is converted to lactic acid in the cytoplasm",
+      "op_2": "It is broken down into carbon dioxide and water in the mitochondria",
+      "op_3": "It is converted to ethanol and CO₂ in the mitochondria",
+      "op_4": "It is stored as fat",
+      "ans": "It is broken down into carbon dioxide and water in the mitochondria"
+    },
+    {
+      "question": "Why do muscles cramps occur after sudden physical exercise?",
+      "op_1": "Due to excess of CO₂",
+      "op_2": "Due to build up of lactic acid",
+      "op_3": "Due to lack of oxygen",
+      "op_4": "Due to build up of alcohol",
+      "ans": "Due to build up of lactic acid"
+    },
+    {
+      "question": "The function of the rings of cartilage in the trachea is to:",
+      "op_1": "Produce sound",
+      "op_2": "Warm the air",
+      "op_3": "Filter the air",
+      "op_4": "Prevent it from collapsing",
+      "ans": "Prevent it from collapsing"
+    },
+    {
+      "question": "The number of oxygen molecules a haemoglobin molecule can carry is:",
+      "op_1": "1",
+      "op_2": "2",
+      "op_3": "3",
+      "op_4": "4",
+      "ans": "4"
+    },
+    {
+      "question": "Which of the following is the correct sequence of air passage during inhalation?",
+      "op_1": "Nostrils → larynx → pharynx → trachea → lungs",
+      "op_2": "Nasal passage → trachea → pharynx → larynx → alveoli",
+      "op_3": "Larynx → nostrils → pharynx → lungs",
+      "op_4": "Nostrils → pharynx → larynx → trachea → alveoli",
+      "ans": "Nostrils → pharynx → larynx → trachea → alveoli"
+    }
+  ]
+}
