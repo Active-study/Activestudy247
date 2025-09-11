@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Which of the following organisms shows both autotrophic and heterotrophic modes of nutrition?",
+      "op_1": "Algae",
+      "op_2": "Euglena",
+      "op_3": "Paramecium",
+      "op_4": "Plasmodium",
+      "ans": "Euglena"
+    },
+    {
+      "question": "Which chemical reaction in photosynthesis represents the light-dependent phase?",
+      "op_1": "ATP + NADPH formation",
+      "op_2": "Glucose formation",
+      "op_3": "CO₂ fixation",
+      "op_4": "Breakdown of glucose",
+      "ans": "ATP + NADPH formation"
+    },
+    {
+      "question": "In humans, emulsification of fats is carried out by:",
+      "op_1": "Pepsin",
+      "op_2": "Lipase",
+      "op_3": "Bile salts",
+      "op_4": "Amylase",
+      "ans": "Bile salts"
+    },
+    {
+      "question": "Which process in photosynthesis is responsible for oxygen release?",
+      "op_1": "Light absorption by chlorophyll",
+      "op_2": "Splitting of water",
+      "op_3": "Carbon fixation",
+      "op_4": "ATP synthesis",
+      "ans": "Splitting of water"
+    },
+    {
+      "question": "In the human digestive system, which enzyme converts proteins into peptones?",
+      "op_1": "Trypsin",
+      "op_2": "Pepsin",
+      "op_3": "Lipase",
+      "op_4": "Amylase",
+      "ans": "Pepsin"
+    },
+    {
+      "question": "Which scientist discovered the process of photosynthesis?",
+      "op_1": "Priestley",
+      "op_2": "Darwin",
+      "op_3": "Harvey",
+      "op_4": "Watson",
+      "ans": "Priestley"
+    },
+    {
+      "question": "What is the role of stomata during photosynthesis?",
+      "op_1": "Absorb water",
+      "op_2": "Absorb minerals",
+      "op_3": "Allow CO₂ entry",
+      "op_4": "Transport glucose",
+      "ans": "Allow CO₂ entry"
+    },
+    {
+      "question": "Which of the following shows holozoic nutrition like humans?",
+      "op_1": "Amoeba",
+      "op_2": "Cuscuta",
+      "op_3": "Mushroom",
+      "op_4": "Algae",
+      "ans": "Amoeba"
+    },
+    {
+      "question": "Which part of photosynthesis is known as the dark reaction?",
+      "op_1": "Light absorption",
+      "op_2": "CO₂ fixation",
+      "op_3": "Water splitting",
+      "op_4": "Oxygen release",
+      "ans": "CO₂ fixation"
+    },
+    {
+      "question": "Where does the digestion of fats mainly occur?",
+      "op_1": "Mouth",
+      "op_2": "Stomach",
+      "op_3": "Small intestine",
+      "op_4": "Large intestine",
+      "ans": "Small intestine"
+    },
+    {
+      "question": "Which part of the plant transports prepared food?",
+      "op_1": "Xylem",
+      "op_2": "Phloem",
+      "op_3": "Stomata",
+      "op_4": "Guard cells",
+      "ans": "Phloem"
+    },
+    {
+      "question": "Which step of nutrition in Amoeba involves formation of food vacuole?",
+      "op_1": "Ingestion",
+      "op_2": "Digestion",
+      "op_3": "Assimilation",
+      "op_4": "Absorption",
+      "ans": "Ingestion"
+    },
+    {
+      "question": "Which of the following is NOT associated with photosynthesis?",
+      "op_1": "Chlorophyll",
+      "op_2": "Carbon dioxide",
+      "op_3": "Oxygen",
+      "op_4": "Haemoglobin",
+      "ans": "Haemoglobin"
+    },
+    {
+      "question": "Which type of teeth help in tearing food?",
+      "op_1": "Molars",
+      "op_2": "Premolars",
+      "op_3": "Canines",
+      "op_4": "Incisors",
+      "ans": "Canines"
+    },
+    {
+      "question": "Which organ produces trypsin and lipase?",
+      "op_1": "Liver",
+      "op_2": "Pancreas",
+      "op_3": "Stomach",
+      "op_4": "Small intestine",
+      "ans": "Pancreas"
+    }
+  ]
+}
