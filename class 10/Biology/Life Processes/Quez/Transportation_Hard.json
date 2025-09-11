@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Which scientist discovered the circulation of blood?",
+      "op_1": "Louis Pasteur",
+      "op_2": "William Harvey",
+      "op_3": "Robert Hooke",
+      "op_4": "Priestley",
+      "ans": "William Harvey"
+    },
+    {
+      "question": "Which chamber of the human heart has the thickest walls?",
+      "op_1": "Right atrium",
+      "op_2": "Left atrium",
+      "op_3": "Right ventricle",
+      "op_4": "Left ventricle",
+      "ans": "Left ventricle"
+    },
+    {
+      "question": "Which pressure drives water movement in xylem?",
+      "op_1": "Root pressure",
+      "op_2": "Blood pressure",
+      "op_3": "Osmotic pressure",
+      "op_4": "Air pressure",
+      "ans": "Root pressure"
+    },
+    {
+      "question": "Translocation of food in plants occurs through:",
+      "op_1": "Xylem",
+      "op_2": "Phloem",
+      "op_3": "Stomata",
+      "op_4": "Cambium",
+      "ans": "Phloem"
+    },
+    {
+      "question": "Which vein carries blood from digestive organs to liver?",
+      "op_1": "Hepatic vein",
+      "op_2": "Renal vein",
+      "op_3": "Hepatic portal vein",
+      "op_4": "Jugular vein",
+      "ans": "Hepatic portal vein"
+    },
+    {
+      "question": "Which cells regulate the opening and closing of stomata?",
+      "op_1": "Parenchyma cells",
+      "op_2": "Guard cells",
+      "op_3": "Xylem vessels",
+      "op_4": "Phloem fibres",
+      "ans": "Guard cells"
+    },
+    {
+      "question": "Which artery carries deoxygenated blood?",
+      "op_1": "Aorta",
+      "op_2": "Pulmonary artery",
+      "op_3": "Renal artery",
+      "op_4": "Carotid artery",
+      "ans": "Pulmonary artery"
+    },
+    {
+      "question": "The pressure exerted by blood on the walls of arteries is called:",
+      "op_1": "Turgor pressure",
+      "op_2": "Blood pressure",
+      "op_3": "Osmotic pressure",
+      "op_4": "Root pressure",
+      "ans": "Blood pressure"
+    },
+    {
+      "question": "Which mechanism explains the ascent of sap in tall trees?",
+      "op_1": "Capillarity",
+      "op_2": "Transpiration pull",
+      "op_3": "Osmosis",
+      "op_4": "Diffusion",
+      "ans": "Transpiration pull"
+    },
+    {
+      "question": "What is the diastolic blood pressure of a healthy adult?",
+      "op_1": "60 mmHg",
+      "op_2": "70 mmHg",
+      "op_3": "80 mmHg",
+      "op_4": "90 mmHg",
+      "ans": "80 mmHg"
+    },
+    {
+      "question": "Which fluid carries digested and absorbed fats?",
+      "op_1": "Plasma",
+      "op_2": "Lymph",
+      "op_3": "Serum",
+      "op_4": "Cytoplasm",
+      "ans": "Lymph"
+    },
+    {
+      "question": "What is the main function of capillaries?",
+      "op_1": "Carry blood to heart",
+      "op_2": "Exchange of materials",
+      "op_3": "Store oxygen",
+      "op_4": "Form clot",
+      "ans": "Exchange of materials"
+    },
+    {
+      "question": "Which condition is caused by low haemoglobin levels?",
+      "op_1": "Diabetes",
+      "op_2": "Anaemia",
+      "op_3": "Hypertension",
+      "op_4": "Asthma",
+      "ans": "Anaemia"
+    },
+    {
+      "question": "Which blood vessel has the thinnest walls?",
+      "op_1": "Arteries",
+      "op_2": "Veins",
+      "op_3": "Capillaries",
+      "op_4": "Aorta",
+      "ans": "Capillaries"
+    },
+    {
+      "question": "Which side of the heart pumps blood to the lungs?",
+      "op_1": "Right side",
+      "op_2": "Left side",
+      "op_3": "Both sides",
+      "op_4": "None",
+      "ans": "Right side"
+    }
+  ]
+}
