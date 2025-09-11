@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is a chemical equation?",
+      "op_1": "A mathematical formula",
+      "op_2": "A representation of a chemical reaction using symbols and formulae",
+      "op_3": "A list of chemical names",
+      "op_4": "A diagram of atoms",
+      "ans": "A representation of a chemical reaction using symbols and formulae"
+    },
+    {
+      "question": "In the equation Mg + O₂ → MgO, which is the reactant?",
+      "op_1": "MgO",
+      "op_2": "O₂ only",
+      "op_3": "Mg and O₂",
+      "op_4": "Arrow symbol",
+      "ans": "Mg and O₂"
+    },
+    {
+      "question": "What does the arrow (→) in a chemical equation represent?",
+      "op_1": "Addition",
+      "op_2": "Subtraction",
+      "op_3": "Yields or produces",
+      "op_4": "Multiplication",
+      "ans": "Yields or produces"
+    },
+    {
+      "question": "Which law is the basis for balancing chemical equations?",
+      "op_1": "Law of mass action",
+      "op_2": "Law of conservation of mass",
+      "op_3": "Law of definite proportions",
+      "op_4": "Law of multiple proportions",
+      "ans": "Law of conservation of mass"
+    },
+    {
+      "question": "What is a balanced chemical equation?",
+      "op_1": "Equation with equal number of atoms on both sides",
+      "op_2": "Equation with same compounds on both sides",
+      "op_3": "Equation with equal mass on both sides",
+      "op_4": "Equation with same volume on both sides",
+      "ans": "Equation with equal number of atoms on both sides"
+    },
+    {
+      "question": "In the reaction H₂ + Cl₂ → 2HCl, the coefficient of HCl is:",
+      "op_1": "1",
+      "op_2": "2",
+      "op_3": "3",
+      "op_4": "4",
+      "ans": "2"
+    },
+    {
+      "question": "What is precipitation reaction?",
+      "op_1": "Formation of gas",
+      "op_2": "Formation of insoluble solid",
+      "op_3": "Formation of water",
+      "op_4": "Formation of acid",
+      "ans": "Formation of insoluble solid"
+    },
+    {
+      "question": "Which gas is evolved when zinc reacts with hydrochloric acid?",
+      "op_1": "Oxygen",
+      "op_2": "Hydrogen",
+      "op_3": "Carbon dioxide",
+      "op_4": "Nitrogen",
+      "ans": "Hydrogen"
+    },
+    {
+      "question": "What is oxidation in terms of oxygen?",
+      "op_1": "Loss of oxygen",
+      "op_2": "Gain of oxygen",
+      "op_3": "Loss of hydrogen",
+      "op_4": "No change in oxygen",
+      "ans": "Gain of oxygen"
+    },
+    {
+      "question": "What is reduction in terms of hydrogen?",
+      "op_1": "Loss of hydrogen",
+      "op_2": "Gain of hydrogen",
+      "op_3": "Loss of oxygen",
+      "op_4": "No change in hydrogen",
+      "ans": "Gain of hydrogen"
+    },
+    {
+      "question": "The reaction CaCO₃ → CaO + CO₂ is an example of:",
+      "op_1": "Combination reaction",
+      "op_2": "Decomposition reaction",
+      "op_3": "Displacement reaction",
+      "op_4": "Double displacement reaction",
+      "ans": "Decomposition reaction"
+    },
+    {
+      "question": "Which of the following is a combination reaction?",
+      "op_1": "2H₂O → 2H₂ + O₂",
+      "op_2": "N₂ + 3H₂ → 2NH₃",
+      "op_3": "Zn + CuSO₄ → ZnSO₄ + Cu",
+      "op_4": "NaCl + AgNO₃ → AgCl + NaNO₃",
+      "ans": "N₂ + 3H₂ → 2NH₃"
+    },
+    {
+      "question": "What happens to the colour of copper sulphate solution when iron nail is dipped in it?",
+      "op_1": "Blue to colourless",
+      "op_2": "Colourless to blue",
+      "op_3": "Blue to green",
+      "op_4": "No change",
+      "ans": "Blue to colourless"
+    },
+    {
+      "question": "Rancidity can be prevented by:",
+      "op_1": "Adding antioxidants",
+      "op_2": "Refrigeration",
+      "op_3": "Packaging in nitrogen",
+      "op_4": "All of the above",
+      "ans": "All of the above"
+    },
+    {
+      "question": "What is corrosion?",
+      "op_1": "Breaking of metals",
+      "op_2": "Melting of metals",
+      "op_3": "Slow degradation of metals due to atmospheric moisture and gases",
+      "op_4": "Rapid burning of metals",
+      "ans": "Slow degradation of metals due to atmospheric moisture and gases"
+    }
+  ]
+}
