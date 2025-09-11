@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "The closing and opening of stomata are controlled by:",
+      "op_1": "Xylem",
+      "op_2": "Guard cells",
+      "op_3": "Phloem",
+      "op_4": "Root hairs",
+      "ans": "Guard cells"
+    },
+    {
+      "question": "Which vein carries blood from the lower body to the heart?",
+      "op_1": "Pulmonary vein",
+      "op_2": "Hepatic vein",
+      "op_3": "Inferior vena cava",
+      "op_4": "Jugular vein",
+      "ans": "Inferior vena cava"
+    },
+    {
+      "question": "Transpiration mainly occurs through:",
+      "op_1": "Stomata",
+      "op_2": "Lenticels",
+      "op_3": "Cuticle",
+      "op_4": "Root hairs",
+      "ans": "Stomata"
+    },
+    {
+      "question": "What is the function of valves in veins?",
+      "op_1": "Pump blood",
+      "op_2": "Prevent backflow of blood",
+      "op_3": "Increase pressure",
+      "op_4": "Carry oxygen",
+      "ans": "Prevent backflow of blood"
+    },
+    {
+      "question": "Which side of the human heart carries oxygenated blood?",
+      "op_1": "Left side",
+      "op_2": "Right side",
+      "op_3": "Both sides",
+      "op_4": "None",
+      "ans": "Left side"
+    },
+    {
+      "question": "Which component of blood transports carbon dioxide?",
+      "op_1": "Plasma",
+      "op_2": "RBC",
+      "op_3": "WBC",
+      "op_4": "Platelets",
+      "ans": "Plasma"
+    },
+    {
+      "question": "Which of the following is a water-conducting tissue in plants?",
+      "op_1": "Phloem",
+      "op_2": "Xylem",
+      "op_3": "Cambium",
+      "op_4": "Pith",
+      "ans": "Xylem"
+    },
+    {
+      "question": "What is the fluid part of blood called?",
+      "op_1": "Plasma",
+      "op_2": "Serum",
+      "op_3": "Lymph",
+      "op_4": "Haemoglobin",
+      "ans": "Plasma"
+    },
+    {
+      "question": "Which structure connects arteries and veins?",
+      "op_1": "Capillaries",
+      "op_2": "Arterioles",
+      "op_3": "Venules",
+      "op_4": "Nerves",
+      "ans": "Capillaries"
+    },
+    {
+      "question": "The loss of water in plants through stomata is called:",
+      "op_1": "Evaporation",
+      "op_2": "Osmosis",
+      "op_3": "Transpiration",
+      "op_4": "Diffusion",
+      "ans": "Transpiration"
+    },
+    {
+      "question": "Which blood vessel brings oxygenated blood from lungs?",
+      "op_1": "Pulmonary vein",
+      "op_2": "Pulmonary artery",
+      "op_3": "Vena cava",
+      "op_4": "Aorta",
+      "ans": "Pulmonary vein"
+    },
+    {
+      "question": "Which part of the heart receives blood from the body?",
+      "op_1": "Left atrium",
+      "op_2": "Right atrium",
+      "op_3": "Left ventricle",
+      "op_4": "Right ventricle",
+      "ans": "Right atrium"
+    },
+    {
+      "question": "The main function of phloem is to:",
+      "op_1": "Transport water",
+      "op_2": "Transport food",
+      "op_3": "Transport gases",
+      "op_4": "Transport minerals",
+      "ans": "Transport food"
+    },
+    {
+      "question": "What is systolic pressure in a normal adult?",
+      "op_1": "80 mmHg",
+      "op_2": "100 mmHg",
+      "op_3": "120 mmHg",
+      "op_4": "140 mmHg",
+      "ans": "120 mmHg"
+    },
+    {
+      "question": "Which fluid is called 'tissue fluid'?",
+      "op_1": "Lymph",
+      "op_2": "Plasma",
+      "op_3": "Serum",
+      "op_4": "Haemoglobin",
+      "ans": "Lymph"
+    }
+  ]
+}
