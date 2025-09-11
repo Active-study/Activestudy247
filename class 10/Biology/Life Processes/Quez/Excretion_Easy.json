@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "The biological process involved in the removal of harmful metabolic wastes from the body is called:",
+      "op_1": "Digestion",
+      "op_2": "Excretion",
+      "op_3": "Respiration",
+      "op_4": "Transpiration",
+      "ans": "Excretion"
+    },
+    {
+      "question": "Which of the following is the main excretory product in humans?",
+      "op_1": "Urea",
+      "op_2": "Ammonia",
+      "op_3": "Uric Acid",
+      "op_4": "Carbon Dioxide",
+      "ans": "Urea"
+    },
+    {
+      "question": "The structural and functional unit of the kidney is called:",
+      "op_1": "Neuron",
+      "op_2": "Nephron",
+      "op_3": "Alveoli",
+      "op_4": "Ureter",
+      "ans": "Nephron"
+    },
+    {
+      "question": "In humans, the excretory system consists of a pair of kidneys, a pair of ureters, a urinary bladder, and a:",
+      "op_1": "Urethra",
+      "op_2": "Uterus",
+      "op_3": "Uvula",
+      "op_4": "Ulna",
+      "ans": "Urethra"
+    },
+    {
+      "question": "Which of the following is not an excretory product?",
+      "op_1": "Urea",
+      "op_2": "Oxygen",
+      "op_3": "Carbon Dioxide",
+      "op_4": "Sweat",
+      "ans": "Oxygen"
+    },
+    {
+      "question": "Aquatic animals like fish excrete their waste in the form of:",
+      "op_1": "Urea",
+      "op_2": "Uric Acid",
+      "op_3": "Ammonia",
+      "op_4": "Sweat",
+      "ans": "Ammonia"
+    },
+    {
+      "question": "The process of removal of urine from the urinary bladder is called:",
+      "op_1": "Filtration",
+      "op_2": "Reabsorption",
+      "op_3": "Micturition",
+      "op_4": "Secretion",
+      "ans": "Micturition"
+    },
+    {
+      "question": "Which organ in the human body is responsible for filtering blood to form urine?",
+      "op_1": "Heart",
+      "op_2": "Liver",
+      "op_3": "Kidney",
+      "op_4": "Lungs",
+      "ans": "Kidney"
+    },
+    {
+      "question": "The tube that carries urine from the kidney to the urinary bladder is the:",
+      "op_1": "Urethra",
+      "op_2": "Ureter",
+      "op_3": "Fallopian tube",
+      "op_4": "Oviduct",
+      "ans": "Ureter"
+    },
+    {
+      "question": "Besides the kidney, which other organ plays a role in excretion by removing carbon dioxide?",
+      "op_1": "Skin",
+      "op_2": "Liver",
+      "op_3": "Lungs",
+      "op_4": "Large Intestine",
+      "ans": "Lungs"
+    },
+    {
+      "question": "The dark red, central region of the kidney is called the:",
+      "op_1": "Cortex",
+      "op_2": "Medulla",
+      "op_3": "Pelvis",
+      "op_4": "Renal artery",
+      "ans": "Medulla"
+    },
+    {
+      "question": "Which of the following helps in maintaining the osmotic balance in the blood?",
+      "op_1": "Kidneys",
+      "op_2": "Heart",
+      "op_3": "Brain",
+      "op_4": "Stomach",
+      "ans": "Kidneys"
+    },
+    {
+      "question": "Birds and reptiles excrete nitrogenous waste in the form of:",
+      "op_1": "Ammonia",
+      "op_2": "Urea",
+      "op_3": "Uric Acid",
+      "op_4": "Guanine",
+      "ans": "Uric Acid"
+    },
+    {
+      "question": "The process of artificial filtering of blood by a machine is called:",
+      "op_1": "Dialysis",
+      "op_2": "Osmosis",
+      "op_3": "Diffusion",
+      "op_4": "Transfusion",
+      "ans": "Dialysis"
+    },
+    {
+      "question": "Which of the following is NOT a part of a nephron?",
+      "op_1": "Glomerulus",
+      "op_2": "Bowman's capsule",
+      "op_3": "Renal tubule",
+      "op_4": "Ureter",
+      "ans": "Ureter"
+    }
+  ]
+}
