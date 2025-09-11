@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Which life process provides energy for all other activities of the body?",
+      "op_1": "Respiration",
+      "op_2": "Transportation",
+      "op_3": "Excretion",
+      "op_4": "Nutrition",
+      "ans": "Respiration"
+    },
+    {
+      "question": "Which of the following is the basic unit of kidney?",
+      "op_1": "Neuron",
+      "op_2": "Nephron",
+      "op_3": "Alveolus",
+      "op_4": "Neuroglia",
+      "ans": "Nephron"
+    },
+    {
+      "question": "In which part of the alimentary canal does complete digestion of food take place?",
+      "op_1": "Mouth",
+      "op_2": "Small intestine",
+      "op_3": "Stomach",
+      "op_4": "Large intestine",
+      "ans": "Small intestine"
+    },
+    {
+      "question": "Which of the following processes does NOT occur in photosynthesis?",
+      "op_1": "Absorption of light energy by chlorophyll",
+      "op_2": "Reduction of CO₂ to carbohydrates",
+      "op_3": "Oxidation of glucose",
+      "op_4": "Splitting of water molecules",
+      "ans": "Oxidation of glucose"
+    },
+    {
+      "question": "The opening and closing of stomata is controlled by:",
+      "op_1": "Guard cells",
+      "op_2": "Xylem vessels",
+      "op_3": "Phloem tissue",
+      "op_4": "Root hairs",
+      "ans": "Guard cells"
+    },
+    {
+      "question": "Which part of the plant is responsible for transporting water?",
+      "op_1": "Phloem",
+      "op_2": "Xylem",
+      "op_3": "Stomata",
+      "op_4": "Chloroplast",
+      "ans": "Xylem"
+    },
+    {
+      "question": "The process of removing waste products from the body is called:",
+      "op_1": "Transportation",
+      "op_2": "Assimilation",
+      "op_3": "Excretion",
+      "op_4": "Digestion",
+      "ans": "Excretion"
+    },
+    {
+      "question": "Which pigment traps solar energy during photosynthesis?",
+      "op_1": "Haemoglobin",
+      "op_2": "Chlorophyll",
+      "op_3": "Carotene",
+      "op_4": "Xanthophyll",
+      "ans": "Chlorophyll"
+    },
+    {
+      "question": "Which enzyme is present in saliva?",
+      "op_1": "Pepsin",
+      "op_2": "Trypsin",
+      "op_3": "Amylase",
+      "op_4": "Lipase",
+      "ans": "Amylase"
+    },
+    {
+      "question": "What is the mode of nutrition in fungi?",
+      "op_1": "Autotrophic",
+      "op_2": "Saprotrophic",
+      "op_3": "Parasitic",
+      "op_4": "Symbiotic",
+      "ans": "Saprotrophic"
+    },
+    {
+      "question": "The blood vessel carrying oxygenated blood from the lungs to the heart is:",
+      "op_1": "Pulmonary artery",
+      "op_2": "Pulmonary vein",
+      "op_3": "Aorta",
+      "op_4": "Vena cava",
+      "ans": "Pulmonary vein"
+    },
+    {
+      "question": "Which chamber of the human heart receives deoxygenated blood from the body?",
+      "op_1": "Right atrium",
+      "op_2": "Left atrium",
+      "op_3": "Right ventricle",
+      "op_4": "Left ventricle",
+      "ans": "Right atrium"
+    },
+    {
+      "question": "Which waste is removed mainly by the lungs?",
+      "op_1": "Ammonia",
+      "op_2": "Carbon dioxide",
+      "op_3": "Urea",
+      "op_4": "Urine",
+      "ans": "Carbon dioxide"
+    },
+    {
+      "question": "In amoeba, food is digested in:",
+      "op_1": "Food vacuole",
+      "op_2": "Nucleus",
+      "op_3": "Cytoplasm",
+      "op_4": "Cell wall",
+      "ans": "Food vacuole"
+    },
+    {
+      "question": "Which structure in the leaf allows exchange of gases?",
+      "op_1": "Lenticels",
+      "op_2": "Stomata",
+      "op_3": "Cuticle",
+      "op_4": "Veins",
+      "ans": "Stomata"
+    }
+  ]
+}
