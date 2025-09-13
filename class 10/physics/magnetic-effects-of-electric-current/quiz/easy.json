@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the direction of the magnetic field lines around a current-carrying conductor?",
-      "options": [
-        "From North to South",
-        "From South to North",
-        "Circular around the conductor",
-        "None of the above"
-      ],
-      "answer": "Circular around the conductor",
-      "difficulty": "easy"
+      "question": "The magnetic field inside a long straight current-carrying conductor is:",
+      "op_1": "Zero",
+      "op_2": "Constant",
+      "op_3": "Inversely proportional to current",
+      "op_4": "Directly proportional to current",
+      "ans": "Directly proportional to current"
     },
     {
-      "question": "What is the unit of magnetic field strength?",
-      "options": [
-        "Tesla",
-        "Newton",
-        "Ampere",
-        "Volt"
-      ],
-      "answer": "Tesla",
-      "difficulty": "easy"
+      "question": "The direction of the magnetic field at the center of a current-carrying circular coil is given by:",
+      "op_1": "Fleming’s left-hand rule",
+      "op_2": "Right-hand thumb rule",
+      "op_3": "Cork screw rule",
+      "op_4": "Fleming’s right-hand rule",
+      "ans": "Right-hand thumb rule"
     },
     {
-      "question": "What happens to the magnetic field when the current in the conductor is increased?",
-      "options": [
-        "It decreases",
-        "It remains the same",
-        "It increases",
-        "It becomes zero"
-      ],
-      "answer": "It increases",
-      "difficulty": "easy"
+      "question": "The magnetic field lines inside a solenoid are:",
+      "op_1": "Converging",
+      "op_2": "Diverging",
+      "op_3": "Parallel and uniform",
+      "op_4": "Irregular",
+      "ans": "Parallel and uniform"
+    },
+    {
+      "question": "Who discovered the magnetic effect of electric current?",
+      "op_1": "Faraday",
+      "op_2": "Oersted",
+      "op_3": "Ampere",
+      "op_4": "Henry",
+      "ans": "Oersted"
+    },
+    {
+      "question": "Which instrument uses the principle of the magnetic effect of current?",
+      "op_1": "Ammeter",
+      "op_2": "Voltmeter",
+      "op_3": "Galvanometer",
+      "op_4": "All of these",
+      "ans": "All of these"
+    },
+    {
+      "question": "The strength of the magnetic field around a current-carrying wire depends on:",
+      "op_1": "Only on length of wire",
+      "op_2": "Only on material of wire",
+      "op_3": "Current and distance",
+      "op_4": "Temperature only",
+      "ans": "Current and distance"
+    },
+    {
+      "question": "What is the shape of magnetic field lines around a straight conductor carrying current?",
+      "op_1": "Straight lines",
+      "op_2": "Concentric circles",
+      "op_3": "Elliptical",
+      "op_4": "Random curves",
+      "ans": "Concentric circles"
+    },
+    {
+      "question": "An electromagnet is made by winding wire on:",
+      "op_1": "Copper rod",
+      "op_2": "Wooden stick",
+      "op_3": "Plastic tube",
+      "op_4": "Soft iron core",
+      "ans": "Soft iron core"
+    },
+    {
+      "question": "Which rule helps to find the direction of current induced in a conductor?",
+      "op_1": "Right-hand thumb rule",
+      "op_2": "Left-hand thumb rule",
+      "op_3": "Fleming’s right-hand rule",
+      "op_4": "Fleming’s left-hand rule",
+      "ans": "Fleming’s right-hand rule"
+    },
+    {
+      "question": "The function of brushes in an electric motor is:",
+      "op_1": "To insulate coil",
+      "op_2": "To change direction of current",
+      "op_3": "To reverse field lines",
+      "op_4": "To reduce heat loss",
+      "ans": "To change direction of current"
+    },
+    {
+      "question": "What is the SI unit of magnetic field?",
+      "op_1": "Tesla",
+      "op_2": "Newton",
+      "op_3": "Weber",
+      "op_4": "Henry",
+      "ans": "Tesla"
+    },
+    {
+      "question": "The earth’s magnetic field is due to:",
+      "op_1": "Large magnet inside earth",
+      "op_2": "Electric currents in molten iron in core",
+      "op_3": "Sunlight",
+      "op_4": "Rotation of moon",
+      "ans": "Electric currents in molten iron in core"
+    },
+    {
+      "question": "The magnetic field produced by a solenoid is similar to:",
+      "op_1": "A bar magnet",
+      "op_2": "A straight wire",
+      "op_3": "A horseshoe magnet",
+      "op_4": "A compass",
+      "ans": "A bar magnet"
+    },
+    {
+      "question": "The south pole of a freely suspended magnet points towards:",
+      "op_1": "North pole of Earth",
+      "op_2": "South pole of Earth",
+      "op_3": "East",
+      "op_4": "West",
+      "ans": "North pole of Earth"
+    },
+    {
+      "question": "Electromagnets are preferred over permanent magnets because:",
+      "op_1": "They are weaker",
+      "op_2": "They cannot be controlled",
+      "op_3": "They can be switched on and off",
+      "op_4": "They are smaller in size",
+      "ans": "They can be switched on and off"
     }
   ]
 }

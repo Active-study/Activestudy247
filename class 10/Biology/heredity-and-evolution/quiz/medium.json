@@ -1,19 +1,124 @@
 {
-  "quiz": [
+  "data": [
     {
-      "question": "What is heredity?",
-      "options": ["Transmission of traits from parents to offspring", "Change in traits over time", "Study of genes", "None of the above"],
-      "answer": "Transmission of traits from parents to offspring"
+      "question": "If a pure tall pea plant (TT) is crossed with a pure dwarf pea plant (tt), the ratio of tall to dwarf plants in the F1 generation will be:",
+      "op_1": "1:1",
+      "op_2": "2:1",
+      "op_3": "3:1",
+      "op_4": "All tall",
+      "ans": "All tall"
     },
     {
-      "question": "What is the basic unit of heredity?",
-      "options": ["Chromosome", "Gene", "DNA", "RNA"],
-      "answer": "Gene"
+      "question": "In a cross between two heterozygous tall pea plants (Tt × Tt), the expected ratio of tall to dwarf plants in the F2 generation is:",
+      "op_1": "3:1",
+      "op_2": "1:1",
+      "op_3": "2:1",
+      "op_4": "All tall",
+      "ans": "3:1"
     },
     {
-      "question": "Who is known as the father of genetics?",
-      "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "James Watson"],
-      "answer": "Gregor Mendel"
+      "question": "If a woman has blood group A and a man has blood group B, the possible blood groups of their children can be:",
+      "op_1": "Only A or B",
+      "op_2": "Only AB",
+      "op_3": "A, B, AB or O",
+      "op_4": "Only O",
+      "ans": "A, B, AB or O"
+    },
+    {
+      "question": "Which of the following is a recessive character in pea plants?",
+      "op_1": "Tall plant",
+      "op_2": "Yellow seed",
+      "op_3": "Wrinkled seed",
+      "op_4": "Round seed",
+      "ans": "Wrinkled seed"
+    },
+    {
+      "question": "Who proposed the theory of inheritance of acquired characters?",
+      "op_1": "Darwin",
+      "op_2": "Mendel",
+      "op_3": "Lamarck",
+      "op_4": "Wallace",
+      "ans": "Lamarck"
+    },
+    {
+      "question": "The sex of a child is determined by:",
+      "op_1": "Mother’s egg",
+      "op_2": "Father’s sperm",
+      "op_3": "Both egg and sperm",
+      "op_4": "Placenta",
+      "ans": "Father’s sperm"
+    },
+    {
+      "question": "Which organ is homologous to the wing of a bat?",
+      "op_1": "Wing of butterfly",
+      "op_2": "Flipper of whale",
+      "op_3": "Wing of mosquito",
+      "op_4": "Antenna of insect",
+      "ans": "Flipper of whale"
+    },
+    {
+      "question": "Which one of the following is an example of analogous organs?",
+      "op_1": "Forelimb of frog and forelimb of lizard",
+      "op_2": "Wings of butterfly and wings of bat",
+      "op_3": "Flippers of penguin and flippers of dolphin",
+      "op_4": "Leaf spines and tendrils",
+      "ans": "Wings of butterfly and wings of bat"
+    },
+    {
+      "question": "Which blood group is called the universal donor?",
+      "op_1": "A",
+      "op_2": "B",
+      "op_3": "O",
+      "op_4": "AB",
+      "ans": "O"
+    },
+    {
+      "question": "Which of the following evidences is NOT used for evolution?",
+      "op_1": "Fossils",
+      "op_2": "Homologous organs",
+      "op_3": "Analogous organs",
+      "op_4": "Mode of nutrition",
+      "ans": "Mode of nutrition"
+    },
+    {
+      "question": "The expression of only one parental trait in F1 generation and appearance of both in F2 generation is explained by:",
+      "op_1": "Law of segregation",
+      "op_2": "Law of dominance",
+      "op_3": "Law of independent assortment",
+      "op_4": "Law of variation",
+      "ans": "Law of dominance"
+    },
+    {
+      "question": "Which of the following is an example of vestigial organs in humans?",
+      "op_1": "Ear muscles",
+      "op_2": "Kidneys",
+      "op_3": "Heart",
+      "op_4": "Liver",
+      "ans": "Ear muscles"
+    },
+    {
+      "question": "The hereditary information is present in:",
+      "op_1": "Cytoplasm",
+      "op_2": "Mitochondria",
+      "op_3": "Genes",
+      "op_4": "Cell membrane",
+      "ans": "Genes"
+    },
+    {
+      "question": "The scientific name of human being is:",
+      "op_1": "Homo erectus",
+      "op_2": "Homo habilis",
+      "op_3": "Homo sapiens",
+      "op_4": "Australopithecus",
+      "ans": "Homo sapiens"
+    },
+    {
+      "question": "A zygote having XX chromosome develops into:",
+      "op_1": "Male",
+      "op_2": "Female",
+      "op_3": "Twin",
+      "op_4": "Hermaphrodite",
+      "ans": "Female"
     }
   ]
 }

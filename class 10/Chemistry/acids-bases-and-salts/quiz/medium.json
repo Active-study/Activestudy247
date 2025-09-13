@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the pH range of acids?",
-      "options": [
-        "0-7",
-        "7-14",
-        "7",
-        "14"
-      ],
-      "answer": "0-7",
-      "difficulty": "medium"
+      "question": "Which of the following acids is used in car batteries?",
+      "op_1": "Nitric acid",
+      "op_2": "Sulphuric acid",
+      "op_3": "Hydrochloric acid",
+      "op_4": "Carbonic acid",
+      "ans": "Sulphuric acid"
     },
     {
-      "question": "What is the chemical formula for hydrochloric acid?",
-      "options": [
-        "HCl",
-        "H2SO4",
-        "NaOH",
-        "CH3COOH"
-      ],
-      "answer": "HCl",
-      "difficulty": "medium"
+      "question": "Which property of bases makes them feel soapy to touch?",
+      "op_1": "They turn litmus blue",
+      "op_2": "They neutralize acids",
+      "op_3": "They react with oils to form soap",
+      "op_4": "They are bitter in taste",
+      "ans": "They react with oils to form soap"
     },
     {
-      "question": "Which of the following is a strong acid?",
-      "options": [
-        "Acetic acid",
-        "Citric acid",
-        "Sulfuric acid",
-        "Carbonic acid"
-      ],
-      "answer": "Sulfuric acid",
-      "difficulty": "medium"
+      "question": "Which salt is used in the manufacture of glass?",
+      "op_1": "Washing soda",
+      "op_2": "Baking soda",
+      "op_3": "Plaster of Paris",
+      "op_4": "Common salt",
+      "ans": "Washing soda"
+    },
+    {
+      "question": "Bleaching powder releases which gas on reaction with dilute acids?",
+      "op_1": "Oxygen",
+      "op_2": "Hydrogen",
+      "op_3": "Chlorine",
+      "op_4": "Carbon dioxide",
+      "ans": "Chlorine"
+    },
+    {
+      "question": "Which of the following is an amphoteric oxide?",
+      "op_1": "ZnO",
+      "op_2": "Na₂O",
+      "op_3": "CO₂",
+      "op_4": "SO₃",
+      "ans": "ZnO"
+    },
+    {
+      "question": "Which of the following salts is used in fire extinguishers?",
+      "op_1": "Washing soda",
+      "op_2": "Baking soda",
+      "op_3": "Common salt",
+      "op_4": "Plaster of Paris",
+      "ans": "Baking soda"
+    },
+    {
+      "question": "Which product is formed when plaster of Paris is mixed with water?",
+      "op_1": "Gypsum",
+      "op_2": "Caustic soda",
+      "op_3": "Quick lime",
+      "op_4": "Bleaching powder",
+      "ans": "Gypsum"
+    },
+    {
+      "question": "Which acid is produced in the stomach that helps in digestion?",
+      "op_1": "Sulphuric acid",
+      "op_2": "Hydrochloric acid",
+      "op_3": "Nitric acid",
+      "op_4": "Carbonic acid",
+      "ans": "Hydrochloric acid"
+    },
+    {
+      "question": "What is the chemical name of bleaching powder?",
+      "op_1": "Calcium carbonate",
+      "op_2": "Calcium hypochlorite",
+      "op_3": "Calcium oxychloride",
+      "op_4": "Calcium hydroxide",
+      "ans": "Calcium oxychloride"
+    },
+    {
+      "question": "Which of the following solutions will have pH > 7?",
+      "op_1": "Lemon juice",
+      "op_2": "Milk of magnesia",
+      "op_3": "Vinegar",
+      "op_4": "Stomach acid",
+      "ans": "Milk of magnesia"
+    },
+    {
+      "question": "Which salt is used for making POP?",
+      "op_1": "CaSO₄·1/2H₂O",
+      "op_2": "CaCO₃",
+      "op_3": "Na₂CO₃·10H₂O",
+      "op_4": "NaCl",
+      "ans": "CaSO₄·1/2H₂O"
+    },
+    {
+      "question": "Common salt is obtained from seawater by:",
+      "op_1": "Filtration",
+      "op_2": "Distillation",
+      "op_3": "Evaporation",
+      "op_4": "Crystallisation",
+      "ans": "Evaporation"
+    },
+    {
+      "question": "Which of the following indicators is red in acidic medium and yellow in basic medium?",
+      "op_1": "Litmus",
+      "op_2": "Methyl orange",
+      "op_3": "Phenolphthalein",
+      "op_4": "Turmeric",
+      "ans": "Methyl orange"
+    },
+    {
+      "question": "Which salt is used in cold packs for sports injuries?",
+      "op_1": "NaCl",
+      "op_2": "NH₄Cl",
+      "op_3": "KNO₃",
+      "op_4": "NaNO₃",
+      "ans": "NH₄Cl"
+    },
+    {
+      "question": "Which acid is used for making pickles and vinegar?",
+      "op_1": "Citric acid",
+      "op_2": "Acetic acid",
+      "op_3": "Formic acid",
+      "op_4": "Lactic acid",
+      "ans": "Acetic acid"
     }
   ]
 }

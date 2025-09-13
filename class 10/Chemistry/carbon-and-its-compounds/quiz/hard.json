@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the general formula for alkanes?",
-      "options": {
-        "A": "C_nH_(2n+2)",
-        "B": "C_nH_(2n)",
-        "C": "C_nH_(2n-2)",
-        "D": "C_nH_(2n+1)"
-      },
-      "answer": "A",
-      "difficulty": "hard"
+      "question": "Which homologous series has the general formula CnH2n?",
+      "op_1": "Alkanes",
+      "op_2": "Alkenes",
+      "op_3": "Alkynes",
+      "op_4": "Alcohols",
+      "ans": "Alkenes"
     },
     {
-      "question": "Which of the following is a property of carbon compounds?",
-      "options": {
-        "A": "They are generally soluble in water.",
-        "B": "They have high melting and boiling points.",
-        "C": "They can form long chains and rings.",
-        "D": "They are ionic in nature."
-      },
-      "answer": "C",
-      "difficulty": "hard"
+      "question": "Which compound is obtained when ethanol is oxidised with alkaline KMnO4?",
+      "op_1": "Methanoic acid",
+      "op_2": "Ethanoic acid",
+      "op_3": "Propanol",
+      "op_4": "Acetaldehyde",
+      "ans": "Ethanoic acid"
     },
     {
-      "question": "What type of bond is formed between carbon atoms in a diamond?",
-      "options": {
-        "A": "Ionic bond",
-        "B": "Covalent bond",
-        "C": "Metallic bond",
-        "D": "Hydrogen bond"
-      },
-      "answer": "B",
-      "difficulty": "hard"
+      "question": "The IUPAC name of CH3–CH2–COOH is:",
+      "op_1": "Formic acid",
+      "op_2": "Acetic acid",
+      "op_3": "Propanoic acid",
+      "op_4": "Butanoic acid",
+      "ans": "Propanoic acid"
+    },
+    {
+      "question": "The molecular formula C2H2 represents:",
+      "op_1": "Ethane",
+      "op_2": "Ethene",
+      "op_3": "Ethyne",
+      "op_4": "Methane",
+      "ans": "Ethyne"
+    },
+    {
+      "question": "Which of the following is an aromatic hydrocarbon?",
+      "op_1": "Methane",
+      "op_2": "Benzene",
+      "op_3": "Ethanol",
+      "op_4": "Acetylene",
+      "ans": "Benzene"
+    },
+    {
+      "question": "Which product is formed when soap is treated with CaCl2 solution?",
+      "op_1": "Scum",
+      "op_2": "Foam",
+      "op_3": "Precipitate of NaCl",
+      "op_4": "Water",
+      "ans": "Scum"
+    },
+    {
+      "question": "Which process converts vegetable oils into solid fats?",
+      "op_1": "Hydrogenation",
+      "op_2": "Saponification",
+      "op_3": "Esterification",
+      "op_4": "Fermentation",
+      "ans": "Hydrogenation"
+    },
+    {
+      "question": "The product of oxidation of ethanol using alkaline KMnO4 is:",
+      "op_1": "Methanol",
+      "op_2": "Formic acid",
+      "op_3": "Acetic acid",
+      "op_4": "Butanoic acid",
+      "ans": "Acetic acid"
+    },
+    {
+      "question": "Which of the following shows chain isomerism?",
+      "op_1": "C3H8",
+      "op_2": "C4H10",
+      "op_3": "CH4",
+      "op_4": "C2H6",
+      "ans": "C4H10"
+    },
+    {
+      "question": "Which compound is used as a solvent in dry cleaning?",
+      "op_1": "Ethanoic acid",
+      "op_2": "Benzene",
+      "op_3": "Methanol",
+      "op_4": "Ethanol",
+      "ans": "Benzene"
+    },
+    {
+      "question": "Which compound gives brisk effervescence with sodium carbonate?",
+      "op_1": "Methanol",
+      "op_2": "Ethanol",
+      "op_3": "Ethanoic acid",
+      "op_4": "Propanol",
+      "ans": "Ethanoic acid"
+    },
+    {
+      "question": "Which hydrocarbon produces soot on burning?",
+      "op_1": "Saturated hydrocarbons",
+      "op_2": "Unsaturated hydrocarbons",
+      "op_3": "Alcohols",
+      "op_4": "Carboxylic acids",
+      "ans": "Unsaturated hydrocarbons"
+    },
+    {
+      "question": "Which compound is called wood spirit?",
+      "op_1": "Ethanol",
+      "op_2": "Methanol",
+      "op_3": "Propanol",
+      "op_4": "Butanol",
+      "ans": "Methanol"
+    },
+    {
+      "question": "Which is the first member of the homologous series of carboxylic acids?",
+      "op_1": "Acetic acid",
+      "op_2": "Formic acid",
+      "op_3": "Oxalic acid",
+      "op_4": "Citric acid",
+      "ans": "Formic acid"
+    },
+    {
+      "question": "The reaction between an ester and sodium hydroxide gives:",
+      "op_1": "Soap and alcohol",
+      "op_2": "Acid and alcohol",
+      "op_3": "Salt and water",
+      "op_4": "Ketone and water",
+      "ans": "Soap and alcohol"
     }
   ]
 }

@@ -1,19 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the unit of electric current?",
-      "options": ["Volt", "Ampere", "Ohm", "Watt"],
-      "answer": "Ampere"
+      "question": "According to Ohm's law, the current flowing through a conductor is directly proportional to:",
+      "op_1": "Voltage",
+      "op_2": "Resistance",
+      "op_3": "Temperature",
+      "op_4": "None of these",
+      "ans": "Voltage"
     },
     {
-      "question": "What is the formula for calculating electrical power?",
-      "options": ["P = VI", "P = I^2R", "P = V^2/R", "All of the above"],
-      "answer": "All of the above"
+      "question": "What is the unit of resistance?",
+      "op_1": "Ohm",
+      "op_2": "Ampere",
+      "op_3": "Volt",
+      "op_4": "Watt",
+      "ans": "Ohm"
     },
     {
-      "question": "What does a circuit breaker do?",
-      "options": ["Increases current", "Decreases voltage", "Protects against overload", "Stores energy"],
-      "answer": "Protects against overload"
+      "question": "Which symbol is used to represent a resistor in circuit diagrams?",
+      "op_1": "Ω",
+      "op_2": "V",
+      "op_3": "I",
+      "op_4": "Δ",
+      "ans": "Ω"
+    },
+    {
+      "question": "What is the primary function of a fuse in an electrical circuit?",
+      "op_1": "Protect against overcurrent",
+      "op_2": "Increase voltage",
+      "op_3": "Decrease resistance",
+      "op_4": "Store energy",
+      "ans": "Protect against overcurrent"
+    },
+    {
+      "question": "If the voltage in a circuit is increased while resistance remains constant, the current will:",
+      "op_1": "Increase",
+      "op_2": "Decrease",
+      "op_3": "Remain the same",
+      "op_4": "Reverse direction",
+      "ans": "Increase"
+    },
+    {
+      "question": "Which device is used to measure the potential difference in a circuit?",
+      "op_1": "Voltmeter",
+      "op_2": "Ammeter",
+      "op_3": "Ohmmeter",
+      "op_4": "Multimeter",
+      "ans": "Voltmeter"
+    },
+    {
+      "question": "The SI unit of electric current is:",
+      "op_1": "Ampere",
+      "op_2": "Volt",
+      "op_3": "Ohm",
+      "op_4": "Watt",
+      "ans": "Ampere"
+    },
+    {
+      "question": "A closed circuit allows:",
+      "op_1": "Current to flow",
+      "op_2": "Voltage to drop",
+      "op_3": "Energy to be stored",
+      "op_4": "No current",
+      "ans": "Current to flow"
+    },
+    {
+      "question": "Which law is mathematically expressed as V = IR?",
+      "op_1": "Ohm's law",
+      "op_2": "Kirchhoff's law",
+      "op_3": "Faraday's law",
+      "op_4": "Lenz's law",
+      "ans": "Ohm's law"
+    },
+    {
+      "question": "The property of a material that defines its resistance is known as:",
+      "op_1": "Resistivity",
+      "op_2": "Conductivity",
+      "op_3": "Permittivity",
+      "op_4": "Permeability",
+      "ans": "Resistivity"
+    },
+    {
+      "question": "Electrical energy from a battery can be converted into which of the following forms?",
+      "op_1": "Light, heat, and motion",
+      "op_2": "Only light",
+      "op_3": "Only heat",
+      "op_4": "Only sound",
+      "ans": "Light, heat, and motion"
+    },
+    {
+      "question": "Which component in a circuit is primarily responsible for limiting current?",
+      "op_1": "Resistor",
+      "op_2": "Capacitor",
+      "op_3": "Inductor",
+      "op_4": "Diode",
+      "ans": "Resistor"
+    },
+    {
+      "question": "The flow of electric charge is commonly known as:",
+      "op_1": "Current",
+      "op_2": "Resistance",
+      "op_3": "Voltage",
+      "op_4": "Power",
+      "ans": "Current"
+    },
+    {
+      "question": "Which material is widely used in electrical wiring due to its high conductivity?",
+      "op_1": "Copper",
+      "op_2": "Rubber",
+      "op_3": "Glass",
+      "op_4": "Plastic",
+      "ans": "Copper"
+    },
+    {
+      "question": "An instrument used to measure current in a circuit is called a:",
+      "op_1": "Ammeter",
+      "op_2": "Voltmeter",
+      "op_3": "Ohmmeter",
+      "op_4": "Thermometer",
+      "ans": "Ammeter"
     }
   ]
 }

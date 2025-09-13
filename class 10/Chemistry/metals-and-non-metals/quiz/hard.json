@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the general electronic configuration of metals?",
-      "options": [
-        "a) ns²",
-        "b) ns²np⁶",
-        "c) ns²np⁴",
-        "d) ns²np¹"
-      ],
-      "answer": "a"
+      "question": "An element 'A' burns with a golden flame in air. It reacts with another element 'B', atomic number 17, to give a product 'C'. An aqueous solution of 'C' on electrolysis gives a compound 'D' and liberates hydrogen. Identify 'A', 'B', 'C', and 'D'.",
+      "op_1": "A=Na, B=Cl, C=NaCl, D=NaOH",
+      "op_2": "A=Mg, B=O, C=MgO, D=Mg(OH)₂",
+      "op_3": "A=Cu, B=S, C=CuS, D=CuSO₄",
+      "op_4": "A=Zn, B=N, C=Zn₃N₂, D=Zn(OH)₂",
+      "ans": "A=Na, B=Cl, C=NaCl, D=NaOH"
     },
     {
-      "question": "Which of the following is a property of non-metals?",
-      "options": [
-        "a) Good conductors of heat",
-        "b) Ductile",
-        "c) Brittle",
-        "d) Malleable"
-      ],
-      "answer": "c"
+      "question": "A metal 'M' does not liberate hydrogen from acids but reacts with oxygen to give a black colour product. Identify 'M' and the black product.",
+      "op_1": "M = Copper, Product = CuO",
+      "op_2": "M = Zinc, Product = ZnO",
+      "op_3": "M = Sodium, Product = Na₂O",
+      "op_4": "M = Aluminium, Product = Al₂O₃",
+      "ans": "M = Copper, Product = CuO"
     },
     {
-      "question": "What is the most reactive metal?",
-      "options": [
-        "a) Gold",
-        "b) Sodium",
-        "c) Iron",
-        "d) Copper"
-      ],
-      "answer": "b"
+      "question": "During the electrolytic refining of copper, what happens at the anode?",
+      "op_1": "Copper ions gain electrons and get deposited.",
+      "op_2": "Copper atoms lose electrons and go into the solution.",
+      "op_3": "Impurities dissolve in the electrolyte.",
+      "op_4": "Pure copper dissolves from the anode.",
+      "ans": "Copper atoms lose electrons and go into the solution."
+    },
+    {
+      "question": "Which of the following reactions is not feasible?",
+      "op_1": "Zn + FeSO₄ → ZnSO₄ + Fe",
+      "op_2": "Fe + CuSO₄ → FeSO₄ + Cu",
+      "op_3": "Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag",
+      "op_4": "Cu + FeSO₄ → CuSO₄ + Fe",
+      "ans": "Cu + FeSO₄ → CuSO₄ + Fe"
+    },
+    {
+      "question": "The composition of 'German Silver' is:",
+      "op_1": "Cu, Zn, Ni",
+      "op_2": "Cu, Zn, Sn",
+      "op_3": "Cu, Sn, Ni",
+      "op_4": "Cu, Al, Ni",
+      "ans": "Cu, Zn, Ni"
+    },
+    {
+      "question": "A non-metal 'X' exists in two forms Y and Z. Y is the hardest natural substance whereas Z is a good conductor of electricity. Identify X, Y and Z.",
+      "op_1": "X=Oxygen, Y=O₂, Z=O₃",
+      "op_2": "X=Phosphorus, Y=White P, Z=Red P",
+      "op_3": "X=Carbon, Y=Diamond, Z=Graphite",
+      "op_4": "X=Sulphur, Y=Rhombic S, Z=Monoclinic S",
+      "ans": "X=Carbon, Y=Diamond, Z=Graphite"
+    },
+    {
+      "question": "Why is the concentration of sulphide ores done by froth flotation process and not by hydraulic washing?",
+      "op_1": "Sulphide ores are light.",
+      "op_2": "Sulphide ores are insoluble in water.",
+      "op_3": "Sulphide ores are heavier than the gangue particles.",
+      "op_4": "Sulphide ores are lighter than the gangue particles.",
+      "ans": "Sulphide ores are lighter than the gangue particles."
+    },
+    {
+      "question": "In the thermite process, the reducing agent used for reducing metal oxide is:",
+      "op_1": "Carbon",
+      "op_2": "Carbon monoxide",
+      "op_3": "Aluminium",
+      "op_4": "Sodium",
+      "ans": "Aluminium"
+    },
+    {
+      "question": "Which of the following is not an ore of iron?",
+      "op_1": "Haematite",
+      "op_2": "Magnetite",
+      "op_3": "Siderite",
+      "op_4": "Calamine",
+      "ans": "Calamine"
+    },
+    {
+      "question": "The process of heating the concentrated sulphide ore in the presence of air to convert it into its oxide is called:",
+      "op_1": "Calcination",
+      "op_2": "Roasting",
+      "op_3": "Smelting",
+      "op_4": "Refining",
+      "ans": "Roasting"
+    },
+    {
+      "question": "Which of the following pairs of reactants will not evolve hydrogen gas?",
+      "op_1": "Copper + HCl",
+      "op_2": "Sodium + Ethanol",
+      "op_3": "Calcium + H₂O",
+      "op_4": "Iron + Steam",
+      "ans": "Copper + HCl"
+    },
+    {
+      "question": "An amphoteric oxide is:",
+      "op_1": "Na₂O",
+      "op_2": "SO₂",
+      "op_3": "Al₂O₃",
+      "op_4": "CaO",
+      "ans": "Al₂O₃"
+    },
+    {
+      "question": "Which of the following is the correct order of reactivity series? (Top to bottom: Most reactive to least)",
+      "op_1": "K, Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Ag, Au",
+      "op_2": "K, Ca, Na, Mg, Al, Zn, Fe, Pb, H, Cu, Ag, Au",
+      "op_3": "Au, Ag, Cu, H, Pb, Fe, Zn, Al, Mg, Ca, Na, K",
+      "op_4": "K, Na, Mg, Ca, Al, Zn, Fe, Pb, H, Cu, Ag, Au",
+      "ans": "K, Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Ag, Au"
+    },
+    {
+      "question": "What is the role of cryolite (Na₃AlF₆) in the extraction of aluminium?",
+      "op_1": "It reduces the melting point of alumina.",
+      "op_2": "It acts as a reducing agent.",
+      "op_3": "It increases the electrical conductivity.",
+      "op_4": "It removes impurities as slag.",
+      "ans": "It reduces the melting point of alumina."
+    },
+    {
+      "question": "A metal 'X' forms a salt XSO₄. The salt solution on treatment with sodium hydroxide gives a white precipitate which is insoluble in excess NaOH. The metal 'X' is:",
+      "op_1": "Zinc",
+      "op_2": "Aluminium",
+      "op_3": "Lead",
+      "op_4": "Magnesium",
+      "ans": "Lead"
     }
   ]
 }

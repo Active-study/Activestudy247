@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the modern periodic law?",
-      "options": [
-        "Properties of elements are a periodic function of their atomic numbers.",
-        "Properties of elements are a periodic function of their atomic masses.",
-        "Properties of elements are a periodic function of their densities.",
-        "Properties of elements are a periodic function of their volumes."
-      ],
-      "answer": "Properties of elements are a periodic function of their atomic numbers."
+      "question": "The atomic size of elements decreases across a period due to:",
+      "op_1": "Decrease in nuclear charge",
+      "op_2": "Increase in nuclear charge",
+      "op_3": "Decrease in shells",
+      "op_4": "Increase in atomic mass",
+      "ans": "Increase in nuclear charge"
     },
     {
-      "question": "Which of the following elements is a noble gas?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Argon",
-        "Hydrogen"
-      ],
-      "answer": "Argon"
+      "question": "Which element has the highest electronegativity?",
+      "op_1": "Oxygen",
+      "op_2": "Nitrogen",
+      "op_3": "Fluorine",
+      "op_4": "Chlorine",
+      "ans": "Fluorine"
     },
     {
-      "question": "What is the main characteristic of alkali metals?",
-      "options": [
-        "They are highly reactive and have one electron in their outermost shell.",
-        "They are non-reactive and have a full outer shell.",
-        "They are gases at room temperature.",
-        "They have high melting and boiling points."
-      ],
-      "answer": "They are highly reactive and have one electron in their outermost shell."
+      "question": "The alkali metals are placed in:",
+      "op_1": "Group 1",
+      "op_2": "Group 2",
+      "op_3": "Group 13",
+      "op_4": "Group 14",
+      "ans": "Group 1"
+    },
+    {
+      "question": "Which of the following is a metalloid?",
+      "op_1": "Carbon",
+      "op_2": "Silicon",
+      "op_3": "Oxygen",
+      "op_4": "Sodium",
+      "ans": "Silicon"
+    },
+    {
+      "question": "The first element of Group 17 is:",
+      "op_1": "Chlorine",
+      "op_2": "Bromine",
+      "op_3": "Fluorine",
+      "op_4": "Iodine",
+      "ans": "Fluorine"
+    },
+    {
+      "question": "Which element is placed in Period 3 and Group 16?",
+      "op_1": "Sulphur",
+      "op_2": "Oxygen",
+      "op_3": "Nitrogen",
+      "op_4": "Phosphorus",
+      "ans": "Sulphur"
+    },
+    {
+      "question": "The atomic number of Neon is:",
+      "op_1": "8",
+      "op_2": "10",
+      "op_3": "12",
+      "op_4": "14",
+      "ans": "10"
+    },
+    {
+      "question": "Which of the following elements has 2 shells and 3 valence electrons?",
+      "op_1": "Boron",
+      "op_2": "Carbon",
+      "op_3": "Nitrogen",
+      "op_4": "Lithium",
+      "ans": "Boron"
+    },
+    {
+      "question": "The element with atomic number 19 belongs to:",
+      "op_1": "Period 2, Group 1",
+      "op_2": "Period 4, Group 1",
+      "op_3": "Period 3, Group 2",
+      "op_4": "Period 2, Group 17",
+      "ans": "Period 4, Group 1"
+    },
+    {
+      "question": "What is the valency of chlorine?",
+      "op_1": "1",
+      "op_2": "2",
+      "op_3": "3",
+      "op_4": "4",
+      "ans": "1"
+    },
+    {
+      "question": "Which period contains 18 elements?",
+      "op_1": "2nd period",
+      "op_2": "3rd period",
+      "op_3": "4th period",
+      "op_4": "1st period",
+      "ans": "4th period"
+    },
+    {
+      "question": "The reactivity of alkali metals increases down the group because:",
+      "op_1": "Ionisation energy increases",
+      "op_2": "Ionisation energy decreases",
+      "op_3": "Electronegativity increases",
+      "op_4": "Atomic number decreases",
+      "ans": "Ionisation energy decreases"
+    },
+    {
+      "question": "The atomic size of alkali metals down the group:",
+      "op_1": "Increases",
+      "op_2": "Decreases",
+      "op_3": "Remains constant",
+      "op_4": "Fluctuates",
+      "ans": "Increases"
+    },
+    {
+      "question": "Which is more metallic: Sodium or Aluminium?",
+      "op_1": "Sodium",
+      "op_2": "Aluminium",
+      "op_3": "Both equal",
+      "op_4": "None",
+      "ans": "Sodium"
+    },
+    {
+      "question": "Which is the most reactive halogen?",
+      "op_1": "Chlorine",
+      "op_2": "Bromine",
+      "op_3": "Iodine",
+      "op_4": "Fluorine",
+      "ans": "Fluorine"
     }
   ]
 }

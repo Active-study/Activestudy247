@@ -1,22 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the unit of electric current?",
-      "options": ["Ampere", "Volt", "Ohm", "Watt"],
-      "answer": "Ampere",
-      "difficulty": "medium"
+      "question": "In a series circuit with resistors of 3Ω, 5Ω, and 7Ω connected to a 15V battery, what is the current through the circuit?",
+      "op_1": "1 A",
+      "op_2": "2 A",
+      "op_3": "3 A",
+      "op_4": "5 A",
+      "ans": "1 A"
     },
     {
-      "question": "What is the formula for calculating electrical power?",
-      "options": ["P = IV", "P = I^2R", "P = V^2/R", "All of the above"],
-      "answer": "All of the above",
-      "difficulty": "medium"
+      "question": "When two resistors of 4Ω and 6Ω are connected in parallel, what is the equivalent resistance?",
+      "op_1": "2.4Ω",
+      "op_2": "5Ω",
+      "op_3": "10Ω",
+      "op_4": "1Ω",
+      "ans": "2.4Ω"
     },
     {
-      "question": "What is the effect of increasing resistance in a circuit?",
-      "options": ["Increases current", "Decreases current", "No effect", "Increases voltage"],
-      "answer": "Decreases current",
-      "difficulty": "medium"
+      "question": "Kirchhoff's Current Law states that the algebraic sum of currents entering a junction equals that leaving it. If 2A enters and 3A leaves at a junction along with an unknown current, what is the unknown current?",
+      "op_1": "1 A",
+      "op_2": "-1 A",
+      "op_3": "5 A",
+      "op_4": "0 A",
+      "ans": "1 A"
+    },
+    {
+      "question": "A resistor of 8Ω is connected across a 12V battery. What is the power dissipated by the resistor?",
+      "op_1": "18 W",
+      "op_2": "16 W",
+      "op_3": "12 W",
+      "op_4": "24 W",
+      "ans": "18 W"
+    },
+    {
+      "question": "When two resistors are connected in series across a constant voltage source, the power dissipated by each resistor is proportional to:",
+      "op_1": "Their resistance",
+      "op_2": "The square of their resistance",
+      "op_3": "The inverse of their resistance",
+      "op_4": "The sum of their resistances",
+      "ans": "Their resistance"
+    },
+    {
+      "question": "A resistor of 5Ω dissipates 10W of power. What is the voltage across it?",
+      "op_1": "7.07 V",
+      "op_2": "5 V",
+      "op_3": "10 V",
+      "op_4": "2 V",
+      "ans": "7.07 V"
+    },
+    {
+      "question": "Which material is commonly used for electrical wiring due to its low resistivity?",
+      "op_1": "Copper",
+      "op_2": "Rubber",
+      "op_3": "Glass",
+      "op_4": "Plastic",
+      "ans": "Copper"
+    },
+    {
+      "question": "If the resistance of an electrical device doubles while the applied voltage remains constant, what happens to the current?",
+      "op_1": "It halves",
+      "op_2": "It doubles",
+      "op_3": "It remains the same",
+      "op_4": "It becomes zero",
+      "ans": "It halves"
+    },
+    {
+      "question": "When resistors are connected in parallel, the voltage across each resistor is:",
+      "op_1": "Equal",
+      "op_2": "Different",
+      "op_3": "Dependent on their resistance values",
+      "op_4": "Zero",
+      "ans": "Equal"
+    },
+    {
+      "question": "In a practical battery, what is the effect of internal resistance on the output voltage under load?",
+      "op_1": "It causes a voltage drop",
+      "op_2": "It increases the voltage",
+      "op_3": "It has no effect",
+      "op_4": "It reverses the polarity",
+      "ans": "It causes a voltage drop"
+    },
+    {
+      "question": "Which statement correctly distinguishes conductors from insulators?",
+      "op_1": "Conductors allow free electron flow while insulators do not",
+      "op_2": "Both conduct electricity equally",
+      "op_3": "Insulators have lower resistivity than conductors",
+      "op_4": "Only insulators follow Ohm's law",
+      "ans": "Conductors allow free electron flow while insulators do not"
+    },
+    {
+      "question": "Adding another battery in series to an existing battery in a circuit will:",
+      "op_1": "Increase the total electromotive force",
+      "op_2": "Decrease the total resistance",
+      "op_3": "Increase the internal resistance only",
+      "op_4": "Have no effect",
+      "ans": "Increase the total electromotive force"
+    },
+    {
+      "question": "How does the resistance of a metallic conductor change with increase in temperature?",
+      "op_1": "It increases",
+      "op_2": "It decreases",
+      "op_3": "It remains constant",
+      "op_4": "It first increases then decreases",
+      "ans": "It increases"
+    },
+    {
+      "question": "Ohm's law is most accurately applicable to:",
+      "op_1": "Ohmic conductors",
+      "op_2": "Non-ohmic conductors",
+      "op_3": "Semiconductors",
+      "op_4": "Superconductors",
+      "ans": "Ohmic conductors"
+    },
+    {
+      "question": "Which instrument is ideally assumed to have zero internal resistance when measuring current?",
+      "op_1": "Ammeter",
+      "op_2": "Voltmeter",
+      "op_3": "Ohmmeter",
+      "op_4": "Multimeter",
+      "ans": "Ammeter"
     }
   ]
 }

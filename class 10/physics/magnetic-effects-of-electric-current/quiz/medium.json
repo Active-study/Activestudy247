@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the direction of the magnetic field lines around a current-carrying conductor?",
-      "options": [
-        "From North to South",
-        "From South to North",
-        "Circular around the conductor",
-        "None of the above"
-      ],
-      "answer": "Circular around the conductor",
-      "difficulty": "medium"
+      "question": "If the number of turns of a solenoid is doubled, its magnetic field strength:",
+      "op_1": "Becomes half",
+      "op_2": "Remains the same",
+      "op_3": "Becomes double",
+      "op_4": "Becomes four times",
+      "ans": "Becomes double"
     },
     {
-      "question": "What is the effect of increasing the current in a solenoid?",
-      "options": [
-        "Increases the magnetic field strength",
-        "Decreases the magnetic field strength",
-        "No effect on the magnetic field strength",
-        "Reverses the magnetic field direction"
-      ],
-      "answer": "Increases the magnetic field strength",
-      "difficulty": "medium"
+      "question": "The magnetic field at the center of a circular coil carrying current is:",
+      "op_1": "Proportional to radius",
+      "op_2": "Inversely proportional to radius",
+      "op_3": "Independent of radius",
+      "op_4": "Proportional to radius squared",
+      "ans": "Inversely proportional to radius"
     },
     {
-      "question": "Which of the following devices uses the principle of electromagnetic induction?",
-      "options": [
-        "Electric motor",
-        "Transformer",
-        "Battery",
-        "Resistor"
-      ],
-      "answer": "Transformer",
-      "difficulty": "medium"
+      "question": "Fleming’s left-hand rule is used to find:",
+      "op_1": "Direction of current",
+      "op_2": "Direction of induced emf",
+      "op_3": "Direction of magnetic field",
+      "op_4": "Direction of force on a conductor",
+      "ans": "Direction of force on a conductor"
+    },
+    {
+      "question": "An electric motor converts:",
+      "op_1": "Electrical energy into chemical energy",
+      "op_2": "Electrical energy into mechanical energy",
+      "op_3": "Mechanical energy into electrical energy",
+      "op_4": "None of these",
+      "ans": "Electrical energy into mechanical energy"
+    },
+    {
+      "question": "What is the role of split rings in an electric motor?",
+      "op_1": "They increase current",
+      "op_2": "They reverse current in coil",
+      "op_3": "They reduce resistance",
+      "op_4": "They reduce heat loss",
+      "ans": "They reverse current in coil"
+    },
+    {
+      "question": "The strength of an electromagnet can be increased by:",
+      "op_1": "Decreasing current",
+      "op_2": "Increasing current and number of turns",
+      "op_3": "Removing soft iron core",
+      "op_4": "Using a copper rod",
+      "ans": "Increasing current and number of turns"
+    },
+    {
+      "question": "The direction of magnetic field lines inside a solenoid is:",
+      "op_1": "From south to north",
+      "op_2": "From north to south",
+      "op_3": "Circular",
+      "op_4": "Random",
+      "ans": "From south to north"
+    },
+    {
+      "question": "A current-carrying conductor experiences maximum force in a magnetic field when:",
+      "op_1": "It is parallel to the field",
+      "op_2": "It is perpendicular to the field",
+      "op_3": "It is at 45° to the field",
+      "op_4": "It is outside the field",
+      "ans": "It is perpendicular to the field"
+    },
+    {
+      "question": "Which of the following devices works on electromagnetic induction?",
+      "op_1": "Electric motor",
+      "op_2": "Electric generator",
+      "op_3": "Electromagnet",
+      "op_4": "Battery",
+      "ans": "Electric generator"
+    },
+    {
+      "question": "The pattern of magnetic field lines due to a solenoid resembles:",
+      "op_1": "Straight wire",
+      "op_2": "Bar magnet",
+      "op_3": "Electrostatics",
+      "op_4": "Circular coil",
+      "ans": "Bar magnet"
+    },
+    {
+      "question": "If the direction of current in a coil is reversed, then:",
+      "op_1": "Polarity remains same",
+      "op_2": "Polarity reverses",
+      "op_3": "Field disappears",
+      "op_4": "Field doubles",
+      "ans": "Polarity reverses"
+    },
+    {
+      "question": "The phenomenon of production of induced current in a coil placed near a current-carrying conductor is:",
+      "op_1": "Heating effect",
+      "op_2": "Electromagnetic induction",
+      "op_3": "Motor effect",
+      "op_4": "Chemical effect",
+      "ans": "Electromagnetic induction"
+    },
+    {
+      "question": "The north pole of earth is actually:",
+      "op_1": "Magnetic north pole",
+      "op_2": "Magnetic south pole",
+      "op_3": "Neutral",
+      "op_4": "Both north and south",
+      "ans": "Magnetic south pole"
+    },
+    {
+      "question": "What will happen if a soft iron core of an electromagnet is replaced with a wooden core?",
+      "op_1": "Magnetic field increases",
+      "op_2": "Magnetic field decreases",
+      "op_3": "No change",
+      "op_4": "Magnetic field reverses",
+      "ans": "Magnetic field decreases"
+    },
+    {
+      "question": "Which of the following is not based on the magnetic effect of current?",
+      "op_1": "Electric bell",
+      "op_2": "Generator",
+      "op_3": "Transformer",
+      "op_4": "Solar cell",
+      "ans": "Solar cell"
     }
   ]
 }

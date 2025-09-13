@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is heredity?",
-      "options": [
-        "The passing of traits from parents to offspring",
-        "The study of genes",
-        "The process of evolution",
-        "None of the above"
-      ],
-      "answer": "The passing of traits from parents to offspring"
+      "question": "Which of the following is the unit of heredity?",
+      "op_1": "Chromosome",
+      "op_2": "DNA",
+      "op_3": "Gene",
+      "op_4": "Protein",
+      "ans": "Gene"
     },
     {
-      "question": "Which of the following is a genetic disorder?",
-      "options": [
-        "Down syndrome",
-        "Flu",
-        "Cold",
-        "None of the above"
-      ],
-      "answer": "Down syndrome"
+      "question": "Mendel is known as the father of:",
+      "op_1": "Genetics",
+      "op_2": "Biology",
+      "op_3": "Evolution",
+      "op_4": "Ecology",
+      "ans": "Genetics"
     },
     {
-      "question": "What is the role of DNA?",
-      "options": [
-        "To store genetic information",
-        "To provide energy",
-        "To transport nutrients",
-        "None of the above"
-      ],
-      "answer": "To store genetic information"
+      "question": "Which term is used for the visible characteristics of an organism?",
+      "op_1": "Genotype",
+      "op_2": "Phenotype",
+      "op_3": "Allele",
+      "op_4": "Trait",
+      "ans": "Phenotype"
+    },
+    {
+      "question": "What is the sex chromosome combination in a human female?",
+      "op_1": "XX",
+      "op_2": "XY",
+      "op_3": "YY",
+      "op_4": "XO",
+      "ans": "XX"
+    },
+    {
+      "question": "The offspring formed by asexual reproduction are called:",
+      "op_1": "Clones",
+      "op_2": "Hybrids",
+      "op_3": "Mutants",
+      "op_4": "Variations",
+      "ans": "Clones"
+    },
+    {
+      "question": "Which plant did Mendel use for his experiments?",
+      "op_1": "Maize",
+      "op_2": "Pea plant",
+      "op_3": "Wheat",
+      "op_4": "Rice",
+      "ans": "Pea plant"
+    },
+    {
+      "question": "Which of the following determines the sex of a child in humans?",
+      "op_1": "Egg",
+      "op_2": "Sperm",
+      "op_3": "Placenta",
+      "op_4": "Hormones",
+      "ans": "Sperm"
+    },
+    {
+      "question": "Which of the following is a dominant trait in pea plants?",
+      "op_1": "Green seed",
+      "op_2": "Yellow seed",
+      "op_3": "Wrinkled seed",
+      "op_4": "White flower",
+      "ans": "Yellow seed"
+    },
+    {
+      "question": "Which of the following is the carrier of heredity?",
+      "op_1": "mRNA",
+      "op_2": "DNA",
+      "op_3": "Enzyme",
+      "op_4": "Protein",
+      "ans": "DNA"
+    },
+    {
+      "question": "Which term is used for alternate forms of a gene?",
+      "op_1": "Chromosome",
+      "op_2": "Trait",
+      "op_3": "Allele",
+      "op_4": "Phenotype",
+      "ans": "Allele"
+    },
+    {
+      "question": "The concept of natural selection was given by:",
+      "op_1": "Gregor Mendel",
+      "op_2": "Charles Darwin",
+      "op_3": "Lamarck",
+      "op_4": "Wallace",
+      "ans": "Charles Darwin"
+    },
+    {
+      "question": "The first generation obtained from a cross is called:",
+      "op_1": "F1 generation",
+      "op_2": "F2 generation",
+      "op_3": "P generation",
+      "op_4": "Hybrid generation",
+      "ans": "F1 generation"
+    },
+    {
+      "question": "Which of the following is a vestigial organ in humans?",
+      "op_1": "Liver",
+      "op_2": "Appendix",
+      "op_3": "Kidney",
+      "op_4": "Pancreas",
+      "ans": "Appendix"
+    },
+    {
+      "question": "Variation is more prominent in:",
+      "op_1": "Asexual reproduction",
+      "op_2": "Sexual reproduction",
+      "op_3": "Binary fission",
+      "op_4": "Budding",
+      "ans": "Sexual reproduction"
+    },
+    {
+      "question": "Which of the following is an example of acquired traits?",
+      "op_1": "Eye color",
+      "op_2": "Size of leaf",
+      "op_3": "Muscular body of a wrestler",
+      "op_4": "Shape of seed",
+      "ans": "Muscular body of a wrestler"
     }
   ]
 }

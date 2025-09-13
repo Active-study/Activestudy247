@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the general formula of alkanes?",
-      "options": {
-        "A": "C_nH_{2n+2}",
-        "B": "C_nH_{2n}",
-        "C": "C_nH_{2n-2}",
-        "D": "C_nH_{n}"
-      },
-      "answer": "A",
-      "difficulty": "medium"
+      "question": "Which of the following is an unsaturated hydrocarbon?",
+      "op_1": "Methane",
+      "op_2": "Ethane",
+      "op_3": "Ethene",
+      "op_4": "Propane",
+      "ans": "Ethene"
     },
     {
-      "question": "Which of the following is a property of carbon?",
-      "options": {
-        "A": "It can form four covalent bonds.",
-        "B": "It is a metal.",
-        "C": "It is a gas at room temperature.",
-        "D": "It cannot form long chains."
-      },
-      "answer": "A",
-      "difficulty": "medium"
+      "question": "The reaction of ethene with bromine water gives:",
+      "op_1": "Colorless solution",
+      "op_2": "Brown solution",
+      "op_3": "White precipitate",
+      "op_4": "Effervescence",
+      "ans": "Colorless solution"
     },
     {
-      "question": "What type of bond is formed between carbon atoms in a diamond?",
-      "options": {
-        "A": "Ionic bond",
-        "B": "Covalent bond",
-        "C": "Metallic bond",
-        "D": "Hydrogen bond"
-      },
-      "answer": "B",
-      "difficulty": "medium"
+      "question": "Which gas is formed when sodium carbonate reacts with ethanoic acid?",
+      "op_1": "Oxygen",
+      "op_2": "Carbon dioxide",
+      "op_3": "Hydrogen",
+      "op_4": "Methane",
+      "ans": "Carbon dioxide"
+    },
+    {
+      "question": "The reaction of an acid with an alcohol to form ester is called:",
+      "op_1": "Neutralisation",
+      "op_2": "Saponification",
+      "op_3": "Esterification",
+      "op_4": "Substitution",
+      "ans": "Esterification"
+    },
+    {
+      "question": "The compound CH3–COOH is known as:",
+      "op_1": "Formic acid",
+      "op_2": "Acetic acid",
+      "op_3": "Oxalic acid",
+      "op_4": "Citric acid",
+      "ans": "Acetic acid"
+    },
+    {
+      "question": "The oxidising agent used for conversion of alcohol to acid is:",
+      "op_1": "NaOH",
+      "op_2": "K2Cr2O7",
+      "op_3": "HCl",
+      "op_4": "CaO",
+      "ans": "K2Cr2O7"
+    },
+    {
+      "question": "Which compound is formed when ethanol reacts with sodium?",
+      "op_1": "CH3COONa",
+      "op_2": "C2H5ONa",
+      "op_3": "CH3ONa",
+      "op_4": "NaOH",
+      "ans": "C2H5ONa"
+    },
+    {
+      "question": "Soaps are sodium or potassium salts of:",
+      "op_1": "Carboxylic acids",
+      "op_2": "Hydrochloric acids",
+      "op_3": "Sulphonic acids",
+      "op_4": "Nitric acids",
+      "ans": "Carboxylic acids"
+    },
+    {
+      "question": "Which property of graphite makes it a good conductor?",
+      "op_1": "Presence of free electrons",
+      "op_2": "Hardness",
+      "op_3": "High melting point",
+      "op_4": "Layered structure",
+      "ans": "Presence of free electrons"
+    },
+    {
+      "question": "Which compound is used as an antifreeze in automobiles?",
+      "op_1": "Ethanol",
+      "op_2": "Methanol",
+      "op_3": "Ethanoic acid",
+      "op_4": "Ethylene glycol",
+      "ans": "Ethylene glycol"
+    },
+    {
+      "question": "Which test confirms the presence of double bonds in hydrocarbons?",
+      "op_1": "Sodium carbonate test",
+      "op_2": "Bromine water test",
+      "op_3": "Litmus test",
+      "op_4": "Tollen’s test",
+      "ans": "Bromine water test"
+    },
+    {
+      "question": "Which hydrocarbon decolourises alkaline KMnO4 solution?",
+      "op_1": "Ethane",
+      "op_2": "Methane",
+      "op_3": "Ethene",
+      "op_4": "Propane",
+      "ans": "Ethene"
+    },
+    {
+      "question": "Which catalyst is used in hydrogenation of vegetable oils?",
+      "op_1": "Copper",
+      "op_2": "Platinum",
+      "op_3": "Nickel",
+      "op_4": "Zinc",
+      "ans": "Nickel"
+    },
+    {
+      "question": "Which product is formed when ethanoic acid reacts with ethanol in presence of conc. H2SO4?",
+      "op_1": "Methanol",
+      "op_2": "Ethene",
+      "op_3": "Ester",
+      "op_4": "Formaldehyde",
+      "ans": "Ester"
+    },
+    {
+      "question": "Which compound is formed when ethanoic acid reacts with NaOH?",
+      "op_1": "Ester",
+      "op_2": "Sodium ethanoate",
+      "op_3": "Methanol",
+      "op_4": "Formic acid",
+      "ans": "Sodium ethanoate"
     }
   ]
 }

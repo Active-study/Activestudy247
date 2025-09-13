@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the function of the human eye?",
-      "options": [
-        "To see",
-        "To hear",
-        "To smell",
-        "To taste"
-      ],
-      "answer": "To see",
-      "difficulty": "medium"
+      "question": "A person with a myopic eye cannot see objects beyond 1.2 m distinctly. What should be the type of corrective lens used?",
+      "op_1": "Convex lens",
+      "op_2": "Concave lens",
+      "op_3": "Cylindrical lens",
+      "op_4": "Bifocal lens",
+      "ans": "Concave lens"
     },
     {
-      "question": "What part of the eye controls the amount of light that enters?",
-      "options": [
-        "Cornea",
-        "Pupil",
-        "Lens",
-        "Retina"
-      ],
-      "answer": "Pupil",
-      "difficulty": "medium"
+      "question": "The far point of a myopic person is 80 cm in front of the eye. What is the power of the lens required to correct this defect?",
+      "op_1": "-1.25 D",
+      "op_2": "-1.50 D",
+      "op_3": "-2.50 D",
+      "op_4": "-0.80 D",
+      "ans": "-1.25 D"
     },
     {
-      "question": "What is the phenomenon of bending of light called?",
-      "options": [
-        "Reflection",
-        "Refraction",
-        "Dispersion",
-        "Diffraction"
-      ],
-      "answer": "Refraction",
-      "difficulty": "medium"
+      "question": "The near point of a hypermetropic eye is 1 m. What is the power of the lens required to correct this defect? (Assume normal near point is 25 cm)",
+      "op_1": "+1 D",
+      "op_2": "+2 D",
+      "op_3": "+3 D",
+      "op_4": "+4 D",
+      "ans": "+3 D"
+    },
+    {
+      "question": "Why do stars twinkle?",
+      "op_1": "Due to atmospheric reflection",
+      "op_2": "Due to atmospheric refraction",
+      "op_3": "Due to scattering of light",
+      "op_4": "Due to dispersion of light",
+      "ans": "Due to atmospheric refraction"
+    },
+    {
+      "question": "Which of the following phenomena is responsible for the blue color of the sky?",
+      "op_1": "Dispersion",
+      "op_2": "Refraction",
+      "op_3": "Scattering",
+      "op_4": "Reflection",
+      "ans": "Scattering"
+    },
+    {
+      "question": "Why does the Sun appear reddish early in the morning?",
+      "op_1": "Due to scattering of light",
+      "op_2": "Due to dispersion of light",
+      "op_3": "Due to reflection of light",
+      "op_4": "Due to absorption of light",
+      "ans": "Due to scattering of light"
+    },
+    {
+      "question": "Which of the following statements is correct about the dispersion of light through a prism?",
+      "op_1": "Red light deviates the most",
+      "op_2": "Violet light deviates the most",
+      "op_3": "All colors deviate equally",
+      "op_4": "Yellow light deviates the most",
+      "ans": "Violet light deviates the most"
+    },
+    {
+      "question": "The phenomenon of twinkling of stars is due to:",
+      "op_1": "Regular atmospheric refraction",
+      "op_2": "Irregular atmospheric refraction",
+      "op_3": "Regular atmospheric reflection",
+      "op_4": "Irregular atmospheric reflection",
+      "ans": "Irregular atmospheric refraction"
+    },
+    {
+      "question": "Why don't planets twinkle?",
+      "op_1": "They are closer to Earth",
+      "op_2": "They are farther from Earth",
+      "op_3": "They emit their own light",
+      "op_4": "They have stable atmospheres",
+      "ans": "They are closer to Earth"
+    },
+    {
+      "question": "The danger signal lights are red because:",
+      "op_1": "Red light is least scattered",
+      "op_2": "Red light is most scattered",
+      "op_3": "Red light is most absorbed",
+      "op_4": "Red light is least absorbed",
+      "ans": "Red light is least scattered"
+    },
+    {
+      "question": "Which of the following eye defects is due to the aging of the eye lens?",
+      "op_1": "Myopia",
+      "op_2": "Hypermetropia",
+      "op_3": "Presbyopia",
+      "op_4": "Astigmatism",
+      "ans": "Presbyopia"
+    },
+    {
+      "question": "The medical condition in which the lens of the eye becomes cloudy is called:",
+      "op_1": "Myopia",
+      "op_2": "Hypermetropia",
+      "op_3": "Presbyopia",
+      "op_4": "Cataract",
+      "ans": "Cataract"
+    },
+    {
+      "question": "Which color of light has the maximum wavelength in the visible spectrum?",
+      "op_1": "Violet",
+      "op_2": "Blue",
+      "op_3": "Green",
+      "op_4": "Red",
+      "ans": "Red"
+    },
+    {
+      "question": "The phenomenon due to which we can see the Sun a few minutes before actual sunrise is called:",
+      "op_1": "Scattering of light",
+      "op_2": "Dispersion of light",
+      "op_3": "Atmospheric refraction",
+      "op_4": "Total internal reflection",
+      "ans": "Atmospheric refraction"
+    },
+    {
+      "question": "A student has difficulty reading the blackboard while sitting in the last row. What could be the defect the child is suffering from?",
+      "op_1": "Hypermetropia",
+      "op_2": "Myopia",
+      "op_3": "Presbyopia",
+      "op_4": "Astigmatism",
+      "ans": "Myopia"
     }
   ]
 }

@@ -1,22 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the direction of the magnetic field lines around a current-carrying conductor?",
-      "options": ["From North to South", "From South to North", "Circular", "None of the above"],
-      "answer": "Circular",
-      "difficulty": "hard"
+      "question": "A straight conductor of length L is placed perpendicular to a uniform magnetic field B and moved with velocity v. The induced emf is:",
+      "op_1": "BLv",
+      "op_2": "Bv/L",
+      "op_3": "LB/v",
+      "op_4": "BL/v",
+      "ans": "BLv"
     },
     {
-      "question": "What is the effect of increasing the current in a solenoid on the strength of the magnetic field?",
-      "options": ["It decreases", "It remains the same", "It increases", "It becomes zero"],
-      "answer": "It increases",
-      "difficulty": "hard"
+      "question": "The force acting on a current-carrying conductor in a magnetic field is given by:",
+      "op_1": "F = BIL sinθ",
+      "op_2": "F = BIL cosθ",
+      "op_3": "F = B/I",
+      "op_4": "F = BI/L",
+      "ans": "F = BIL sinθ"
     },
     {
-      "question": "Which law states that the induced electromotive force is proportional to the rate of change of magnetic flux?",
-      "options": ["Faraday's Law", "Ohm's Law", "Ampere's Law", "Lenz's Law"],
-      "answer": "Faraday's Law",
-      "difficulty": "hard"
+      "question": "A current of 2 A flows in a wire of length 1 m placed in a magnetic field of 0.5 T perpendicular to it. The force on the wire is:",
+      "op_1": "0.5 N",
+      "op_2": "1 N",
+      "op_3": "2 N",
+      "op_4": "0 N",
+      "ans": "1 N"
+    },
+    {
+      "question": "The magnetic field inside a toroidal solenoid depends on:",
+      "op_1": "Current and number of turns",
+      "op_2": "Length of solenoid only",
+      "op_3": "Radius of core",
+      "op_4": "Material outside solenoid",
+      "ans": "Current and number of turns"
+    },
+    {
+      "question": "Which rule is used to find the direction of motion of a conductor in a magnetic field?",
+      "op_1": "Right-hand thumb rule",
+      "op_2": "Fleming’s left-hand rule",
+      "op_3": "Ampere’s rule",
+      "op_4": "Coulomb’s law",
+      "ans": "Fleming’s left-hand rule"
+    },
+    {
+      "question": "If the direction of current is reversed in the conductor, the force experienced will:",
+      "op_1": "Remain same",
+      "op_2": "Reverse direction",
+      "op_3": "Double",
+      "op_4": "Disappear",
+      "ans": "Reverse direction"
+    },
+    {
+      "question": "Which of the following cannot be increased by increasing the number of turns of a solenoid?",
+      "op_1": "Magnetic field strength",
+      "op_2": "Induced emf",
+      "op_3": "Resistance",
+      "op_4": "Polarity",
+      "ans": "Polarity"
+    },
+    {
+      "question": "What happens to the magnetic field at the center of a coil if the current is halved?",
+      "op_1": "Becomes half",
+      "op_2": "Becomes double",
+      "op_3": "Remains same",
+      "op_4": "Becomes zero",
+      "ans": "Becomes half"
+    },
+    {
+      "question": "In an electric generator, mechanical energy is converted into:",
+      "op_1": "Heat energy",
+      "op_2": "Electrical energy",
+      "op_3": "Chemical energy",
+      "op_4": "Nuclear energy",
+      "ans": "Electrical energy"
+    },
+    {
+      "question": "A coil of insulated copper wire is connected to a galvanometer. What happens if a bar magnet is pushed into the coil?",
+      "op_1": "Galvanometer shows no deflection",
+      "op_2": "Galvanometer shows deflection",
+      "op_3": "Deflection is permanent",
+      "op_4": "Magnet gets demagnetized",
+      "ans": "Galvanometer shows deflection"
+    },
+    {
+      "question": "In Fleming’s right-hand rule, the thumb represents:",
+      "op_1": "Direction of current",
+      "op_2": "Direction of induced current",
+      "op_3": "Direction of magnetic field",
+      "op_4": "Direction of motion",
+      "ans": "Direction of motion"
+    },
+    {
+      "question": "What will be the frequency of AC produced in India?",
+      "op_1": "60 Hz",
+      "op_2": "50 Hz",
+      "op_3": "100 Hz",
+      "op_4": "25 Hz",
+      "ans": "50 Hz"
+    },
+    {
+      "question": "In DC motor, the direction of rotation of the coil can be reversed by:",
+      "op_1": "Changing polarity of supply",
+      "op_2": "Changing direction of current",
+      "op_3": "Interchanging brushes",
+      "op_4": "All of these",
+      "ans": "All of these"
+    },
+    {
+      "question": "What is the role of a commutator in a motor?",
+      "op_1": "It supplies power",
+      "op_2": "It reverses direction of current in the coil",
+      "op_3": "It reduces heating",
+      "op_4": "It produces AC",
+      "ans": "It reverses direction of current in the coil"
+    },
+    {
+      "question": "The phenomenon of electromagnetic induction was discovered by:",
+      "op_1": "Faraday",
+      "op_2": "Oersted",
+      "op_3": "Ampere",
+      "op_4": "Fleming",
+      "ans": "Faraday"
     }
   ]
 }

@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the modern periodic law?",
-      "options": [
-        "Properties of elements are a periodic function of their atomic numbers.",
-        "Properties of elements are a periodic function of their atomic masses.",
-        "Properties of elements are a periodic function of their densities.",
-        "Properties of elements are a periodic function of their volumes."
-      ],
-      "answer": "Properties of elements are a periodic function of their atomic numbers."
+      "question": "Which of the following has the largest atomic size?",
+      "op_1": "Na",
+      "op_2": "Mg",
+      "op_3": "Al",
+      "op_4": "Si",
+      "ans": "Na"
     },
     {
-      "question": "Which of the following elements is a noble gas?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Hydrogen"
-      ],
-      "answer": "Helium"
+      "question": "Which of the following has the highest ionisation energy?",
+      "op_1": "Lithium",
+      "op_2": "Beryllium",
+      "op_3": "Boron",
+      "op_4": "Carbon",
+      "ans": "Carbon"
     },
     {
-      "question": "What is the main characteristic of alkali metals?",
-      "options": [
-        "They are highly reactive and have one electron in their outermost shell.",
-        "They are non-reactive and have a full outer shell.",
-        "They are gases at room temperature.",
-        "They are good conductors of electricity."
-      ],
-      "answer": "They are highly reactive and have one electron in their outermost shell."
+      "question": "In the Modern Periodic Table, the element with atomic number 16 belongs to:",
+      "op_1": "Group 14, Period 3",
+      "op_2": "Group 16, Period 3",
+      "op_3": "Group 2, Period 2",
+      "op_4": "Group 18, Period 3",
+      "ans": "Group 16, Period 3"
+    },
+    {
+      "question": "The atomic number of an element is 17. To which group and period does it belong?",
+      "op_1": "Group 17, Period 2",
+      "op_2": "Group 17, Period 3",
+      "op_3": "Group 16, Period 2",
+      "op_4": "Group 18, Period 3",
+      "ans": "Group 17, Period 3"
+    },
+    {
+      "question": "Which property decreases on moving down a group?",
+      "op_1": "Atomic size",
+      "op_2": "Electronegativity",
+      "op_3": "Metallic character",
+      "op_4": "Reactivity of alkali metals",
+      "ans": "Electronegativity"
+    },
+    {
+      "question": "Which of the following has electronic configuration 2,8,7?",
+      "op_1": "Oxygen",
+      "op_2": "Fluorine",
+      "op_3": "Chlorine",
+      "op_4": "Nitrogen",
+      "ans": "Chlorine"
+    },
+    {
+      "question": "Which is the most metallic element in Period 3?",
+      "op_1": "Sodium",
+      "op_2": "Magnesium",
+      "op_3": "Aluminium",
+      "op_4": "Silicon",
+      "ans": "Sodium"
+    },
+    {
+      "question": "The valency of an element depends upon:",
+      "op_1": "Atomic size",
+      "op_2": "Atomic number",
+      "op_3": "Electrons in outermost shell",
+      "op_4": "Atomic mass",
+      "ans": "Electrons in outermost shell"
+    },
+    {
+      "question": "The maximum number of electrons that can be filled in the outermost shell is:",
+      "op_1": "2",
+      "op_2": "6",
+      "op_3": "8",
+      "op_4": "18",
+      "ans": "8"
+    },
+    {
+      "question": "Which of the following is the least reactive halogen?",
+      "op_1": "Fluorine",
+      "op_2": "Chlorine",
+      "op_3": "Bromine",
+      "op_4": "Iodine",
+      "ans": "Iodine"
+    },
+    {
+      "question": "What is the valency of elements in Group 18?",
+      "op_1": "0",
+      "op_2": "1",
+      "op_3": "2",
+      "op_4": "8",
+      "ans": "0"
+    },
+    {
+      "question": "Which of the following has the smallest atomic size?",
+      "op_1": "Na",
+      "op_2": "Cl",
+      "op_3": "Mg",
+      "op_4": "Al",
+      "ans": "Cl"
+    },
+    {
+      "question": "Which element shows properties of both metals and non-metals?",
+      "op_1": "Sodium",
+      "op_2": "Silicon",
+      "op_3": "Chlorine",
+      "op_4": "Magnesium",
+      "ans": "Silicon"
+    },
+    {
+      "question": "Which of the following is a transition element?",
+      "op_1": "Iron",
+      "op_2": "Sodium",
+      "op_3": "Chlorine",
+      "op_4": "Aluminium",
+      "ans": "Iron"
+    },
+    {
+      "question": "Which group is known as the halogen family?",
+      "op_1": "Group 15",
+      "op_2": "Group 16",
+      "op_3": "Group 17",
+      "op_4": "Group 18",
+      "ans": "Group 17"
     }
   ]
 }

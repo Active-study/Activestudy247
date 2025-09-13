@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the function of the nervous system?",
-      "options": [
-        "To control body movements",
-        "To digest food",
-        "To circulate blood",
-        "To produce hormones"
-      ],
-      "answer": "To control body movements",
-      "difficulty": "medium"
+      "question": "Which part of the neuron receives information from the environment?",
+      "op_1": "Axon",
+      "op_2": "Dendrite",
+      "op_3": "Cell body",
+      "op_4": "Myelin sheath",
+      "ans": "Dendrite"
     },
     {
-      "question": "Which part of the brain is responsible for coordination?",
-      "options": [
-        "Cerebrum",
-        "Cerebellum",
-        "Brainstem",
-        "Hypothalamus"
-      ],
-      "answer": "Cerebellum",
-      "difficulty": "medium"
+      "question": "The plant hormone which promotes cell division is:",
+      "op_1": "Auxin",
+      "op_2": "Cytokinin",
+      "op_3": "Gibberellin",
+      "op_4": "Ethylene",
+      "ans": "Cytokinin"
     },
     {
-      "question": "What is a reflex action?",
-      "options": [
-        "A voluntary response to a stimulus",
-        "An involuntary response to a stimulus",
-        "A learned behavior",
-        "A conscious decision"
-      ],
-      "answer": "An involuntary response to a stimulus",
-      "difficulty": "medium"
+      "question": "Which endocrine gland is called the master gland?",
+      "op_1": "Thyroid",
+      "op_2": "Adrenal",
+      "op_3": "Pituitary",
+      "op_4": "Pancreas",
+      "ans": "Pituitary"
+    },
+    {
+      "question": "Deficiency of iodine in the diet leads to:",
+      "op_1": "Diabetes",
+      "op_2": "Goitre",
+      "op_3": "Anaemia",
+      "op_4": "Rickets",
+      "ans": "Goitre"
+    },
+    {
+      "question": "Electrical impulse travels from one neuron to another through:",
+      "op_1": "Neurotransmitters",
+      "op_2": "Axon",
+      "op_3": "Dendrite",
+      "op_4": "Myelin sheath",
+      "ans": "Neurotransmitters"
+    },
+    {
+      "question": "Which part of the brain maintains posture and balance of the body?",
+      "op_1": "Cerebrum",
+      "op_2": "Cerebellum",
+      "op_3": "Medulla",
+      "op_4": "Hypothalamus",
+      "ans": "Cerebellum"
+    },
+    {
+      "question": "Which hormone helps in regulating water and mineral balance in our body?",
+      "op_1": "Aldosterone",
+      "op_2": "Insulin",
+      "op_3": "Adrenaline",
+      "op_4": "Thyroxine",
+      "ans": "Aldosterone"
+    },
+    {
+      "question": "Which part of the brain controls emotions and hunger?",
+      "op_1": "Cerebrum",
+      "op_2": "Hypothalamus",
+      "op_3": "Cerebellum",
+      "op_4": "Medulla",
+      "ans": "Hypothalamus"
+    },
+    {
+      "question": "The junction between two neurons is known as:",
+      "op_1": "Axon",
+      "op_2": "Synapse",
+      "op_3": "Cytoplasm",
+      "op_4": "Node of Ranvier",
+      "ans": "Synapse"
+    },
+    {
+      "question": "Which hormone increases the heartbeat and supply of oxygen to muscles?",
+      "op_1": "Thyroxine",
+      "op_2": "Adrenaline",
+      "op_3": "Insulin",
+      "op_4": "Cortisol",
+      "ans": "Adrenaline"
+    },
+    {
+      "question": "Which plant hormone is responsible for cell elongation?",
+      "op_1": "Auxin",
+      "op_2": "Cytokinin",
+      "op_3": "Ethylene",
+      "op_4": "Gibberellin",
+      "ans": "Auxin"
+    },
+    {
+      "question": "In humans, reflex actions are controlled by:",
+      "op_1": "Cerebrum",
+      "op_2": "Cerebellum",
+      "op_3": "Spinal cord",
+      "op_4": "Medulla",
+      "ans": "Spinal cord"
+    },
+    {
+      "question": "Which hormone is secreted by the pancreas?",
+      "op_1": "Adrenaline",
+      "op_2": "Insulin",
+      "op_3": "Thyroxine",
+      "op_4": "Estrogen",
+      "ans": "Insulin"
+    },
+    {
+      "question": "Which part of the brain controls thinking and reasoning?",
+      "op_1": "Cerebellum",
+      "op_2": "Medulla",
+      "op_3": "Cerebrum",
+      "op_4": "Hypothalamus",
+      "ans": "Cerebrum"
+    },
+    {
+      "question": "The plant hormone responsible for breaking seed dormancy is:",
+      "op_1": "Auxin",
+      "op_2": "Cytokinin",
+      "op_3": "Gibberellin",
+      "op_4": "Abscisic acid",
+      "ans": "Gibberellin"
     }
   ]
 }

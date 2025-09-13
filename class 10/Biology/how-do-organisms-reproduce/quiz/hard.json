@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the process by which organisms produce offspring?",
-      "options": [
-        "Asexual reproduction",
-        "Sexual reproduction",
-        "Both A and B",
-        "None of the above"
-      ],
-      "answer": "Both A and B",
-      "difficulty": "hard"
+      "question": "In human females, the fertilised egg gets implanted in:",
+      "op_1": "Fallopian tube",
+      "op_2": "Ovary",
+      "op_3": "Uterus",
+      "op_4": "Cervix",
+      "ans": "Uterus"
     },
     {
-      "question": "What is the role of DNA in reproduction?",
-      "options": [
-        "It carries genetic information",
-        "It helps in energy production",
-        "It is involved in digestion",
-        "It has no role"
-      ],
-      "answer": "It carries genetic information",
-      "difficulty": "hard"
+      "question": "Which contraceptive device once inserted can prevent pregnancy for 3–5 years?",
+      "op_1": "Oral pill",
+      "op_2": "Copper-T",
+      "op_3": "Condom",
+      "op_4": "Vasectomy",
+      "ans": "Copper-T"
     },
     {
-      "question": "Which of the following is a method of asexual reproduction?",
-      "options": [
-        "Budding",
-        "Fertilization",
-        "Pollination",
-        "Cross-fertilization"
-      ],
-      "answer": "Budding",
-      "difficulty": "hard"
+      "question": "Which of the following sexually transmitted diseases is caused by a virus?",
+      "op_1": "Syphilis",
+      "op_2": "Gonorrhea",
+      "op_3": "AIDS",
+      "op_4": "Chlamydia",
+      "ans": "AIDS"
+    },
+    {
+      "question": "In human males, which structure carries sperms from the testes to the urethra?",
+      "op_1": "Vas deferens",
+      "op_2": "Ureter",
+      "op_3": "Epididymis",
+      "op_4": "Seminal vesicle",
+      "ans": "Vas deferens"
+    },
+    {
+      "question": "Which part of the flower develops into the seed after fertilisation?",
+      "op_1": "Ovule",
+      "op_2": "Ovary",
+      "op_3": "Anther",
+      "op_4": "Stigma",
+      "ans": "Ovule"
+    },
+    {
+      "question": "What is the significance of DNA copying during reproduction?",
+      "op_1": "To ensure no variation",
+      "op_2": "To maintain body size",
+      "op_3": "To pass genetic information",
+      "op_4": "To increase energy",
+      "ans": "To pass genetic information"
+    },
+    {
+      "question": "Which statement is true about fertilisation in humans?",
+      "op_1": "Occurs in uterus",
+      "op_2": "Occurs in ovary",
+      "op_3": "Occurs in fallopian tube",
+      "op_4": "Occurs in cervix",
+      "ans": "Occurs in fallopian tube"
+    },
+    {
+      "question": "What prevents more than one sperm from entering an egg?",
+      "op_1": "Thick zona pellucida",
+      "op_2": "Changes in egg membrane after fertilisation",
+      "op_3": "Presence of ovary wall",
+      "op_4": "Action of cervix",
+      "ans": "Changes in egg membrane after fertilisation"
+    },
+    {
+      "question": "In which organism does external fertilisation take place?",
+      "op_1": "Human",
+      "op_2": "Bird",
+      "op_3": "Frog",
+      "op_4": "Cow",
+      "ans": "Frog"
+    },
+    {
+      "question": "What prevents pregnancy in case of lactational amenorrhea?",
+      "op_1": "Production of prolactin",
+      "op_2": "Production of milk",
+      "op_3": "Absence of ovulation",
+      "op_4": "Thickening of uterine wall",
+      "ans": "Absence of ovulation"
+    },
+    {
+      "question": "Which of the following STDs is not curable?",
+      "op_1": "Syphilis",
+      "op_2": "AIDS",
+      "op_3": "Gonorrhea",
+      "op_4": "Chlamydia",
+      "ans": "AIDS"
+    },
+    {
+      "question": "The contraceptive method Copper-T prevents pregnancy by:",
+      "op_1": "Killing sperms",
+      "op_2": "Preventing fertilisation",
+      "op_3": "Preventing implantation",
+      "op_4": "Blocking ovulation",
+      "ans": "Preventing implantation"
+    },
+    {
+      "question": "Which tissue in human females nourishes the developing embryo?",
+      "op_1": "Endometrium",
+      "op_2": "Myometrium",
+      "op_3": "Cervix",
+      "op_4": "Fallopian tube",
+      "ans": "Endometrium"
+    },
+    {
+      "question": "Which of the following is not an advantage of vegetative propagation?",
+      "op_1": "Rapid multiplication",
+      "op_2": "Preservation of characters",
+      "op_3": "Formation of new varieties",
+      "op_4": "Identical progeny",
+      "ans": "Formation of new varieties"
+    },
+    {
+      "question": "Which statement best explains why sexual reproduction is important?",
+      "op_1": "It ensures rapid reproduction",
+      "op_2": "It introduces variations",
+      "op_3": "It requires less energy",
+      "op_4": "It produces identical offspring",
+      "ans": "It introduces variations"
     }
   ]
 }

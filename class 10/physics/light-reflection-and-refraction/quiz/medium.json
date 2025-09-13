@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the law of reflection?",
-      "options": {
-        "A": "The angle of incidence is equal to the angle of reflection.",
-        "B": "The angle of incidence is greater than the angle of reflection.",
-        "C": "The angle of incidence is less than the angle of reflection.",
-        "D": "The angle of incidence is not related to the angle of reflection."
-      },
-      "answer": "A"
+      "question": "An object is placed at 2F of a convex lens. The image formed will be:",
+      "op_1": "Real, inverted and same size",
+      "op_2": "Real, inverted and magnified",
+      "op_3": "Virtual and erect",
+      "op_4": "Diminished and inverted",
+      "ans": "Real, inverted and same size"
     },
     {
-      "question": "What type of lens is used to correct nearsightedness?",
-      "options": {
-        "A": "Convex lens",
-        "B": "Concave lens",
-        "C": "Bifocal lens",
-        "D": "Cylindrical lens"
-      },
-      "answer": "B"
+      "question": "If the refractive index of glass with respect to air is 1.5, the speed of light in glass is:",
+      "op_1": "3 × 10^8 m/s",
+      "op_2": "2 × 10^8 m/s",
+      "op_3": "1.5 × 10^8 m/s",
+      "op_4": "4.5 × 10^8 m/s",
+      "ans": "2 × 10^8 m/s"
     },
     {
-      "question": "What happens to light when it passes from air into water?",
-      "options": {
-        "A": "It speeds up.",
-        "B": "It slows down.",
-        "C": "It changes color.",
-        "D": "It reflects back."
-      },
-      "answer": "B"
+      "question": "The focal length of a convex mirror is 20 cm. Its power is:",
+      "op_1": "5 D",
+      "op_2": "10 D",
+      "op_3": "–5 D",
+      "op_4": "–10 D",
+      "ans": "5 D"
+    },
+    {
+      "question": "For a concave mirror, if the object is between F and 2F, the image will be:",
+      "op_1": "Real, inverted and magnified",
+      "op_2": "Real, inverted and diminished",
+      "op_3": "Virtual, erect and magnified",
+      "op_4": "Virtual, erect and diminished",
+      "ans": "Real, inverted and magnified"
+    },
+    {
+      "question": "If an object is placed at infinity in front of a concave mirror, the image will be formed:",
+      "op_1": "At F",
+      "op_2": "At 2F",
+      "op_3": "Between F and 2F",
+      "op_4": "At infinity",
+      "ans": "At F"
+    },
+    {
+      "question": "The lens formula is:",
+      "op_1": "f = u + v",
+      "op_2": "1/f = 1/v + 1/u",
+      "op_3": "f = uv",
+      "op_4": "1/f = v – u",
+      "ans": "1/f = 1/v + 1/u"
+    },
+    {
+      "question": "The focal length of a concave lens is –25 cm. Its power is:",
+      "op_1": "–4 D",
+      "op_2": "–2.5 D",
+      "op_3": "–3 D",
+      "op_4": "–5 D",
+      "ans": "–4 D"
+    },
+    {
+      "question": "The image formed by the eye lens is:",
+      "op_1": "Real and inverted",
+      "op_2": "Virtual and erect",
+      "op_3": "Real and erect",
+      "op_4": "Inverted and magnified",
+      "ans": "Real and inverted"
+    },
+    {
+      "question": "The phenomenon of refraction is due to:",
+      "op_1": "Change in wavelength of light",
+      "op_2": "Change in frequency of light",
+      "op_3": "Change in amplitude of light",
+      "op_4": "All of these",
+      "ans": "Change in wavelength of light"
+    },
+    {
+      "question": "If the refractive index of diamond is 2.42, the speed of light in diamond is:",
+      "op_1": "1.24 × 10^8 m/s",
+      "op_2": "2.42 × 10^8 m/s",
+      "op_3": "3 × 10^8 m/s",
+      "op_4": "7.26 × 10^8 m/s",
+      "ans": "1.24 × 10^8 m/s"
+    },
+    {
+      "question": "Which mirror is used as a shaving mirror?",
+      "op_1": "Concave mirror",
+      "op_2": "Convex mirror",
+      "op_3": "Plane mirror",
+      "op_4": "Any mirror",
+      "ans": "Concave mirror"
+    },
+    {
+      "question": "If the object is placed at the centre of curvature of a concave mirror, the image is:",
+      "op_1": "At infinity",
+      "op_2": "Between F and C",
+      "op_3": "At C, real and same size",
+      "op_4": "Virtual and erect",
+      "ans": "At C, real and same size"
+    },
+    {
+      "question": "The apparent bending of a stick in water is due to:",
+      "op_1": "Reflection",
+      "op_2": "Refraction",
+      "op_3": "Dispersion",
+      "op_4": "Scattering",
+      "ans": "Refraction"
+    },
+    {
+      "question": "A convex lens has a focal length of 50 cm. Where should an object be placed to obtain a real image double the size of object?",
+      "op_1": "At 2F",
+      "op_2": "Between F and 2F",
+      "op_3": "Beyond 2F",
+      "op_4": "At F",
+      "ans": "Between F and 2F"
+    },
+    {
+      "question": "Which type of lens is used to correct myopia?",
+      "op_1": "Concave lens",
+      "op_2": "Convex lens",
+      "op_3": "Cylindrical lens",
+      "op_4": "Plano-convex lens",
+      "ans": "Concave lens"
     }
   ]
 }

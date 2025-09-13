@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the main function of the nervous system?",
-      "options": [
-        "To transport oxygen",
-        "To coordinate body activities",
-        "To digest food",
-        "To circulate blood"
-      ],
-      "answer": "To coordinate body activities"
+      "question": "Which part of the brain controls voluntary actions?",
+      "op_1": "Medulla",
+      "op_2": "Cerebrum",
+      "op_3": "Cerebellum",
+      "op_4": "Pons",
+      "ans": "Cerebrum"
     },
     {
-      "question": "Which part of the brain controls balance and coordination?",
-      "options": [
-        "Cerebrum",
-        "Cerebellum",
-        "Brainstem",
-        "Hypothalamus"
-      ],
-      "answer": "Cerebellum"
+      "question": "Which hormone regulates sugar level in human blood?",
+      "op_1": "Thyroxine",
+      "op_2": "Insulin",
+      "op_3": "Adrenaline",
+      "op_4": "Growth hormone",
+      "ans": "Insulin"
     },
     {
-      "question": "What is a reflex action?",
-      "options": [
-        "A voluntary response",
-        "An involuntary response",
-        "A learned behavior",
-        "A conscious decision"
-      ],
-      "answer": "An involuntary response"
+      "question": "Receptors for taste are located in:",
+      "op_1": "Tongue",
+      "op_2": "Nose",
+      "op_3": "Eye",
+      "op_4": "Ear",
+      "ans": "Tongue"
+    },
+    {
+      "question": "Which gland secretes thyroxine?",
+      "op_1": "Pancreas",
+      "op_2": "Thyroid",
+      "op_3": "Adrenal",
+      "op_4": "Pituitary",
+      "ans": "Thyroid"
+    },
+    {
+      "question": "The unit of nervous tissue is:",
+      "op_1": "Neuron",
+      "op_2": "Axon",
+      "op_3": "Dendrite",
+      "op_4": "Synapse",
+      "ans": "Neuron"
+    },
+    {
+      "question": "Which part of the brain controls balance and posture?",
+      "op_1": "Cerebrum",
+      "op_2": "Medulla",
+      "op_3": "Cerebellum",
+      "op_4": "Hypothalamus",
+      "ans": "Cerebellum"
+    },
+    {
+      "question": "Which of the following is a plant growth hormone?",
+      "op_1": "Insulin",
+      "op_2": "Auxin",
+      "op_3": "Adrenaline",
+      "op_4": "Glucagon",
+      "ans": "Auxin"
+    },
+    {
+      "question": "The gap between two neurons is called:",
+      "op_1": "Axon",
+      "op_2": "Synapse",
+      "op_3": "Dendrite",
+      "op_4": "Myelin",
+      "ans": "Synapse"
+    },
+    {
+      "question": "Which hormone is known as the fight-or-flight hormone?",
+      "op_1": "Adrenaline",
+      "op_2": "Insulin",
+      "op_3": "Thyroxine",
+      "op_4": "Estrogen",
+      "ans": "Adrenaline"
+    },
+    {
+      "question": "Which part of the brain controls involuntary actions like heartbeat and respiration?",
+      "op_1": "Cerebrum",
+      "op_2": "Medulla",
+      "op_3": "Cerebellum",
+      "op_4": "Hypothalamus",
+      "ans": "Medulla"
+    },
+    {
+      "question": "Which plant hormone is responsible for wilting of leaves?",
+      "op_1": "Auxin",
+      "op_2": "Abscisic acid",
+      "op_3": "Gibberellin",
+      "op_4": "Cytokinin",
+      "ans": "Abscisic acid"
+    },
+    {
+      "question": "Which hormone controls the basal metabolic rate in humans?",
+      "op_1": "Thyroxine",
+      "op_2": "Insulin",
+      "op_3": "Adrenaline",
+      "op_4": "Testosterone",
+      "ans": "Thyroxine"
+    },
+    {
+      "question": "Which sense organ contains rods and cones?",
+      "op_1": "Ear",
+      "op_2": "Eye",
+      "op_3": "Nose",
+      "op_4": "Tongue",
+      "ans": "Eye"
+    },
+    {
+      "question": "The main function of the spinal cord is:",
+      "op_1": "Thinking",
+      "op_2": "Coordination of reflexes",
+      "op_3": "Balancing",
+      "op_4": "Producing hormones",
+      "ans": "Coordination of reflexes"
+    },
+    {
+      "question": "Which plant hormone is responsible for ripening of fruits?",
+      "op_1": "Auxin",
+      "op_2": "Ethylene",
+      "op_3": "Cytokinin",
+      "op_4": "Gibberellin",
+      "ans": "Ethylene"
     }
   ]
 }

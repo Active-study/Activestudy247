@@ -1,19 +1,124 @@
 {
-  "quiz": [
+  "data": [
     {
-      "question": "What is the importance of the environment?",
-      "options": ["A) Provides resources", "B) Supports life", "C) Regulates climate", "D) All of the above"],
-      "answer": "D"
+      "question": "If 500 J of energy is available at the producer level, how much energy will be transferred to the secondary consumer?",
+      "op_1": "500 J",
+      "op_2": "50 J",
+      "op_3": "5 J",
+      "op_4": "0.5 J",
+      "ans": "5 J"
     },
     {
-      "question": "Which of the following is a renewable resource?",
-      "options": ["A) Coal", "B) Solar energy", "C) Natural gas", "D) Nuclear energy"],
-      "answer": "B"
+      "question": "Which of the following represents the correct food chain?",
+      "op_1": "Grass → Tiger → Deer",
+      "op_2": "Grass → Deer → Tiger",
+      "op_3": "Deer → Grass → Tiger",
+      "op_4": "Tiger → Deer → Grass",
+      "ans": "Grass → Deer → Tiger"
     },
     {
-      "question": "What is the main cause of environmental pollution?",
-      "options": ["A) Deforestation", "B) Industrial waste", "C) Plastic waste", "D) All of the above"],
-      "answer": "D"
+      "question": "What is the ultimate source of energy in an ecosystem?",
+      "op_1": "Producers",
+      "op_2": "Sun",
+      "op_3": "Decomposers",
+      "op_4": "Consumers",
+      "ans": "Sun"
+    },
+    {
+      "question": "Which of the following practices is most suitable for waste management?",
+      "op_1": "Burning plastic",
+      "op_2": "Recycling",
+      "op_3": "Dumping garbage",
+      "op_4": "Throwing waste in rivers",
+      "ans": "Recycling"
+    },
+    {
+      "question": "Which chemical causes thinning of the ozone layer?",
+      "op_1": "Carbon dioxide",
+      "op_2": "Sulphur dioxide",
+      "op_3": "CFCs",
+      "op_4": "Methane",
+      "ans": "CFCs"
+    },
+    {
+      "question": "Which of the following is a secondary consumer?",
+      "op_1": "Goat",
+      "op_2": "Grass",
+      "op_3": "Tiger",
+      "op_4": "Frog",
+      "ans": "Frog"
+    },
+    {
+      "question": "Which of the following is not a consequence of global warming?",
+      "op_1": "Melting of glaciers",
+      "op_2": "Rising sea levels",
+      "op_3": "Ozone layer formation",
+      "op_4": "Change in rainfall pattern",
+      "ans": "Ozone layer formation"
+    },
+    {
+      "question": "Which of the following is an example of a natural ecosystem?",
+      "op_1": "Aquarium",
+      "op_2": "Garden",
+      "op_3": "Pond",
+      "op_4": "Crop field",
+      "ans": "Pond"
+    },
+    {
+      "question": "Which one of the following contributes to acid rain?",
+      "op_1": "CO2 and H2O",
+      "op_2": "SO2 and NOx",
+      "op_3": "O2 and N2",
+      "op_4": "CH4 and CFCs",
+      "ans": "SO2 and NOx"
+    },
+    {
+      "question": "Which type of waste is generated in nuclear power plants?",
+      "op_1": "Plastic waste",
+      "op_2": "Radioactive waste",
+      "op_3": "Biodegradable waste",
+      "op_4": "Electronic waste",
+      "ans": "Radioactive waste"
+    },
+    {
+      "question": "What does the pyramid of energy in an ecosystem indicate?",
+      "op_1": "Number of organisms",
+      "op_2": "Flow of energy",
+      "op_3": "Biomass",
+      "op_4": "Habitat",
+      "ans": "Flow of energy"
+    },
+    {
+      "question": "Which practice reduces ozone depletion?",
+      "op_1": "Use of CFCs",
+      "op_2": "Use of eco-friendly refrigerators",
+      "op_3": "Burning fossil fuels",
+      "op_4": "Deforestation",
+      "ans": "Use of eco-friendly refrigerators"
+    },
+    {
+      "question": "Which trophic level does a frog occupy in a pond ecosystem?",
+      "op_1": "Producer",
+      "op_2": "Primary consumer",
+      "op_3": "Secondary consumer",
+      "op_4": "Decomposer",
+      "ans": "Secondary consumer"
+    },
+    {
+      "question": "Which practice is most harmful for soil fertility?",
+      "op_1": "Crop rotation",
+      "op_2": "Use of organic manure",
+      "op_3": "Excessive use of chemical fertilizers",
+      "op_4": "Composting",
+      "ans": "Excessive use of chemical fertilizers"
+    },
+    {
+      "question": "Which one of the following is an artificial ecosystem?",
+      "op_1": "Forest",
+      "op_2": "Pond",
+      "op_3": "Lake",
+      "op_4": "Aquarium",
+      "ans": "Aquarium"
     }
   ]
 }

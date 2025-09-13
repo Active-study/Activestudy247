@@ -1,19 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the atomic number of Hydrogen?",
-      "options": ["1", "2", "3", "4"],
-      "answer": "1"
+      "question": "Who gave the Modern Periodic Law?",
+      "op_1": "Mendeleev",
+      "op_2": "Newlands",
+      "op_3": "Moseley",
+      "op_4": "Dobereiner",
+      "ans": "Moseley"
     },
     {
-      "question": "Which element is represented by the symbol 'O'?",
-      "options": ["Oxygen", "Gold", "Silver", "Iron"],
-      "answer": "Oxygen"
+      "question": "The Modern Periodic Law states that the properties of elements are periodic functions of their:",
+      "op_1": "Atomic number",
+      "op_2": "Atomic mass",
+      "op_3": "Neutron number",
+      "op_4": "Mass number",
+      "ans": "Atomic number"
     },
     {
-      "question": "What is the most abundant element in the universe?",
-      "options": ["Hydrogen", "Helium", "Carbon", "Oxygen"],
-      "answer": "Hydrogen"
+      "question": "Lithium, sodium, potassium belong to which group?",
+      "op_1": "Group 14",
+      "op_2": "Group 1",
+      "op_3": "Group 17",
+      "op_4": "Group 18",
+      "ans": "Group 1"
+    },
+    {
+      "question": "Which of the following is a halogen?",
+      "op_1": "Oxygen",
+      "op_2": "Chlorine",
+      "op_3": "Sulphur",
+      "op_4": "Nitrogen",
+      "ans": "Chlorine"
+    },
+    {
+      "question": "The most electropositive element is:",
+      "op_1": "Sodium",
+      "op_2": "Cesium",
+      "op_3": "Potassium",
+      "op_4": "Lithium",
+      "ans": "Cesium"
+    },
+    {
+      "question": "Which element has atomic number 12?",
+      "op_1": "Magnesium",
+      "op_2": "Sodium",
+      "op_3": "Aluminium",
+      "op_4": "Calcium",
+      "ans": "Magnesium"
+    },
+    {
+      "question": "Which group of elements is called noble gases?",
+      "op_1": "Group 14",
+      "op_2": "Group 15",
+      "op_3": "Group 17",
+      "op_4": "Group 18",
+      "ans": "Group 18"
+    },
+    {
+      "question": "Which element is placed in Group 1 and Period 2?",
+      "op_1": "Sodium",
+      "op_2": "Lithium",
+      "op_3": "Potassium",
+      "op_4": "Beryllium",
+      "ans": "Lithium"
+    },
+    {
+      "question": "The number of periods in the Modern Periodic Table is:",
+      "op_1": "7",
+      "op_2": "8",
+      "op_3": "9",
+      "op_4": "6",
+      "ans": "7"
+    },
+    {
+      "question": "Which of the following belongs to Group 17?",
+      "op_1": "Oxygen",
+      "op_2": "Fluorine",
+      "op_3": "Magnesium",
+      "op_4": "Aluminium",
+      "ans": "Fluorine"
+    },
+    {
+      "question": "Which of the following is the lightest element?",
+      "op_1": "Hydrogen",
+      "op_2": "Helium",
+      "op_3": "Lithium",
+      "op_4": "Oxygen",
+      "ans": "Hydrogen"
+    },
+    {
+      "question": "Which element is the first member of the halogen family?",
+      "op_1": "Chlorine",
+      "op_2": "Fluorine",
+      "op_3": "Bromine",
+      "op_4": "Iodine",
+      "ans": "Fluorine"
+    },
+    {
+      "question": "Which element belongs to Period 2 and Group 14?",
+      "op_1": "Carbon",
+      "op_2": "Silicon",
+      "op_3": "Nitrogen",
+      "op_4": "Phosphorus",
+      "ans": "Carbon"
+    },
+    {
+      "question": "What is the valency of oxygen?",
+      "op_1": "1",
+      "op_2": "2",
+      "op_3": "3",
+      "op_4": "4",
+      "ans": "2"
+    },
+    {
+      "question": "Which element is placed in Group 2 and Period 4?",
+      "op_1": "Calcium",
+      "op_2": "Magnesium",
+      "op_3": "Barium",
+      "op_4": "Sodium",
+      "ans": "Calcium"
     }
   ]
 }

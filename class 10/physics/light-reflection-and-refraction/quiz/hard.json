@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the law of reflection?",
-      "options": {
-        "A": "The angle of incidence is equal to the angle of reflection.",
-        "B": "The angle of incidence is greater than the angle of reflection.",
-        "C": "The angle of incidence is less than the angle of reflection.",
-        "D": "The angle of incidence is not related to the angle of reflection."
-      },
-      "answer": "A",
-      "difficulty": "hard"
+      "question": "A convex lens of focal length 20 cm forms an image of an object placed at 30 cm. The image distance is:",
+      "op_1": "60 cm",
+      "op_2": "30 cm",
+      "op_3": "15 cm",
+      "op_4": "–60 cm",
+      "ans": "60 cm"
     },
     {
-      "question": "What happens to light when it passes from air into water?",
-      "options": {
-        "A": "It speeds up.",
-        "B": "It slows down.",
-        "C": "It changes color.",
-        "D": "It reflects back."
-      },
-      "answer": "B",
-      "difficulty": "hard"
+      "question": "A concave lens of focal length 15 cm forms an image of an object placed 10 cm away. The image distance is:",
+      "op_1": "–6 cm",
+      "op_2": "–30 cm",
+      "op_3": "–10 cm",
+      "op_4": "–15 cm",
+      "ans": "–6 cm"
     },
     {
-      "question": "What is the focal length of a concave lens?",
-      "options": {
-        "A": "Positive.",
-        "B": "Negative.",
-        "C": "Zero.",
-        "D": "Infinite."
-      },
-      "answer": "B",
-      "difficulty": "hard"
+      "question": "A concave mirror produces a real image 3 times the size of the object. If the object is at 20 cm, the focal length is:",
+      "op_1": "15 cm",
+      "op_2": "10 cm",
+      "op_3": "12 cm",
+      "op_4": "5 cm",
+      "ans": "15 cm"
+    },
+    {
+      "question": "A convex lens has power 2D. Its focal length is:",
+      "op_1": "50 cm",
+      "op_2": "25 cm",
+      "op_3": "100 cm",
+      "op_4": "200 cm",
+      "ans": "50 cm"
+    },
+    {
+      "question": "For an object at 10 cm in front of a concave mirror of focal length 15 cm, the image position is:",
+      "op_1": "–30 cm",
+      "op_2": "–10 cm",
+      "op_3": "30 cm",
+      "op_4": "Infinity",
+      "ans": "–30 cm"
+    },
+    {
+      "question": "A convex mirror has focal length 30 cm. An object is placed 30 cm away. The image distance will be:",
+      "op_1": "15 cm behind the mirror",
+      "op_2": "10 cm behind the mirror",
+      "op_3": "30 cm behind the mirror",
+      "op_4": "Infinity",
+      "ans": "15 cm behind the mirror"
+    },
+    {
+      "question": "A glass slab is kept on a black dot on paper. The dot appears raised due to:",
+      "op_1": "Lateral shift",
+      "op_2": "Apparent depth",
+      "op_3": "Dispersion",
+      "op_4": "Interference",
+      "ans": "Apparent depth"
+    },
+    {
+      "question": "The refractive index of water with respect to glass is 0.75. If speed of light in glass is 2 × 10^8 m/s, then speed in water is:",
+      "op_1": "1.5 × 10^8 m/s",
+      "op_2": "2.5 × 10^8 m/s",
+      "op_3": "1.0 × 10^8 m/s",
+      "op_4": "3 × 10^8 m/s",
+      "ans": "1.5 × 10^8 m/s"
+    },
+    {
+      "question": "The magnification of a convex mirror is always:",
+      "op_1": "More than 1",
+      "op_2": "Equal to 1",
+      "op_3": "Less than 1",
+      "op_4": "Zero",
+      "ans": "Less than 1"
+    },
+    {
+      "question": "The relation between refractive indices μ12, μ23 and μ13 is:",
+      "op_1": "μ13 = μ12 + μ23",
+      "op_2": "μ13 = μ12 × μ23",
+      "op_3": "μ13 = μ12 / μ23",
+      "op_4": "μ13 = μ23 – μ12",
+      "ans": "μ13 = μ12 × μ23"
+    },
+    {
+      "question": "The focal length of a convex lens is 40 cm. For an object at 60 cm, the image distance is:",
+      "op_1": "120 cm",
+      "op_2": "24 cm",
+      "op_3": "–24 cm",
+      "op_4": "30 cm",
+      "ans": "120 cm"
+    },
+    {
+      "question": "A concave mirror produces an image at the same place as the object. The position of object is:",
+      "op_1": "At F",
+      "op_2": "At C",
+      "op_3": "At infinity",
+      "op_4": "Between F and C",
+      "ans": "At C"
+    },
+    {
+      "question": "For a convex lens, the image is real, inverted and diminished when the object is placed:",
+      "op_1": "Between F and 2F",
+      "op_2": "At 2F",
+      "op_3": "Beyond 2F",
+      "op_4": "At F",
+      "ans": "Beyond 2F"
+    },
+    {
+      "question": "The refractive index of a medium is 1.6. The critical angle is:",
+      "op_1": "37°",
+      "op_2": "45°",
+      "op_3": "60°",
+      "op_4": "53°",
+      "ans": "37°"
+    },
+    {
+      "question": "The phenomenon of mirage is due to:",
+      "op_1": "Total internal reflection",
+      "op_2": "Dispersion",
+      "op_3": "Refraction",
+      "op_4": "Scattering",
+      "ans": "Total internal reflection"
     }
   ]
 }

@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the main cause of environmental degradation?",
-      "options": [
-        "A) Deforestation",
-        "B) Urbanization",
-        "C) Pollution",
-        "D) All of the above"
-      ],
-      "answer": "D"
+      "question": "Which of the following correctly represents biomagnification?",
+      "op_1": "Producers accumulate the highest pesticide concentration",
+      "op_2": "Top carnivores accumulate the highest pesticide concentration",
+      "op_3": "Decomposers accumulate the highest pesticide concentration",
+      "op_4": "Primary consumers accumulate the highest pesticide concentration",
+      "ans": "Top carnivores accumulate the highest pesticide concentration"
     },
     {
-      "question": "Which of the following is a renewable resource?",
-      "options": [
-        "A) Coal",
-        "B) Natural Gas",
-        "C) Solar Energy",
-        "D) Nuclear Energy"
-      ],
-      "answer": "C"
+      "question": "Which of the following practices helps in reducing environmental pollution?",
+      "op_1": "Use of fossil fuels",
+      "op_2": "Segregation of biodegradable and non-biodegradable waste",
+      "op_3": "Burning plastic",
+      "op_4": "Dumping sewage into rivers",
+      "ans": "Segregation of biodegradable and non-biodegradable waste"
     },
     {
-      "question": "What is the greenhouse effect?",
-      "options": [
-        "A) A natural process that warms the Earth",
-        "B) A man-made phenomenon",
-        "C) A type of pollution",
-        "D) None of the above"
-      ],
-      "answer": "A"
+      "question": "Which one of the following is responsible for acid rain?",
+      "op_1": "Carbon monoxide and methane",
+      "op_2": "Sulphur dioxide and nitrogen oxides",
+      "op_3": "CFCs and Ozone",
+      "op_4": "Hydrogen and Oxygen",
+      "ans": "Sulphur dioxide and nitrogen oxides"
+    },
+    {
+      "question": "What is the role of decomposers in an ecosystem?",
+      "op_1": "Convert solar energy into food",
+      "op_2": "Recycle nutrients back to the soil",
+      "op_3": "Transfer energy to higher trophic levels",
+      "op_4": "Control population of herbivores",
+      "ans": "Recycle nutrients back to the soil"
+    },
+    {
+      "question": "Which of the following contributes maximum to global warming?",
+      "op_1": "Nitrous oxide",
+      "op_2": "CFCs",
+      "op_3": "Carbon dioxide",
+      "op_4": "Methane",
+      "ans": "Carbon dioxide"
+    },
+    {
+      "question": "Which of the following is not a consequence of deforestation?",
+      "op_1": "Soil erosion",
+      "op_2": "Loss of biodiversity",
+      "op_3": "Increased rainfall",
+      "op_4": "Global warming",
+      "ans": "Increased rainfall"
+    },
+    {
+      "question": "Which of the following causes algal bloom in water bodies?",
+      "op_1": "Deforestation",
+      "op_2": "Excessive use of fertilizers",
+      "op_3": "Global warming",
+      "op_4": "Ozone depletion",
+      "ans": "Excessive use of fertilizers"
+    },
+    {
+      "question": "Which one of the following organisms is likely to have the maximum concentration of pesticides?",
+      "op_1": "Grass",
+      "op_2": "Fish",
+      "op_3": "Zooplankton",
+      "op_4": "Bird",
+      "ans": "Bird"
+    },
+    {
+      "question": "Which of the following explains the importance of energy flow in an ecosystem?",
+      "op_1": "Energy flow is cyclic",
+      "op_2": "Energy decreases at each trophic level",
+      "op_3": "Energy increases at each trophic level",
+      "op_4": "Energy flow is reversible",
+      "ans": "Energy decreases at each trophic level"
+    },
+    {
+      "question": "Which practice is most effective in managing plastic waste?",
+      "op_1": "Open burning",
+      "op_2": "Recycling and reusing",
+      "op_3": "Dumping in landfills",
+      "op_4": "Throwing into rivers",
+      "ans": "Recycling and reusing"
+    },
+    {
+      "question": "Which of the following is a correct step to reduce air pollution?",
+      "op_1": "Burning more coal",
+      "op_2": "Use of CNG in vehicles",
+      "op_3": "Increasing deforestation",
+      "op_4": "Use of diesel vehicles",
+      "ans": "Use of CNG in vehicles"
+    },
+    {
+      "question": "Which of the following practices reduces eutrophication?",
+      "op_1": "Excessive fertilizer use",
+      "op_2": "Use of organic manure",
+      "op_3": "Deforestation",
+      "op_4": "Dumping sewage",
+      "ans": "Use of organic manure"
+    },
+    {
+      "question": "In a food web, the energy transfer is:",
+      "op_1": "Unidirectional",
+      "op_2": "Bidirectional",
+      "op_3": "Cyclic",
+      "op_4": "Irregular",
+      "ans": "Unidirectional"
+    },
+    {
+      "question": "Which of the following is an effect of ozone layer depletion?",
+      "op_1": "Increased photosynthesis",
+      "op_2": "Global cooling",
+      "op_3": "Skin cancer",
+      "op_4": "Soil erosion",
+      "ans": "Skin cancer"
+    },
+    {
+      "question": "Which of the following is an incorrect statement about an ecosystem?",
+      "op_1": "Energy flow is unidirectional",
+      "op_2": "Decomposers recycle nutrients",
+      "op_3": "Energy transfer is 100% efficient",
+      "op_4": "Green plants are producers",
+      "ans": "Energy transfer is 100% efficient"
     }
   ]
 }

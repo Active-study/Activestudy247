@@ -1,19 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the molecular formula of carbon dioxide?",
-      "options": ["CO2", "C2O", "CO", "C2O2"],
-      "answer": "CO2"
+      "question": "Which element forms the largest number of compounds?",
+      "op_1": "Hydrogen",
+      "op_2": "Oxygen",
+      "op_3": "Carbon",
+      "op_4": "Nitrogen",
+      "ans": "Carbon"
     },
     {
-      "question": "Which of the following is a property of carbon?",
-      "options": ["It is a metal", "It can form four bonds", "It is a gas", "It is a liquid"],
-      "answer": "It can form four bonds"
+      "question": "Which property of carbon leads to the formation of a large number of compounds?",
+      "op_1": "Electronegativity",
+      "op_2": "Catenation",
+      "op_3": "Isomerism",
+      "op_4": "Combustibility",
+      "ans": "Catenation"
     },
     {
-      "question": "What is the main use of graphite?",
-      "options": ["As a fuel", "In pencils", "In batteries", "In plastics"],
-      "answer": "In pencils"
+      "question": "How many valence electrons does carbon have?",
+      "op_1": "2",
+      "op_2": "3",
+      "op_3": "4",
+      "op_4": "6",
+      "ans": "4"
+    },
+    {
+      "question": "The unique ability of carbon to form bonds with other carbon atoms is called:",
+      "op_1": "Tetravalency",
+      "op_2": "Catenation",
+      "op_3": "Isomerism",
+      "op_4": "Combustion",
+      "ans": "Catenation"
+    },
+    {
+      "question": "Which of the following has the general formula CnH2n+2?",
+      "op_1": "Alkanes",
+      "op_2": "Alkenes",
+      "op_3": "Alkynes",
+      "op_4": "Alcohols",
+      "ans": "Alkanes"
+    },
+    {
+      "question": "Which gas is evolved when sodium reacts with ethanol?",
+      "op_1": "Oxygen",
+      "op_2": "Hydrogen",
+      "op_3": "Carbon dioxide",
+      "op_4": "Methane",
+      "ans": "Hydrogen"
+    },
+    {
+      "question": "Which functional group is present in ethanol?",
+      "op_1": "–COOH",
+      "op_2": "–CHO",
+      "op_3": "–OH",
+      "op_4": "–CO",
+      "ans": "–OH"
+    },
+    {
+      "question": "The first member of the alkyne series is:",
+      "op_1": "Methyne",
+      "op_2": "Ethyne",
+      "op_3": "Propyne",
+      "op_4": "Butyne",
+      "ans": "Ethyne"
+    },
+    {
+      "question": "Which allotrope of carbon is used as a lubricant?",
+      "op_1": "Diamond",
+      "op_2": "Graphite",
+      "op_3": "Fullerene",
+      "op_4": "Coal",
+      "ans": "Graphite"
+    },
+    {
+      "question": "Which of these shows isomerism?",
+      "op_1": "C2H6",
+      "op_2": "C3H8",
+      "op_3": "C4H10",
+      "op_4": "CH4",
+      "ans": "C4H10"
+    },
+    {
+      "question": "Which is the IUPAC name of CH3–CH2–OH?",
+      "op_1": "Methanol",
+      "op_2": "Ethanol",
+      "op_3": "Propanol",
+      "op_4": "Butanol",
+      "ans": "Ethanol"
+    },
+    {
+      "question": "Which compound is used for making alcoholic drinks?",
+      "op_1": "Methanol",
+      "op_2": "Ethanol",
+      "op_3": "Propanol",
+      "op_4": "Butanol",
+      "ans": "Ethanol"
+    },
+    {
+      "question": "The process of burning ethanol in air is called:",
+      "op_1": "Addition reaction",
+      "op_2": "Combustion",
+      "op_3": "Oxidation",
+      "op_4": "Saponification",
+      "ans": "Combustion"
+    },
+    {
+      "question": "Which fuel is called ‘clean fuel’?",
+      "op_1": "Coal",
+      "op_2": "Diesel",
+      "op_3": "LPG",
+      "op_4": "Petrol",
+      "ans": "LPG"
+    },
+    {
+      "question": "Which acid is present in vinegar?",
+      "op_1": "Formic acid",
+      "op_2": "Acetic acid",
+      "op_3": "Citric acid",
+      "op_4": "Oxalic acid",
+      "ans": "Acetic acid"
     }
   ]
 }

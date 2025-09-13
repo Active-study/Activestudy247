@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the role of the nervous system in control and coordination?",
-      "options": [
-        "To transport nutrients",
-        "To transmit signals",
-        "To produce hormones",
-        "To digest food"
-      ],
-      "answer": "To transmit signals",
-      "difficulty": "hard"
+      "question": "Which plant hormone is used to initiate rooting in stem cuttings?",
+      "op_1": "Gibberellin",
+      "op_2": "Cytokinin",
+      "op_3": "Auxin",
+      "op_4": "Ethylene",
+      "ans": "Auxin"
     },
     {
-      "question": "Explain the difference between voluntary and involuntary actions.",
-      "options": [
-        "Voluntary actions are controlled consciously, while involuntary actions are not.",
-        "Voluntary actions are faster than involuntary actions.",
-        "Involuntary actions require more energy than voluntary actions.",
-        "There is no difference."
-      ],
-      "answer": "Voluntary actions are controlled consciously, while involuntary actions are not.",
-      "difficulty": "hard"
+      "question": "Name the plant hormone which delays ageing in leaves.",
+      "op_1": "Auxin",
+      "op_2": "Cytokinin",
+      "op_3": "Ethylene",
+      "op_4": "Abscisic acid",
+      "ans": "Cytokinin"
     },
     {
-      "question": "What is a reflex action? Give an example.",
-      "options": [
-        "A quick response to a stimulus, such as pulling your hand away from a hot surface.",
-        "A slow response to a stimulus, such as thinking about a problem.",
-        "An action that requires conscious thought.",
-        "An action that is learned over time."
-      ],
-      "answer": "A quick response to a stimulus, such as pulling your hand away from a hot surface.",
-      "difficulty": "hard"
+      "question": "Which endocrine gland is located on top of the kidneys?",
+      "op_1": "Thyroid",
+      "op_2": "Adrenal",
+      "op_3": "Pituitary",
+      "op_4": "Pancreas",
+      "ans": "Adrenal"
+    },
+    {
+      "question": "Which hormone regulates calcium level in the blood?",
+      "op_1": "Thyroxine",
+      "op_2": "Parathyroid hormone",
+      "op_3": "Adrenaline",
+      "op_4": "Insulin",
+      "ans": "Parathyroid hormone"
+    },
+    {
+      "question": "Which hormone prepares the body for emergency situations?",
+      "op_1": "Thyroxine",
+      "op_2": "Adrenaline",
+      "op_3": "Insulin",
+      "op_4": "Cortisol",
+      "ans": "Adrenaline"
+    },
+    {
+      "question": "Which hormone is responsible for phototropism in plants?",
+      "op_1": "Cytokinin",
+      "op_2": "Auxin",
+      "op_3": "Gibberellin",
+      "op_4": "Abscisic acid",
+      "ans": "Auxin"
+    },
+    {
+      "question": "Which part of the brain regulates body temperature and thirst?",
+      "op_1": "Cerebellum",
+      "op_2": "Cerebrum",
+      "op_3": "Medulla",
+      "op_4": "Hypothalamus",
+      "ans": "Hypothalamus"
+    },
+    {
+      "question": "Which hormone is secreted in large amounts when a person is frightened?",
+      "op_1": "Thyroxine",
+      "op_2": "Adrenaline",
+      "op_3": "Insulin",
+      "op_4": "Glucagon",
+      "ans": "Adrenaline"
+    },
+    {
+      "question": "Which plant hormone causes bending of shoots towards light?",
+      "op_1": "Auxin",
+      "op_2": "Cytokinin",
+      "op_3": "Abscisic acid",
+      "op_4": "Ethylene",
+      "ans": "Auxin"
+    },
+    {
+      "question": "Which part of the nervous system controls reflex actions?",
+      "op_1": "Cerebrum",
+      "op_2": "Spinal cord",
+      "op_3": "Medulla",
+      "op_4": "Cerebellum",
+      "ans": "Spinal cord"
+    },
+    {
+      "question": "Which hormone stimulates the adrenal gland to secrete its hormones?",
+      "op_1": "ACTH",
+      "op_2": "TSH",
+      "op_3": "FSH",
+      "op_4": "GH",
+      "ans": "ACTH"
+    },
+    {
+      "question": "Which part of the eye controls the amount of light entering it?",
+      "op_1": "Lens",
+      "op_2": "Iris",
+      "op_3": "Retina",
+      "op_4": "Cornea",
+      "ans": "Iris"
+    },
+    {
+      "question": "Which hormone is secreted by the pancreas to increase blood sugar level?",
+      "op_1": "Insulin",
+      "op_2": "Glucagon",
+      "op_3": "Adrenaline",
+      "op_4": "Thyroxine",
+      "ans": "Glucagon"
+    },
+    {
+      "question": "Which plant hormone is responsible for the fall of leaves?",
+      "op_1": "Auxin",
+      "op_2": "Cytokinin",
+      "op_3": "Abscisic acid",
+      "op_4": "Gibberellin",
+      "ans": "Abscisic acid"
+    },
+    {
+      "question": "Which hormone controls protein, carbohydrate and fat metabolism?",
+      "op_1": "Thyroxine",
+      "op_2": "Insulin",
+      "op_3": "Adrenaline",
+      "op_4": "Glucagon",
+      "ans": "Thyroxine"
     }
   ]
 }

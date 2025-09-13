@@ -1,19 +1,124 @@
 {
-  "quiz": [
+  "data": [
     {
-      "question": "What is the process by which organisms produce offspring?",
-      "options": ["Asexual reproduction", "Sexual reproduction", "Both A and B"],
-      "answer": "Both A and B"
+      "question": "Which part of human male reproductive system provides nutrition to sperms?",
+      "op_1": "Prostate gland",
+      "op_2": "Seminal vesicle",
+      "op_3": "Vas deferens",
+      "op_4": "Urethra",
+      "ans": "Seminal vesicle"
     },
     {
-      "question": "What is the term for the fusion of male and female gametes?",
-      "options": ["Fertilization", "Pollination", "Budding"],
-      "answer": "Fertilization"
+      "question": "What is the function of fallopian tube?",
+      "op_1": "Production of egg",
+      "op_2": "Site of fertilisation",
+      "op_3": "Site of implantation",
+      "op_4": "Production of hormone",
+      "ans": "Site of fertilisation"
     },
     {
-      "question": "Which type of reproduction involves only one parent?",
-      "options": ["Asexual reproduction", "Sexual reproduction", "Cross-fertilization"],
-      "answer": "Asexual reproduction"
+      "question": "The surgical method of contraception in males is:",
+      "op_1": "Tubectomy",
+      "op_2": "Vasectomy",
+      "op_3": "Condom use",
+      "op_4": "Copper-T",
+      "ans": "Vasectomy"
+    },
+    {
+      "question": "Which of the following methods is not a natural method of contraception?",
+      "op_1": "Rhythm method",
+      "op_2": "Withdrawal method",
+      "op_3": "Use of condom",
+      "op_4": "Lactational amenorrhea",
+      "ans": "Use of condom"
+    },
+    {
+      "question": "Which is the correct sequence of events in sexual reproduction?",
+      "op_1": "Gamete formation → Fertilisation → Zygote → Embryo",
+      "op_2": "Embryo → Zygote → Fertilisation → Gametes",
+      "op_3": "Fertilisation → Gametes → Zygote → Embryo",
+      "op_4": "Gametes → Embryo → Zygote → Fertilisation",
+      "ans": "Gamete formation → Fertilisation → Zygote → Embryo"
+    },
+    {
+      "question": "Which hormone is essential for ovulation?",
+      "op_1": "LH",
+      "op_2": "FSH",
+      "op_3": "TSH",
+      "op_4": "Insulin",
+      "ans": "LH"
+    },
+    {
+      "question": "In Rhizopus, reproduction occurs through:",
+      "op_1": "Budding",
+      "op_2": "Fragmentation",
+      "op_3": "Spore formation",
+      "op_4": "Binary fission",
+      "ans": "Spore formation"
+    },
+    {
+      "question": "The surgical method of contraception in females is:",
+      "op_1": "Vasectomy",
+      "op_2": "Tubectomy",
+      "op_3": "Condom use",
+      "op_4": "Copper-T",
+      "ans": "Tubectomy"
+    },
+    {
+      "question": "Which of the following is a barrier method of contraception?",
+      "op_1": "Condom",
+      "op_2": "Copper-T",
+      "op_3": "Oral pill",
+      "op_4": "Sterilisation",
+      "ans": "Condom"
+    },
+    {
+      "question": "A zygote is:",
+      "op_1": "Unfertilised egg",
+      "op_2": "Result of fertilisation",
+      "op_3": "Male gamete",
+      "op_4": "Female gamete",
+      "ans": "Result of fertilisation"
+    },
+    {
+      "question": "Which organism reproduces both by sexual and asexual methods?",
+      "op_1": "Amoeba",
+      "op_2": "Hydra",
+      "op_3": "Plasmodium",
+      "op_4": "Rhizopus",
+      "ans": "Hydra"
+    },
+    {
+      "question": "Which part of human reproductive system is the site of implantation?",
+      "op_1": "Ovary",
+      "op_2": "Fallopian tube",
+      "op_3": "Uterus",
+      "op_4": "Cervix",
+      "ans": "Uterus"
+    },
+    {
+      "question": "Which one of the following is a permanent method of birth control?",
+      "op_1": "Copper-T",
+      "op_2": "Oral pills",
+      "op_3": "Tubectomy",
+      "op_4": "Condom",
+      "ans": "Tubectomy"
+    },
+    {
+      "question": "The STD that damages the immune system is:",
+      "op_1": "Syphilis",
+      "op_2": "AIDS",
+      "op_3": "Gonorrhea",
+      "op_4": "Hepatitis",
+      "ans": "AIDS"
+    },
+    {
+      "question": "Which of the following is produced after fertilisation in plants?",
+      "op_1": "Fruit",
+      "op_2": "Seed",
+      "op_3": "Zygote",
+      "op_4": "All of these",
+      "ans": "All of these"
     }
   ]
 }

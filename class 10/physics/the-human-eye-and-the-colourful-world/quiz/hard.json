@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the function of the human eye?",
-      "options": [
-        "To see colors",
-        "To perceive depth",
-        "To focus light",
-        "All of the above"
-      ],
-      "answer": "All of the above",
-      "difficulty": "hard"
+      "question": "A person needs a lens of power -5.5 dioptres for correcting distant vision. For correcting near vision, he needs a lens of power +1.5 dioptres. What is the focal length of the lens required for correcting distant vision?",
+      "op_1": "-18.2 cm",
+      "op_2": "+18.2 cm",
+      "op_3": "-20.0 cm",
+      "op_4": "+20.0 cm",
+      "ans": "-18.2 cm"
     },
     {
-      "question": "What is the role of the lens in the human eye?",
-      "options": [
-        "To protect the eye",
-        "To focus light onto the retina",
-        "To detect light",
-        "To maintain eye shape"
-      ],
-      "answer": "To focus light onto the retina",
-      "difficulty": "hard"
+      "question": "Which of the following statements is true about the dispersion of white light by a glass prism?",
+      "op_1": "Red light bends the most",
+      "op_2": "Violet light bends the most",
+      "op_3": "All colors bend equally",
+      "op_4": "Yellow light bends the most",
+      "ans": "Violet light bends the most"
     },
     {
-      "question": "What causes color blindness?",
-      "options": [
-        "Deficiency in certain cones in the retina",
-        "Excessive exposure to sunlight",
-        "Injury to the eye",
-        "Aging"
-      ],
-      "answer": "Deficiency in certain cones in the retina",
-      "difficulty": "hard"
+      "question": "Why does the sky appear dark instead of blue to an astronaut?",
+      "op_1": "Due to absence of atmosphere",
+      "op_2": "Due to extreme cold",
+      "op_3": "Due to high altitude",
+      "op_4": "Due to less oxygen",
+      "ans": "Due to absence of atmosphere"
+    },
+    {
+      "question": "The Tyndall effect is associated with which phenomenon?",
+      "op_1": "Dispersion",
+      "op_2": "Refraction",
+      "op_3": "Scattering",
+      "op_4": "Reflection",
+      "ans": "Scattering"
+    },
+    {
+      "question": "Which of the following is not observed in a spectrum formed by a glass prism?",
+      "op_1": "Violet light is deviated the most",
+      "op_2": "Red light is deviated the least",
+      "op_3": "The spectrum consists of seven colors",
+      "op_4": "The spectrum is circular in shape",
+      "ans": "The spectrum is circular in shape"
+    },
+    {
+      "question": "A person cannot see objects clearly beyond 2 m. The power of the lens required to correct this vision is:",
+      "op_1": "-0.5 D",
+      "op_2": "-1.0 D",
+      "op_3": "-2.0 D",
+      "op_4": "-4.0 D",
+      "ans": "-0.5 D"
+    },
+    {
+      "question": "The phenomenon of advance sunrise and delayed sunset is due to:",
+      "op_1": "Scattering of light",
+      "op_2": "Dispersion of light",
+      "op_3": "Atmospheric refraction",
+      "op_4": "Reflection of light",
+      "ans": "Atmospheric refraction"
+    },
+    {
+      "question": "Which of the following statements about the human eye is correct?",
+      "op_1": "The cornea provides most of the refraction",
+      "op_2": "The lens provides most of the refraction",
+      "op_3": "The iris provides most of the refraction",
+      "op_4": "The retina provides most of the refraction",
+      "ans": "The cornea provides most of the refraction"
+    },
+    {
+      "question": "A person with hypermetropia has:",
+      "op_1": "Near point farther than 25 cm",
+      "op_2": "Near point closer than 25 cm",
+      "op_3": "Far point closer than infinity",
+      "op_4": "Far point farther than infinity",
+      "ans": "Near point farther than 25 cm"
+    },
+    {
+      "question": "The refractive index of a material is maximum for:",
+      "op_1": "Red light",
+      "op_2": "Yellow light",
+      "op_3": "Green light",
+      "op_4": "Violet light",
+      "ans": "Violet light"
+    },
+    {
+      "question": "The defect of vision in which the eye lens loses its flexibility is:",
+      "op_1": "Myopia",
+      "op_2": "Hypermetropia",
+      "op_3": "Presbyopia",
+      "op_4": "Astigmatism",
+      "ans": "Presbyopia"
+    },
+    {
+      "question": "In the formation of a rainbow, the light from the sun undergoes:",
+      "op_1": "Dispersion and total internal reflection",
+      "op_2": "Only dispersion",
+      "op_3": "Only total internal reflection",
+      "op_4": "Scattering and dispersion",
+      "ans": "Dispersion and total internal reflection"
+    },
+    {
+      "question": "The bluish color of water in the sea is due to:",
+      "op_1": "Reflection of sky",
+      "op_2": "Scattering of light",
+      "op_3": "Refraction of light",
+      "op_4": "Absorption of light",
+      "ans": "Scattering of light"
+    },
+    {
+      "question": "A person using a lens of power +2.0 D for correcting his near vision. What is the defect he has?",
+      "op_1": "Myopia",
+      "op_2": "Hypermetropia",
+      "op_3": "Presbyopia",
+      "op_4": "Astigmatism",
+      "ans": "Hypermetropia"
+    },
+    {
+      "question": "Which of the following phenomena contributes to the formation of a rainbow?",
+      "op_1": "Reflection, refraction and dispersion",
+      "op_2": "Reflection and dispersion only",
+      "op_3": "Refraction and dispersion only",
+      "op_4": "Reflection and refraction only",
+      "ans": "Reflection, refraction and dispersion"
     }
   ]
 }

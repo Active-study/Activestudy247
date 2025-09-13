@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the main difference between metals and non-metals?",
-      "options": [
-        "Metals are good conductors of heat and electricity, while non-metals are not.",
-        "Metals are usually solid at room temperature, while non-metals can be solid, liquid, or gas.",
-        "Metals have high melting points, while non-metals have low melting points.",
-        "All of the above."
-      ],
-      "answer": "All of the above."
+      "question": "An element 'X' is electropositive and forms a chloride with formula XCl. This chloride is a solid with a high melting point. 'X' is most likely to be in the group of:",
+      "op_1": "Halogens",
+      "op_2": "Metals",
+      "op_3": "Non-metals",
+      "op_4": "Noble gases",
+      "ans": "Metals"
     },
     {
-      "question": "Which of the following is a property of metals?",
-      "options": [
-        "Brittleness",
-        "Dullness",
-        "Malleability",
-        "Poor conductivity"
-      ],
-      "answer": "Malleability"
+      "question": "Which of the following reactions is an example of a displacement reaction?",
+      "op_1": "Fe + 2HCl → FeCl₂ + H₂",
+      "op_2": "2HgO → 2Hg + O₂",
+      "op_3": "2H₂ + O₂ → 2H₂O",
+      "op_4": "Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl",
+      "ans": "Fe + 2HCl → FeCl₂ + H₂"
     },
     {
-      "question": "Which non-metal is essential for respiration?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "answer": "Oxygen"
+      "question": "An alloy is:",
+      "op_1": "An element",
+      "op_2": "A compound",
+      "op_3": "A homogeneous mixture",
+      "op_4": "A heterogeneous mixture",
+      "ans": "A homogeneous mixture"
+    },
+    {
+      "question": "Which of the following metals can be extracted by simply heating its sulphide ore in air?",
+      "op_1": "Zinc",
+      "op_2": "Copper",
+      "op_3": "Aluminium",
+      "op_4": "Mercury",
+      "ans": "Mercury"
+    },
+    {
+      "question": "The reaction: Fe₂O₃ + 2Al → 2Fe + Al₂O₃ + Heat is known as:",
+      "op_1": "Displacement reaction",
+      "op_2": "Combination reaction",
+      "op_3": "Thermite reaction",
+      "op_4": "Redox reaction",
+      "ans": "Thermite reaction"
+    },
+    {
+      "question": "Which of the following metals does not react with cold water but reacts with steam to form its oxide?",
+      "op_1": "Sodium",
+      "op_2": "Magnesium",
+      "op_3": "Iron",
+      "op_4": "Calcium",
+      "ans": "Iron"
+    },
+    {
+      "question": "The main ore of aluminium is:",
+      "op_1": "Bauxite",
+      "op_2": "Calamine",
+      "op_3": "Haematite",
+      "op_4": "Cinnabar",
+      "ans": "Bauxite"
+    },
+    {
+      "question": "During the refining of an impure metal by electrolysis, the pure metal is deposited:",
+      "op_1": "At the anode",
+      "op_2": "At the cathode",
+      "op_3": "In the electrolyte",
+      "op_4": "Does not deposit",
+      "ans": "At the cathode"
+    },
+    {
+      "question": "A student added a piece of zinc to four different test tubes containing different solutions. He would observe the evolution of hydrogen gas with:",
+      "op_1": "ZnSO₄ (aq)",
+      "op_2": "Na₂SO₄ (aq)",
+      "op_3": "CuSO₄ (aq)",
+      "op_4": "H₂SO₄ (aq)",
+      "ans": "H₂SO₄ (aq)"
+    },
+    {
+      "question": "An element 'X' forms an oxide X₂O₃. What is the valency of element 'X'?",
+      "op_1": "1",
+      "op_2": "2",
+      "op_3": "3",
+      "op_4": "4",
+      "ans": "3"
+    },
+    {
+      "question": "Which of the following methods is suitable for preventing an iron frying pan from rusting?",
+      "op_1": "Applying grease",
+      "op_2": "Applying paint",
+      "op_3": "Applying a coating of zinc",
+      "op_4": "All of the above",
+      "ans": "All of the above"
+    },
+    {
+      "question": "Which of the following non-metals is a good conductor of electricity?",
+      "op_1": "Sulphur",
+      "op_2": "Phosphorus",
+      "op_3": "Graphite",
+      "op_4": "Nitrogen",
+      "ans": "Graphite"
+    },
+    {
+      "question": "The process in which a carbonate ore is heated strongly in the absence of air to convert it into metal oxide is called:",
+      "op_1": "Roasting",
+      "op_2": "Calcination",
+      "op_3": "Smelting",
+      "op_4": "Refining",
+      "ans": "Calcination"
+    },
+    {
+      "question": "Which of the following metals is refined by the Mond process?",
+      "op_1": "Copper",
+      "op_2": "Nickel",
+      "op_3": "Aluminium",
+      "op_4": "Zinc",
+      "ans": "Nickel"
+    },
+    {
+      "question": "Which of the following statements is correct?",
+      "op_1": "All minerals are ores.",
+      "op_2": "All ores are minerals.",
+      "op_3": "Ores are non-metallic minerals.",
+      "op_4": "Ores are obtained from mines.",
+      "ans": "All ores are minerals."
     }
   ]
 }

@@ -1,19 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the pH value of pure water?",
-      "options": ["0", "7", "14", "10"],
-      "answer": "7"
+      "question": "Which acid is present in lemon?",
+      "op_1": "Acetic acid",
+      "op_2": "Citric acid",
+      "op_3": "Oxalic acid",
+      "op_4": "Lactic acid",
+      "ans": "Citric acid"
     },
     {
-      "question": "Which of the following is a strong acid?",
-      "options": ["Acetic acid", "Hydrochloric acid", "Citric acid", "Carbonic acid"],
-      "answer": "Hydrochloric acid"
+      "question": "Which of the following substances will turn blue litmus red?",
+      "op_1": "Baking soda",
+      "op_2": "Lime water",
+      "op_3": "Hydrochloric acid",
+      "op_4": "Soap solution",
+      "ans": "Hydrochloric acid"
     },
     {
-      "question": "What is the chemical formula for sodium hydroxide?",
-      "options": ["NaCl", "NaOH", "Na2SO4", "NaHCO3"],
-      "answer": "NaOH"
+      "question": "Which of the following is an alkali?",
+      "op_1": "NaOH",
+      "op_2": "CaCO₃",
+      "op_3": "ZnO",
+      "op_4": "HCl",
+      "ans": "NaOH"
+    },
+    {
+      "question": "The common name of sodium bicarbonate is:",
+      "op_1": "Baking soda",
+      "op_2": "Washing soda",
+      "op_3": "Caustic soda",
+      "op_4": "Slaked lime",
+      "ans": "Baking soda"
+    },
+    {
+      "question": "Which salt is used in toothpaste to prevent tooth decay?",
+      "op_1": "Sodium chloride",
+      "op_2": "Sodium fluoride",
+      "op_3": "Calcium carbonate",
+      "op_4": "Ammonium chloride",
+      "ans": "Sodium fluoride"
+    },
+    {
+      "question": "Which of the following is an example of a strong acid?",
+      "op_1": "Acetic acid",
+      "op_2": "Citric acid",
+      "op_3": "Hydrochloric acid",
+      "op_4": "Carbonic acid",
+      "ans": "Hydrochloric acid"
+    },
+    {
+      "question": "Which of the following is used to test whether a solution is acidic or basic?",
+      "op_1": "Sugar solution",
+      "op_2": "Salt solution",
+      "op_3": "Litmus solution",
+      "op_4": "Distilled water",
+      "ans": "Litmus solution"
+    },
+    {
+      "question": "Which of the following is a basic oxide?",
+      "op_1": "CO₂",
+      "op_2": "SO₂",
+      "op_3": "MgO",
+      "op_4": "N₂O",
+      "ans": "MgO"
+    },
+    {
+      "question": "The pH of neutral solution at 25°C is:",
+      "op_1": "0",
+      "op_2": "7",
+      "op_3": "14",
+      "op_4": "5",
+      "ans": "7"
+    },
+    {
+      "question": "Which gas is released when acids react with metals?",
+      "op_1": "Carbon dioxide",
+      "op_2": "Hydrogen",
+      "op_3": "Oxygen",
+      "op_4": "Nitrogen",
+      "ans": "Hydrogen"
+    },
+    {
+      "question": "Which acid is present in curd?",
+      "op_1": "Formic acid",
+      "op_2": "Acetic acid",
+      "op_3": "Lactic acid",
+      "op_4": "Citric acid",
+      "ans": "Lactic acid"
+    },
+    {
+      "question": "What is the pH of gastric juice?",
+      "op_1": "1-2",
+      "op_2": "5-6",
+      "op_3": "7",
+      "op_4": "10-12",
+      "ans": "1-2"
+    },
+    {
+      "question": "Which base is used in the manufacture of soap?",
+      "op_1": "Ca(OH)₂",
+      "op_2": "NaOH",
+      "op_3": "NH₄OH",
+      "op_4": "Mg(OH)₂",
+      "ans": "NaOH"
+    },
+    {
+      "question": "The chemical formula of washing soda is:",
+      "op_1": "Na₂CO₃·10H₂O",
+      "op_2": "NaHCO₃",
+      "op_3": "CaCO₃",
+      "op_4": "NaOH",
+      "ans": "Na₂CO₃·10H₂O"
+    },
+    {
+      "question": "Which indicator is colourless in acid and pink in base?",
+      "op_1": "Litmus",
+      "op_2": "Methyl orange",
+      "op_3": "Phenolphthalein",
+      "op_4": "Turmeric",
+      "ans": "Phenolphthalein"
     }
   ]
 }

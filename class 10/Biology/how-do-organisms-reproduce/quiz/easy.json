@@ -1,19 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the process by which organisms produce offspring?",
-      "options": ["Reproduction", "Respiration", "Digestion", "Excretion"],
-      "answer": "Reproduction"
+      "question": "Reproduction is essential for living organisms because:",
+      "op_1": "It helps in growth",
+      "op_2": "It helps in continuity of species",
+      "op_3": "It is a source of energy",
+      "op_4": "It causes variations only",
+      "ans": "It helps in continuity of species"
     },
     {
-      "question": "Which type of reproduction involves the fusion of male and female gametes?",
-      "options": ["Asexual", "Sexual", "Binary Fission", "Budding"],
-      "answer": "Sexual"
+      "question": "The method of asexual reproduction in yeast is:",
+      "op_1": "Fragmentation",
+      "op_2": "Budding",
+      "op_3": "Spore formation",
+      "op_4": "Binary fission",
+      "ans": "Budding"
     },
     {
-      "question": "What is the term for a single-celled organism that reproduces by binary fission?",
-      "options": ["Bacteria", "Fungi", "Plants", "Animals"],
-      "answer": "Bacteria"
+      "question": "Binary fission in Amoeba is:",
+      "op_1": "Unequal division",
+      "op_2": "Equal division",
+      "op_3": "Multiple division",
+      "op_4": "Spore formation",
+      "ans": "Equal division"
+    },
+    {
+      "question": "Which part of a flower is the male reproductive organ?",
+      "op_1": "Carpel",
+      "op_2": "Ovary",
+      "op_3": "Stamen",
+      "op_4": "Sepal",
+      "ans": "Stamen"
+    },
+    {
+      "question": "Which part of the flower develops into a fruit?",
+      "op_1": "Petal",
+      "op_2": "Ovary",
+      "op_3": "Stigma",
+      "op_4": "Anther",
+      "ans": "Ovary"
+    },
+    {
+      "question": "Which of the following is NOT an asexual method of reproduction?",
+      "op_1": "Budding",
+      "op_2": "Spore formation",
+      "op_3": "Fertilisation",
+      "op_4": "Fragmentation",
+      "ans": "Fertilisation"
+    },
+    {
+      "question": "Pollination is:",
+      "op_1": "Transfer of pollen to ovule",
+      "op_2": "Transfer of pollen to stigma",
+      "op_3": "Transfer of pollen to sepal",
+      "op_4": "Transfer of pollen to petal",
+      "ans": "Transfer of pollen to stigma"
+    },
+    {
+      "question": "Which of the following is a unisexual flower?",
+      "op_1": "Mustard",
+      "op_2": "Hibiscus",
+      "op_3": "Papaya",
+      "op_4": "Sunflower",
+      "ans": "Papaya"
+    },
+    {
+      "question": "The anther contains:",
+      "op_1": "Ovules",
+      "op_2": "Pollen grains",
+      "op_3": "Egg cells",
+      "op_4": "Seeds",
+      "ans": "Pollen grains"
+    },
+    {
+      "question": "Which organ produces sperm in humans?",
+      "op_1": "Ovary",
+      "op_2": "Testis",
+      "op_3": "Uterus",
+      "op_4": "Fallopian tube",
+      "ans": "Testis"
+    },
+    {
+      "question": "Which organ produces eggs in humans?",
+      "op_1": "Ovary",
+      "op_2": "Testis",
+      "op_3": "Uterus",
+      "op_4": "Vagina",
+      "ans": "Ovary"
+    },
+    {
+      "question": "Which of the following organisms reproduces by fragmentation?",
+      "op_1": "Amoeba",
+      "op_2": "Plasmodium",
+      "op_3": "Spirogyra",
+      "op_4": "Hydra",
+      "ans": "Spirogyra"
+    },
+    {
+      "question": "Which of the following is a contraceptive method?",
+      "op_1": "Use of condom",
+      "op_2": "Use of antibiotic",
+      "op_3": "Use of vaccine",
+      "op_4": "Use of painkiller",
+      "ans": "Use of condom"
+    },
+    {
+      "question": "Which of the following is a sexually transmitted disease?",
+      "op_1": "Tuberculosis",
+      "op_2": "AIDS",
+      "op_3": "Diabetes",
+      "op_4": "Hypertension",
+      "ans": "AIDS"
+    },
+    {
+      "question": "The process of fusion of male and female gametes is called:",
+      "op_1": "Fission",
+      "op_2": "Pollination",
+      "op_3": "Fertilisation",
+      "op_4": "Fragmentation",
+      "ans": "Fertilisation"
     }
   ]
 }

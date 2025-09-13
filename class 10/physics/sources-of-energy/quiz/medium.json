@@ -1,19 +1,124 @@
 {
-  "quiz": [
+  "data": [
     {
-      "question": "What is the primary source of energy for the Earth?",
-      "options": ["Solar Energy", "Wind Energy", "Geothermal Energy", "Nuclear Energy"],
-      "answer": "Solar Energy"
+      "question": "Which of the following is not a disadvantage of solar energy?",
+      "op_1": "It is available only during the day",
+      "op_2": "It causes pollution",
+      "op_3": "It is costly to install",
+      "op_4": "It is not available during cloudy weather",
+      "ans": "It causes pollution"
     },
     {
-      "question": "Which of the following is a non-renewable source of energy?",
-      "options": ["Solar", "Wind", "Coal", "Hydro"],
-      "answer": "Coal"
+      "question": "Ocean thermal energy is produced due to:",
+      "op_1": "Kinetic energy of tides",
+      "op_2": "Temperature difference between water at different depths",
+      "op_3": "Wave energy",
+      "op_4": "Movement of ocean currents",
+      "ans": "Temperature difference between water at different depths"
     },
     {
-      "question": "What is the process of converting solar energy into electrical energy called?",
-      "options": ["Photosynthesis", "Solar Power Generation", "Nuclear Fusion", "Geothermal Energy"],
-      "answer": "Solar Power Generation"
+      "question": "Why is charcoal considered a better fuel than wood?",
+      "op_1": "It is smokeless and has higher calorific value",
+      "op_2": "It burns with more smoke",
+      "op_3": "It produces more ash",
+      "op_4": "It has less calorific value",
+      "ans": "It is smokeless and has higher calorific value"
+    },
+    {
+      "question": "In a hydropower plant, potential energy of water is transformed into:",
+      "op_1": "Light energy",
+      "op_2": "Heat energy",
+      "op_3": "Mechanical energy and then electrical energy",
+      "op_4": "Chemical energy",
+      "ans": "Mechanical energy and then electrical energy"
+    },
+    {
+      "question": "What is the disadvantage of constructing dams?",
+      "op_1": "Control floods",
+      "op_2": "Provide irrigation",
+      "op_3": "Cause displacement of people",
+      "op_4": "Produce electricity",
+      "ans": "Cause displacement of people"
+    },
+    {
+      "question": "Which of the following does not directly or indirectly depend on solar energy?",
+      "op_1": "Wind energy",
+      "op_2": "Biomass",
+      "op_3": "Geothermal energy",
+      "op_4": "Hydropower",
+      "ans": "Geothermal energy"
+    },
+    {
+      "question": "In nuclear power plants, the nuclear fuel commonly used is:",
+      "op_1": "Thorium",
+      "op_2": "Uranium-235",
+      "op_3": "Plutonium",
+      "op_4": "Cobalt",
+      "ans": "Uranium-235"
+    },
+    {
+      "question": "Which of the following is a clean source of energy?",
+      "op_1": "CNG",
+      "op_2": "Biogas",
+      "op_3": "Hydropower",
+      "op_4": "All of the above",
+      "ans": "All of the above"
+    },
+    {
+      "question": "Biogas plants mainly use:",
+      "op_1": "Coal",
+      "op_2": "Petroleum",
+      "op_3": "Animal dung and organic wastes",
+      "op_4": "Natural gas",
+      "ans": "Animal dung and organic wastes"
+    },
+    {
+      "question": "What is the major constituent of LPG?",
+      "op_1": "Butane",
+      "op_2": "Methane",
+      "op_3": "Ethane",
+      "op_4": "Propane",
+      "ans": "Butane"
+    },
+    {
+      "question": "Geothermal energy is obtained from:",
+      "op_1": "Sun",
+      "op_2": "Earth’s interior",
+      "op_3": "Sea waves",
+      "op_4": "Wind",
+      "ans": "Earth’s interior"
+    },
+    {
+      "question": "Which one of the following is not a biomass fuel?",
+      "op_1": "Wood",
+      "op_2": "Cow dung",
+      "op_3": "Petrol",
+      "op_4": "Biogas",
+      "ans": "Petrol"
+    },
+    {
+      "question": "Which of the following energy sources can be used for producing electricity in remote areas?",
+      "op_1": "Nuclear power",
+      "op_2": "Solar cells",
+      "op_3": "Thermal power",
+      "op_4": "Diesel engine",
+      "ans": "Solar cells"
+    },
+    {
+      "question": "Nuclear energy is obtained by:",
+      "op_1": "Nuclear fission",
+      "op_2": "Nuclear fusion",
+      "op_3": "Both A and B",
+      "op_4": "None",
+      "ans": "Nuclear fission"
+    },
+    {
+      "question": "Windmills are used to:",
+      "op_1": "Store wind energy",
+      "op_2": "Convert kinetic energy of wind into electrical energy",
+      "op_3": "Stop storms",
+      "op_4": "Generate tidal energy",
+      "ans": "Convert kinetic energy of wind into electrical energy"
     }
   ]
 }

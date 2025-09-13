@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the law of reflection?",
-      "options": {
-        "A": "The angle of incidence is equal to the angle of reflection.",
-        "B": "The angle of incidence is greater than the angle of reflection.",
-        "C": "The angle of incidence is less than the angle of reflection.",
-        "D": "The angle of incidence is not related to the angle of reflection."
-      },
-      "answer": "A"
+      "question": "A student obtained the image of a distant tree using a convex lens. To determine the focal length of the lens, he should measure the distance between:",
+      "op_1": "Lens and the tree",
+      "op_2": "Lens and the screen",
+      "op_3": "Screen and the tree",
+      "op_4": "None of these",
+      "ans": "Lens and the screen"
     },
     {
-      "question": "What type of lens is used to correct nearsightedness?",
-      "options": {
-        "A": "Convex lens",
-        "B": "Concave lens",
-        "C": "Bifocal lens",
-        "D": "Cylindrical lens"
-      },
-      "answer": "B"
+      "question": "The nature of the image formed by a plane mirror is:",
+      "op_1": "Real and inverted",
+      "op_2": "Virtual and upright",
+      "op_3": "Diminished and real",
+      "op_4": "Magnified and inverted",
+      "ans": "Virtual and upright"
     },
     {
-      "question": "What phenomenon causes a rainbow to form?",
-      "options": {
-        "A": "Reflection",
-        "B": "Refraction",
-        "C": "Diffraction",
-        "D": "Absorption"
-      },
-      "answer": "B"
+      "question": "The image formed on a cinema screen is:",
+      "op_1": "Real and inverted",
+      "op_2": "Virtual and inverted",
+      "op_3": "Real and erect",
+      "op_4": "Virtual and erect",
+      "ans": "Real and inverted"
+    },
+    {
+      "question": "The unit of power of a lens is:",
+      "op_1": "Metre",
+      "op_2": "Dioptre",
+      "op_3": "Centimetre",
+      "op_4": "Joule",
+      "ans": "Dioptre"
+    },
+    {
+      "question": "The refractive index of a medium depends on:",
+      "op_1": "Angle of incidence only",
+      "op_2": "Nature of the medium only",
+      "op_3": "Wavelength of light only",
+      "op_4": "Both nature of the medium and wavelength of light",
+      "ans": "Both nature of the medium and wavelength of light"
+    },
+    {
+      "question": "If the object is placed at the focus of a concave mirror, the image formed is:",
+      "op_1": "Real and highly diminished",
+      "op_2": "Real and at infinity",
+      "op_3": "Virtual and erect",
+      "op_4": "At the centre of curvature",
+      "ans": "Real and at infinity"
+    },
+    {
+      "question": "The absolute refractive index of air is approximately:",
+      "op_1": "1.33",
+      "op_2": "1.0",
+      "op_3": "1.5",
+      "op_4": "1.25",
+      "ans": "1.0"
+    },
+    {
+      "question": "A ray of light incident normally on the surface of glass slab emerges:",
+      "op_1": "Deviated",
+      "op_2": "Undeviated",
+      "op_3": "Totally reflected",
+      "op_4": "Dispersed",
+      "ans": "Undeviated"
+    },
+    {
+      "question": "A convex mirror is commonly used in vehicles because:",
+      "op_1": "It forms real images",
+      "op_2": "It has a large field of view",
+      "op_3": "It gives magnified images",
+      "op_4": "It inverts the image",
+      "ans": "It has a large field of view"
+    },
+    {
+      "question": "The SI unit of focal length is:",
+      "op_1": "Metre",
+      "op_2": "Centimetre",
+      "op_3": "Dioptre",
+      "op_4": "Millimetre",
+      "ans": "Metre"
+    },
+    {
+      "question": "The image formed by a convex mirror is always:",
+      "op_1": "Virtual, erect and diminished",
+      "op_2": "Real, inverted and diminished",
+      "op_3": "Real, erect and magnified",
+      "op_4": "Virtual, erect and magnified",
+      "ans": "Virtual, erect and diminished"
+    },
+    {
+      "question": "The phenomenon of rainbow formation is due to:",
+      "op_1": "Dispersion of light",
+      "op_2": "Diffraction of light",
+      "op_3": "Polarisation of light",
+      "op_4": "Interference of light",
+      "ans": "Dispersion of light"
+    },
+    {
+      "question": "The refractive index of water is 1.33. This means that the speed of light in water is:",
+      "op_1": "1.33 times faster than in vacuum",
+      "op_2": "1.33 times slower than in vacuum",
+      "op_3": "Same as in vacuum",
+      "op_4": "Twice that in vacuum",
+      "ans": "1.33 times slower than in vacuum"
+    },
+    {
+      "question": "Which of the following can produce a virtual, magnified and erect image?",
+      "op_1": "Concave lens",
+      "op_2": "Concave mirror",
+      "op_3": "Plane mirror",
+      "op_4": "Convex mirror",
+      "ans": "Concave mirror"
+    },
+    {
+      "question": "The power of a concave lens is –2D. Its focal length is:",
+      "op_1": "–100 cm",
+      "op_2": "–50 cm",
+      "op_3": "+100 cm",
+      "op_4": "+50 cm",
+      "ans": "–50 cm"
     }
   ]
 }

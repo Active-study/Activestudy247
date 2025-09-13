@@ -1,22 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the basic unit of heredity?",
-      "options": ["Gene", "Chromosome", "DNA", "RNA"],
-      "answer": "Gene",
-      "difficulty": "hard"
+      "question": "A man with blood group AB marries a woman with blood group O. The possible blood groups of their children will be:",
+      "op_1": "A and B",
+      "op_2": "A, B and O",
+      "op_3": "A, B, AB",
+      "op_4": "Only AB",
+      "ans": "A and B"
     },
     {
-      "question": "What is the process by which traits are passed from parents to offspring?",
-      "options": ["Evolution", "Heredity", "Genetics", "Mutation"],
-      "answer": "Heredity",
-      "difficulty": "hard"
+      "question": "Which of the following represents a monohybrid cross?",
+      "op_1": "Tt × Tt",
+      "op_2": "TtRr × TtRr",
+      "op_3": "TTRR × ttrr",
+      "op_4": "TTRr × TtRr",
+      "ans": "Tt × Tt"
     },
     {
-      "question": "Which of the following is an example of a dominant trait?",
-      "options": ["Blue eyes", "Brown eyes", "Cystic fibrosis", "Sickle cell anemia"],
-      "answer": "Brown eyes",
-      "difficulty": "hard"
+      "question": "The F2 generation obtained from a dihybrid cross shows a phenotypic ratio of:",
+      "op_1": "3:1",
+      "op_2": "9:3:3:1",
+      "op_3": "1:2:1",
+      "op_4": "1:1",
+      "ans": "9:3:3:1"
+    },
+    {
+      "question": "The term ‘evolution’ means:",
+      "op_1": "Progressive development of species",
+      "op_2": "Changes in the characteristics of species over generations",
+      "op_3": "Sudden creation of new species",
+      "op_4": "Disappearance of old species",
+      "ans": "Changes in the characteristics of species over generations"
+    },
+    {
+      "question": "Which of the following evidences strongly supports organic evolution?",
+      "op_1": "Homologous organs",
+      "op_2": "Analogous organs",
+      "op_3": "Acquired characters",
+      "op_4": "Presence of chlorophyll",
+      "ans": "Homologous organs"
+    },
+    {
+      "question": "The human forelimb and the wing of a bird are examples of:",
+      "op_1": "Analogous organs",
+      "op_2": "Vestigial organs",
+      "op_3": "Homologous organs",
+      "op_4": "Embryological organs",
+      "ans": "Homologous organs"
+    },
+    {
+      "question": "The appearance of new species due to geographical isolation is called:",
+      "op_1": "Speciation",
+      "op_2": "Mutation",
+      "op_3": "Hybridisation",
+      "op_4": "Variation",
+      "ans": "Speciation"
+    },
+    {
+      "question": "Evolution of eyes in different organisms such as octopus, insects and vertebrates is an example of:",
+      "op_1": "Divergent evolution",
+      "op_2": "Convergent evolution",
+      "op_3": "Artificial selection",
+      "op_4": "Adaptive radiation",
+      "ans": "Convergent evolution"
+    },
+    {
+      "question": "Industrial melanism observed in peppered moths is an example of:",
+      "op_1": "Artificial selection",
+      "op_2": "Natural selection",
+      "op_3": "Mutation",
+      "op_4": "Genetic drift",
+      "ans": "Natural selection"
+    },
+    {
+      "question": "The vestigial organ ‘appendix’ in human beings is of no use but in herbivorous animals it helps in:",
+      "op_1": "Digestion of fats",
+      "op_2": "Digestion of cellulose",
+      "op_3": "Production of hormones",
+      "op_4": "Circulation of blood",
+      "ans": "Digestion of cellulose"
+    },
+    {
+      "question": "The presence of fossils in sedimentary rocks provides evidence for:",
+      "op_1": "Evolution",
+      "op_2": "Photosynthesis",
+      "op_3": "Artificial breeding",
+      "op_4": "Domestication",
+      "ans": "Evolution"
+    },
+    {
+      "question": "The similarity in embryonic development of fish, birds and humans shows:",
+      "op_1": "Common ancestry",
+      "op_2": "Different ancestry",
+      "op_3": "Mutation",
+      "op_4": "Artificial selection",
+      "ans": "Common ancestry"
+    },
+    {
+      "question": "Genetic drift operates in:",
+      "op_1": "Large populations",
+      "op_2": "Small isolated populations",
+      "op_3": "Populations with mutations only",
+      "op_4": "Populations with no variations",
+      "ans": "Small isolated populations"
+    },
+    {
+      "question": "Which one of the following is an example of artificial selection?",
+      "op_1": "Darwin’s finches",
+      "op_2": "Varieties of cabbage",
+      "op_3": "Peppered moths",
+      "op_4": "Industrial melanism",
+      "ans": "Varieties of cabbage"
+    },
+    {
+      "question": "The theory of natural selection states that:",
+      "op_1": "Only useful variations are passed on to the next generation",
+      "op_2": "All variations are passed on to the next generation",
+      "op_3": "No variations are passed on",
+      "op_4": "Acquired traits are inherited",
+      "ans": "Only useful variations are passed on to the next generation"
     }
   ]
 }

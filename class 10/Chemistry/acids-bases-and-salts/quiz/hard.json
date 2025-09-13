@@ -1,22 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the pH range of acids?",
-      "options": ["0-7", "7-14", "7", "14"],
-      "answer": "0-7",
-      "difficulty": "hard"
+      "question": "Why is dry HCl gas not acidic in nature?",
+      "op_1": "Because it does not dissolve in water",
+      "op_2": "Because it does not contain hydrogen",
+      "op_3": "Because it is neutral",
+      "op_4": "Because it is unstable",
+      "ans": "Because it does not dissolve in water"
     },
     {
-      "question": "What is the chemical formula for hydrochloric acid?",
-      "options": ["HCl", "H2SO4", "NaOH", "CH3COOH"],
-      "answer": "HCl",
-      "difficulty": "hard"
+      "question": "Which of the following salts will give acidic solution in water?",
+      "op_1": "Na₂CO₃",
+      "op_2": "NH₄Cl",
+      "op_3": "CH₃COONa",
+      "op_4": "NaCl",
+      "ans": "NH₄Cl"
     },
     {
-      "question": "Which of the following is a strong acid?",
-      "options": ["Acetic acid", "Sulfuric acid", "Citric acid", "Carbonic acid"],
-      "answer": "Sulfuric acid",
-      "difficulty": "hard"
+      "question": "Why is Plaster of Paris stored in airtight containers?",
+      "op_1": "To prevent it from absorbing CO₂",
+      "op_2": "To prevent it from hardening by absorbing moisture",
+      "op_3": "To prevent it from reacting with oxygen",
+      "op_4": "To prevent it from losing whiteness",
+      "ans": "To prevent it from hardening by absorbing moisture"
+    },
+    {
+      "question": "The pH of a solution is 3. What will be its hydrogen ion concentration?",
+      "op_1": "1 × 10⁻³ M",
+      "op_2": "1 × 10⁻² M",
+      "op_3": "1 × 10⁻⁴ M",
+      "op_4": "1 × 10⁻⁵ M",
+      "ans": "1 × 10⁻³ M"
+    },
+    {
+      "question": "Which acid is used for removing oxide layer from metal surfaces before galvanisation?",
+      "op_1": "Nitric acid",
+      "op_2": "Sulphuric acid",
+      "op_3": "Hydrochloric acid",
+      "op_4": "Carbonic acid",
+      "ans": "Sulphuric acid"
+    },
+    {
+      "question": "Why does tooth enamel get corroded when pH in the mouth falls below 5.5?",
+      "op_1": "Because it reacts with acids formed by bacteria",
+      "op_2": "Because it dissolves in water",
+      "op_3": "Because it reacts with bases",
+      "op_4": "Because it is insoluble in alkali",
+      "ans": "Because it reacts with acids formed by bacteria"
+    },
+    {
+      "question": "Which one of the following salts gives basic solution in water?",
+      "op_1": "NH₄Cl",
+      "op_2": "CH₃COONa",
+      "op_3": "NaHSO₄",
+      "op_4": "NaNO₃",
+      "ans": "CH₃COONa"
+    },
+    {
+      "question": "Why is baking powder used in making cakes?",
+      "op_1": "It produces CO₂ and makes the cake soft and spongy",
+      "op_2": "It produces H₂ gas",
+      "op_3": "It produces SO₂ gas",
+      "op_4": "It increases sweetness",
+      "ans": "It produces CO₂ and makes the cake soft and spongy"
+    },
+    {
+      "question": "Which chemical is used to neutralize the effect of acid rain on lakes?",
+      "op_1": "NaCl",
+      "op_2": "CaCO₃",
+      "op_3": "NH₄OH",
+      "op_4": "HCl",
+      "ans": "CaCO₃"
+    },
+    {
+      "question": "Which salt is used to remove hardness of water?",
+      "op_1": "NaCl",
+      "op_2": "Na₂CO₃",
+      "op_3": "CaSO₄",
+      "op_4": "NH₄Cl",
+      "ans": "Na₂CO₃"
+    },
+    {
+      "question": "Why does aqueous solution of NaCl not show acidic or basic nature?",
+      "op_1": "Because NaCl is a neutral salt",
+      "op_2": "Because NaCl is a strong base",
+      "op_3": "Because NaCl is a weak acid",
+      "op_4": "Because NaCl is amphoteric",
+      "ans": "Because NaCl is a neutral salt"
+    },
+    {
+      "question": "Which acid is formed when CO₂ dissolves in water?",
+      "op_1": "H₂SO₄",
+      "op_2": "HNO₃",
+      "op_3": "H₂CO₃",
+      "op_4": "HCl",
+      "ans": "H₂CO₃"
+    },
+    {
+      "question": "Which chemical is known as 'caustic soda'?",
+      "op_1": "NaOH",
+      "op_2": "Na₂CO₃",
+      "op_3": "NaHCO₃",
+      "op_4": "Ca(OH)₂",
+      "ans": "NaOH"
+    },
+    {
+      "question": "Which acid is used in making fertilizers and explosives?",
+      "op_1": "Sulphuric acid",
+      "op_2": "Nitric acid",
+      "op_3": "Hydrochloric acid",
+      "op_4": "Acetic acid",
+      "ans": "Nitric acid"
+    },
+    {
+      "question": "Which salt is used in the preparation of chlorine?",
+      "op_1": "Na₂CO₃",
+      "op_2": "NaCl",
+      "op_3": "NaHCO₃",
+      "op_4": "CaSO₄",
+      "ans": "NaCl"
     }
   ]
 }

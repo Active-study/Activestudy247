@@ -1,22 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the unit of electric current?",
-      "options": ["Volt", "Ampere", "Ohm", "Watt"],
-      "answer": "Ampere",
-      "difficulty": "hard"
+      "question": "A circuit consists of a 12V battery connected to two parallel branches. The first branch has two 6Ω resistors in series, while the second branch has a single 4Ω resistor. Determine the current in each branch and the equivalent resistance of the circuit.",
+      "op_1": "Branch currents: 1 A and 3 A; Req = 3Ω",
+      "op_2": "Branch currents: 2 A and 2 A; Req = 4Ω",
+      "op_3": "Branch currents: 3 A and 1 A; Req = 2Ω",
+      "op_4": "Branch currents: 1.5 A and 1.5 A; Req = 3Ω",
+      "ans": "Branch currents: 1 A and 3 A; Req = 3Ω"
     },
     {
-      "question": "What is the formula for calculating electrical power?",
-      "options": ["P = IV", "P = I^2R", "P = V^2/R", "All of the above"],
-      "answer": "All of the above",
-      "difficulty": "hard"
+      "question": "In a circuit, resistors of 5Ω, 10Ω, and 15Ω are connected such that the 5Ω and 10Ω are in parallel, and this combination is in series with the 15Ω resistor. What is the equivalent resistance of the circuit?",
+      "op_1": "18.33Ω",
+      "op_2": "13.33Ω",
+      "op_3": "20Ω",
+      "op_4": "17.33Ω",
+      "ans": "18.33Ω"
     },
     {
-      "question": "What is the effect of increasing resistance in a circuit?",
-      "options": ["Increases current", "Decreases current", "No effect", "Increases voltage"],
-      "answer": "Decreases current",
-      "difficulty": "hard"
+      "question": "A square network is built using four identical resistors of 8Ω each, arranged along the edges. What is the equivalent resistance between two adjacent nodes of the square?",
+      "op_1": "4Ω",
+      "op_2": "8Ω",
+      "op_3": "16Ω",
+      "op_4": "2Ω",
+      "ans": "4Ω"
+    },
+    {
+      "question": "Using Thevenin’s theorem, a complex network is reduced to a 10V source in series with a 5Ω resistor. If this is connected to a 10Ω load resistor, what is the power delivered to the load?",
+      "op_1": "4.44 W",
+      "op_2": "6.67 W",
+      "op_3": "5 W",
+      "op_4": "3.33 W",
+      "ans": "4.44 W"
+    },
+    {
+      "question": "In a balanced Wheatstone bridge, if one branch contains resistors of 10Ω and 20Ω, and the opposite branch has one resistor of 30Ω, what must be the value of the unknown resistor for balance?",
+      "op_1": "15Ω",
+      "op_2": "20Ω",
+      "op_3": "10Ω",
+      "op_4": "30Ω",
+      "ans": "15Ω"
+    },
+    {
+      "question": "A 60W bulb is designed to operate at 240V. If a series switch introduces a voltage drop such that the bulb receives 230V, what is the approximate resistance of the switch?",
+      "op_1": "Approximately 42Ω",
+      "op_2": "Approximately 24Ω",
+      "op_3": "Approximately 60Ω",
+      "op_4": "Approximately 10Ω",
+      "ans": "Approximately 42Ω"
+    },
+    {
+      "question": "A 100Ω resistor with a tolerance of ±10% is used in a voltage divider connected to a 5V supply. What is the maximum possible current through the resistor in the worst-case scenario?",
+      "op_1": "Approximately 0.056 A",
+      "op_2": "Approximately 0.045 A",
+      "op_3": "Approximately 0.05 A",
+      "op_4": "Approximately 0.1 A",
+      "ans": "Approximately 0.056 A"
+    },
+    {
+      "question": "An electric heater rated at 2 kW is connected to a 230V supply. Determine the resistance of the heater and the current it draws.",
+      "op_1": "Approximately 26.5Ω and 8.7A",
+      "op_2": "Approximately 30Ω and 7.7A",
+      "op_3": "Approximately 20Ω and 11.5A",
+      "op_4": "Approximately 15Ω and 15.3A",
+      "ans": "Approximately 26.5Ω and 8.7A"
+    },
+    {
+      "question": "In an RL circuit with a resistor of 50Ω and an inductor of 0.2H connected to a 120V AC source operating at 60Hz, calculate the phase angle between the voltage and current.",
+      "op_1": "Approximately 56°",
+      "op_2": "Approximately 45°",
+      "op_3": "Approximately 60°",
+      "op_4": "Approximately 30°",
+      "ans": "Approximately 56°"
+    },
+    {
+      "question": "In a circuit with a 12V battery (internal resistance 1Ω), the current is reduced by 20% from an initial 2A when a variable resistor is adjusted. What is the new external resistance in the circuit?",
+      "op_1": "6.5Ω",
+      "op_2": "5Ω",
+      "op_3": "7.5Ω",
+      "op_4": "4.5Ω",
+      "ans": "6.5Ω"
+    },
+    {
+      "question": "Three resistors of 10Ω, 20Ω, and 30Ω are connected in parallel. If the measured equivalent resistance is 5.2Ω, what is the percentage error compared to the theoretical value?",
+      "op_1": "Approximately 4.65%",
+      "op_2": "Approximately 5.5%",
+      "op_3": "Approximately 3%",
+      "op_4": "Approximately 6%",
+      "ans": "Approximately 4.65%"
+    },
+    {
+      "question": "Power loss in a transmission line is proportional to the square of the current. If the current is reduced by 25%, by what percentage does the power loss decrease?",
+      "op_1": "Approximately 43.75%",
+      "op_2": "Approximately 25%",
+      "op_3": "Approximately 50%",
+      "op_4": "Approximately 56.25%",
+      "ans": "Approximately 43.75%"
+    },
+    {
+      "question": "Two 9V batteries with internal resistances of 1Ω and 2Ω respectively are connected in series and then connected to a 10Ω load. What is the terminal voltage of the battery combination?",
+      "op_1": "Approximately 13.85V",
+      "op_2": "Approximately 15V",
+      "op_3": "Approximately 12V",
+      "op_4": "Approximately 16V",
+      "ans": "Approximately 13.85V"
+    },
+    {
+      "question": "In an RC circuit, if the time constant is 2 seconds and the capacitor has a capacitance of 50μF, what is the resistance in the circuit?",
+      "op_1": "40 kΩ",
+      "op_2": "20 kΩ",
+      "op_3": "50 kΩ",
+      "op_4": "80 kΩ",
+      "ans": "40 kΩ"
+    },
+    {
+      "question": "A non-ohmic conductor shows a V-I relationship described by V = kI². How does the differential resistance (dV/dI) compare to the ratio V/I at any instant?",
+      "op_1": "It is twice the ratio V/I",
+      "op_2": "It is half the ratio V/I",
+      "op_3": "It is the same as V/I",
+      "op_4": "It is the square of V/I",
+      "ans": "It is twice the ratio V/I"
     }
   ]
 }

@@ -1,19 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the basic unit of matter?",
-      "options": ["Atom", "Molecule", "Compound", "Element"],
-      "answer": "Atom"
+      "question": "Which of the following is the most ductile metal?",
+      "op_1": "Aluminium",
+      "op_2": "Silver",
+      "op_3": "Gold",
+      "op_4": "Copper",
+      "ans": "Gold"
     },
     {
-      "question": "Which of the following is a non-metal?",
-      "options": ["Iron", "Copper", "Oxygen", "Gold"],
-      "answer": "Oxygen"
+      "question": "The ability of metals to be drawn into thin wires is called:",
+      "op_1": "Ductility",
+      "op_2": "Malleability",
+      "op_3": "Sonorous",
+      "op_4": "Conductivity",
+      "ans": "Ductility"
     },
     {
-      "question": "What is the process of combining metals with non-metals called?",
-      "options": ["Electrolysis", "Reduction", "Oxidation", "Alloying"],
-      "answer": "Alloying"
+      "question": "Which of the following metals is stored in kerosene?",
+      "op_1": "Iron",
+      "op_2": "Zinc",
+      "op_3": "Sodium",
+      "op_4": "Silver",
+      "ans": "Sodium"
+    },
+    {
+      "question": "What is the chemical formula of rust?",
+      "op_1": "FeO",
+      "op_2": "Fe₂O₃",
+      "op_3": "Fe₂O₃.xH₂O",
+      "op_4": "Fe₃O₄",
+      "ans": "Fe₂O₃.xH₂O"
+    },
+    {
+      "question": "Which gas is produced when a metal reacts with a dilute acid?",
+      "op_1": "Oxygen",
+      "op_2": "Nitrogen",
+      "op_3": "Hydrogen",
+      "op_4": "Chlorine",
+      "ans": "Hydrogen"
+    },
+    {
+      "question": "Which of the following is a non-metal that is liquid at room temperature?",
+      "op_1": "Bromine",
+      "op_2": "Chlorine",
+      "op_3": "Iodine",
+      "op_4": "Carbon",
+      "ans": "Bromine"
+    },
+    {
+      "question": "Which of the following metals is the best conductor of electricity?",
+      "op_1": "Gold",
+      "op_2": "Silver",
+      "op_3": "Copper",
+      "op_4": "Aluminium",
+      "ans": "Silver"
+    },
+    {
+      "question": "What is the nature of the oxide formed by most non-metals?",
+      "op_1": "Basic",
+      "op_2": "Acidic",
+      "op_3": "Neutral",
+      "op_4": "Amphoteric",
+      "ans": "Acidic"
+    },
+    {
+      "question": "Which metal is present in both brass and bronze?",
+      "op_1": "Zinc",
+      "op_2": "Tin",
+      "op_3": "Copper",
+      "op_4": "Aluminium",
+      "ans": "Copper"
+    },
+    {
+      "question": "The process of depositing a thin layer of one metal over another using electricity is called:",
+      "op_1": "Galvanisation",
+      "op_2": "Electroplating",
+      "op_3": "Alloying",
+      "op_4": "Refining",
+      "ans": "Electroplating"
+    },
+    {
+      "question": "Which of the following is not a property of non-metals?",
+      "op_1": "They are poor conductors of heat.",
+      "op_2": "They are malleable.",
+      "op_3": "They form acidic oxides.",
+      "op_4": "They are not sonorous.",
+      "ans": "They are malleable."
+    },
+    {
+      "question": "Which metal is used for galvanising iron to protect it from rusting?",
+      "op_1": "Copper",
+      "op_2": "Zinc",
+      "op_3": "Tin",
+      "op_4": "Lead",
+      "ans": "Zinc"
+    },
+    {
+      "question": "Which of the following pairs will give displacement reactions?",
+      "op_1": "NaCl solution and copper metal",
+      "op_2": "MgCl₂ solution and aluminium metal",
+      "op_3": "FeSO₄ solution and silver metal",
+      "op_4": "AgNO₃ solution and copper metal",
+      "ans": "AgNO₃ solution and copper metal"
+    },
+    {
+      "question": "An element reacts with oxygen to form an oxide which dissolves in water to turn blue litmus red. The element is:",
+      "op_1": "Sodium",
+      "op_2": "Magnesium",
+      "op_3": "Sulphur",
+      "op_4": "Calcium",
+      "ans": "Sulphur"
+    },
+    {
+      "question": "Which of the following is an alloy of mercury?",
+      "op_1": "Brass",
+      "op_2": "Bronze",
+      "op_3": "Amalgam",
+      "op_4": "Solder",
+      "ans": "Amalgam"
     }
   ]
 }

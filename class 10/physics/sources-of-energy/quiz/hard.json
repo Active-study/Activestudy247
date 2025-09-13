@@ -1,37 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the primary source of energy for the Earth?",
-      "options": [
-        "Nuclear energy",
-        "Solar energy",
-        "Wind energy",
-        "Geothermal energy"
-      ],
-      "answer": "Solar energy",
-      "difficulty": "hard"
+      "question": "Why is it better to use CNG and LPG as fuels instead of coal?",
+      "op_1": "They burn without smoke and leave no residue",
+      "op_2": "They are cheaper",
+      "op_3": "They are liquid fuels",
+      "op_4": "They have less calorific value",
+      "ans": "They burn without smoke and leave no residue"
     },
     {
-      "question": "Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydropower"
-      ],
-      "answer": "Coal",
-      "difficulty": "hard"
+      "question": "Which one is an example of a non-conventional source of energy?",
+      "op_1": "Coal",
+      "op_2": "Petroleum",
+      "op_3": "Nuclear energy",
+      "op_4": "Natural gas",
+      "ans": "Nuclear energy"
     },
     {
-      "question": "What is the main advantage of using renewable energy sources?",
-      "options": [
-        "They are cheaper",
-        "They are abundant and sustainable",
-        "They require less maintenance",
-        "They are more efficient"
-      ],
-      "answer": "They are abundant and sustainable",
-      "difficulty": "hard"
+      "question": "Ocean thermal energy plants can operate if the temperature difference between the surface water and deeper water is at least:",
+      "op_1": "2°C",
+      "op_2": "10°C",
+      "op_3": "15°C",
+      "op_4": "20°C",
+      "ans": "20°C"
+    },
+    {
+      "question": "The process of using nuclear energy in a controlled manner for generating electricity is known as:",
+      "op_1": "Nuclear fission",
+      "op_2": "Nuclear reactor process",
+      "op_3": "Nuclear fusion",
+      "op_4": "Nuclear burning",
+      "ans": "Nuclear reactor process"
+    },
+    {
+      "question": "Why is solar cooker box painted black from inside?",
+      "op_1": "To reflect sunlight",
+      "op_2": "To absorb more heat",
+      "op_3": "To cool the food",
+      "op_4": "To store energy",
+      "ans": "To absorb more heat"
+    },
+    {
+      "question": "Why is biogas considered an ideal fuel?",
+      "op_1": "It causes pollution",
+      "op_2": "It has low calorific value",
+      "op_3": "It produces smoke",
+      "op_4": "It is clean and has high calorific value",
+      "ans": "It is clean and has high calorific value"
+    },
+    {
+      "question": "Which of the following statements is true about wind energy?",
+      "op_1": "It is constant throughout the year",
+      "op_2": "It is free from environmental pollution",
+      "op_3": "Windmills can be set up everywhere",
+      "op_4": "Wind energy is not renewable",
+      "ans": "It is free from environmental pollution"
+    },
+    {
+      "question": "Which among the following is a limitation of nuclear energy?",
+      "op_1": "Does not produce electricity",
+      "op_2": "Produces harmful radiation",
+      "op_3": "Has low energy output",
+      "op_4": "Requires little investment",
+      "ans": "Produces harmful radiation"
+    },
+    {
+      "question": "What is the main advantage of non-conventional sources of energy?",
+      "op_1": "They are costly",
+      "op_2": "They are pollution-free",
+      "op_3": "They are non-renewable",
+      "op_4": "They have low efficiency",
+      "ans": "They are pollution-free"
+    },
+    {
+      "question": "In a nuclear power plant, the function of control rods is:",
+      "op_1": "To slow down neutrons",
+      "op_2": "To absorb neutrons and control chain reaction",
+      "op_3": "To generate heat",
+      "op_4": "To produce neutrons",
+      "ans": "To absorb neutrons and control chain reaction"
+    },
+    {
+      "question": "Why are fossil fuels categorized as non-renewable sources of energy?",
+      "op_1": "They are formed quickly",
+      "op_2": "They are available in unlimited supply",
+      "op_3": "They take millions of years to form",
+      "op_4": "They can be synthesized artificially",
+      "ans": "They take millions of years to form"
+    },
+    {
+      "question": "Why is tidal energy not commonly used?",
+      "op_1": "High construction cost and location limitations",
+      "op_2": "It is renewable",
+      "op_3": "It causes air pollution",
+      "op_4": "It produces less electricity",
+      "ans": "High construction cost and location limitations"
+    },
+    {
+      "question": "Solar cells are made of:",
+      "op_1": "Copper",
+      "op_2": "Silver",
+      "op_3": "Silicon",
+      "op_4": "Aluminium",
+      "ans": "Silicon"
+    },
+    {
+      "question": "The efficiency of a thermal power plant is low because:",
+      "op_1": "A lot of heat is wasted",
+      "op_2": "It uses renewable energy",
+      "op_3": "It does not produce electricity",
+      "op_4": "It produces no heat",
+      "ans": "A lot of heat is wasted"
+    },
+    {
+      "question": "Which of the following is a direct source of energy from the Sun?",
+      "op_1": "Wind energy",
+      "op_2": "Tidal energy",
+      "op_3": "Nuclear energy",
+      "op_4": "Geothermal energy",
+      "ans": "Wind energy"
     }
   ]
 }

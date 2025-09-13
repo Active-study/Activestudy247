@@ -1,34 +1,124 @@
 {
-  "questions": [
+  "data": [
     {
-      "question": "What is the primary source of energy for the Earth?",
-      "options": [
-        "The Sun",
-        "Wind",
-        "Water",
-        "Geothermal"
-      ],
-      "answer": "The Sun"
+      "question": "Which one of the following is a renewable source of energy?",
+      "op_1": "Coal",
+      "op_2": "Petroleum",
+      "op_3": "Wind energy",
+      "op_4": "Natural gas",
+      "ans": "Wind energy"
     },
     {
       "question": "Which of the following is a non-renewable source of energy?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Hydropower"
-      ],
-      "answer": "Coal"
+      "op_1": "Solar energy",
+      "op_2": "Wind energy",
+      "op_3": "Petroleum",
+      "op_4": "Hydropower",
+      "ans": "Petroleum"
     },
     {
-      "question": "What is the process of converting solar energy into electrical energy called?",
-      "options": [
-        "Photosynthesis",
-        "Solar thermal",
-        "Photovoltaics",
-        "Nuclear fission"
-      ],
-      "answer": "Photovoltaics"
+      "question": "The energy possessed by flowing water is:",
+      "op_1": "Kinetic energy",
+      "op_2": "Potential energy",
+      "op_3": "Heat energy",
+      "op_4": "Chemical energy",
+      "ans": "Kinetic energy"
+    },
+    {
+      "question": "Which among the following is an environment-friendly fuel?",
+      "op_1": "Diesel",
+      "op_2": "CNG",
+      "op_3": "Coal",
+      "op_4": "Petrol",
+      "ans": "CNG"
+    },
+    {
+      "question": "The energy of tides is harnessed by:",
+      "op_1": "Burning coal",
+      "op_2": "Dams",
+      "op_3": "Kinetic energy of water",
+      "op_4": "Periodic rise and fall of sea water",
+      "ans": "Periodic rise and fall of sea water"
+    },
+    {
+      "question": "The ultimate source of all energy on Earth is:",
+      "op_1": "Wind",
+      "op_2": "Sun",
+      "op_3": "Water",
+      "op_4": "Fossil fuels",
+      "ans": "Sun"
+    },
+    {
+      "question": "Which of the following does not produce carbon dioxide on burning?",
+      "op_1": "Petrol",
+      "op_2": "Coal",
+      "op_3": "CNG",
+      "op_4": "Hydrogen",
+      "ans": "Hydrogen"
+    },
+    {
+      "question": "Solar cells convert solar energy into:",
+      "op_1": "Heat energy",
+      "op_2": "Light energy",
+      "op_3": "Electrical energy",
+      "op_4": "Chemical energy",
+      "ans": "Electrical energy"
+    },
+    {
+      "question": "Wind energy is an indirect form of:",
+      "op_1": "Water energy",
+      "op_2": "Solar energy",
+      "op_3": "Tidal energy",
+      "op_4": "Geothermal energy",
+      "ans": "Solar energy"
+    },
+    {
+      "question": "Which of the following is used in solar cookers?",
+      "op_1": "Concave lens",
+      "op_2": "Concave mirror",
+      "op_3": "Plane mirror",
+      "op_4": "Convex mirror",
+      "ans": "Concave mirror"
+    },
+    {
+      "question": "Which gas is produced when cow dung decomposes?",
+      "op_1": "Methane",
+      "op_2": "Carbon dioxide",
+      "op_3": "Hydrogen",
+      "op_4": "Oxygen",
+      "ans": "Methane"
+    },
+    {
+      "question": "Which one is a conventional source of energy?",
+      "op_1": "Wind energy",
+      "op_2": "Solar energy",
+      "op_3": "Coal",
+      "op_4": "Tidal energy",
+      "ans": "Coal"
+    },
+    {
+      "question": "Which device converts solar energy directly into electrical energy?",
+      "op_1": "Solar cooker",
+      "op_2": "Solar cell",
+      "op_3": "Solar heater",
+      "op_4": "Solar furnace",
+      "ans": "Solar cell"
+    },
+    {
+      "question": "Biogas mainly contains:",
+      "op_1": "Hydrogen",
+      "op_2": "Methane",
+      "op_3": "Carbon dioxide",
+      "op_4": "Nitrogen",
+      "ans": "Methane"
+    },
+    {
+      "question": "Which of the following is a disadvantage of fossil fuels?",
+      "op_1": "They are cheap",
+      "op_2": "They are easily available",
+      "op_3": "They pollute the environment",
+      "op_4": "They have high calorific value",
+      "ans": "They pollute the environment"
     }
   ]
 }
