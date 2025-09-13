@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the function of the human eye?",
+      "options": [
+        "To see",
+        "To hear",
+        "To smell",
+        "To taste"
+      ],
+      "answer": "To see",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What part of the eye controls the amount of light that enters?",
+      "options": [
+        "Cornea",
+        "Pupil",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Pupil",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the phenomenon of bending of light called?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "answer": "Refraction",
+      "difficulty": "medium"
+    }
+  ]
+}

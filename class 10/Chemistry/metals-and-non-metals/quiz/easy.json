@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "What is the basic unit of matter?",
+      "options": ["Atom", "Molecule", "Compound", "Element"],
+      "answer": "Atom"
+    },
+    {
+      "question": "Which of the following is a non-metal?",
+      "options": ["Iron", "Copper", "Oxygen", "Gold"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the process of combining metals with non-metals called?",
+      "options": ["Electrolysis", "Reduction", "Oxidation", "Alloying"],
+      "answer": "Alloying"
+    }
+  ]
+}

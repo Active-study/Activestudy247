@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "What is the unit of electric current?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "answer": "Ampere"
+    },
+    {
+      "question": "What is the formula for calculating electrical power?",
+      "options": ["P = VI", "P = I^2R", "P = V^2/R", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What does a circuit breaker do?",
+      "options": ["Increases current", "Decreases voltage", "Protects against overload", "Stores energy"],
+      "answer": "Protects against overload"
+    }
+  ]
+}

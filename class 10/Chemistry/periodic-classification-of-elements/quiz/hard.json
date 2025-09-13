@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the modern periodic law?",
+      "options": [
+        "Properties of elements are a periodic function of their atomic numbers.",
+        "Properties of elements are a periodic function of their atomic masses.",
+        "Properties of elements are a periodic function of their densities.",
+        "Properties of elements are a periodic function of their volumes."
+      ],
+      "answer": "Properties of elements are a periodic function of their atomic numbers."
+    },
+    {
+      "question": "Which of the following elements is a noble gas?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Hydrogen"
+      ],
+      "answer": "Helium"
+    },
+    {
+      "question": "What is the main characteristic of alkali metals?",
+      "options": [
+        "They are highly reactive and have one electron in their outermost shell.",
+        "They are non-reactive and have a full outer shell.",
+        "They are gases at room temperature.",
+        "They are good conductors of electricity."
+      ],
+      "answer": "They are highly reactive and have one electron in their outermost shell."
+    }
+  ]
+}

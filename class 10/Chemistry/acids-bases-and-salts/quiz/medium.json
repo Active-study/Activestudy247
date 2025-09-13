@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the pH range of acids?",
+      "options": [
+        "0-7",
+        "7-14",
+        "7",
+        "14"
+      ],
+      "answer": "0-7",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "options": [
+        "HCl",
+        "H2SO4",
+        "NaOH",
+        "CH3COOH"
+      ],
+      "answer": "HCl",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following is a strong acid?",
+      "options": [
+        "Acetic acid",
+        "Citric acid",
+        "Sulfuric acid",
+        "Carbonic acid"
+      ],
+      "answer": "Sulfuric acid",
+      "difficulty": "medium"
+    }
+  ]
+}

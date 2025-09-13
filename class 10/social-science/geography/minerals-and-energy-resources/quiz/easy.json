@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What are the two main types of minerals?",
+      "options": [
+        "Metallic and Non-metallic",
+        "Organic and Inorganic",
+        "Natural and Synthetic",
+        "Renewable and Non-renewable"
+      ],
+      "answer": "Metallic and Non-metallic"
+    },
+    {
+      "question": "Which of the following is a non-renewable resource?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydropower"
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question": "What is the primary use of minerals?",
+      "options": [
+        "Agriculture",
+        "Construction",
+        "Manufacturing",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    }
+  ]
+}

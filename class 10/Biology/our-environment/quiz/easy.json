@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary source of energy for the Earth?",
+      "options": ["The Sun", "Wind", "Water", "Geothermal"],
+      "answer": "The Sun"
+    },
+    {
+      "question": "Which of the following is a renewable resource?",
+      "options": ["Coal", "Natural Gas", "Solar Energy", "Nuclear Energy"],
+      "answer": "Solar Energy"
+    },
+    {
+      "question": "What is the term for the variety of life in the world or in a particular habitat or ecosystem?",
+      "options": ["Biodiversity", "Ecosystem", "Habitat", "Population"],
+      "answer": "Biodiversity"
+    }
+  ]
+}

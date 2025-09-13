@@ -1,0 +1,19 @@
+{
+  "quiz": [
+    {
+      "question": "What is the primary sector of the economy?",
+      "options": ["Agriculture", "Manufacturing", "Services"],
+      "answer": "Agriculture"
+    },
+    {
+      "question": "Which of the following is a feature of the tertiary sector?",
+      "options": ["Production of goods", "Provision of services", "Extraction of raw materials"],
+      "answer": "Provision of services"
+    },
+    {
+      "question": "What is the role of the secondary sector in the economy?",
+      "options": ["To provide services", "To manufacture goods", "To extract resources"],
+      "answer": "To manufacture goods"
+    }
+  ]
+}

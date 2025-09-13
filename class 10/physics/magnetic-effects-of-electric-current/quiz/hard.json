@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "What is the direction of the magnetic field lines around a current-carrying conductor?",
+      "options": ["From North to South", "From South to North", "Circular", "None of the above"],
+      "answer": "Circular",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the effect of increasing the current in a solenoid on the strength of the magnetic field?",
+      "options": ["It decreases", "It remains the same", "It increases", "It becomes zero"],
+      "answer": "It increases",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which law states that the induced electromotive force is proportional to the rate of change of magnetic flux?",
+      "options": ["Faraday's Law", "Ohm's Law", "Ampere's Law", "Lenz's Law"],
+      "answer": "Faraday's Law",
+      "difficulty": "hard"
+    }
+  ]
+}

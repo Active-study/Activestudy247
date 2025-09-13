@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What was the main cause of the rise of nationalism in Europe during the 19th century?",
+      "options": [
+        "A) Industrial Revolution",
+        "B) Colonialism",
+        "C) The influence of the Enlightenment",
+        "D) All of the above"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Which event is considered a significant turning point in the rise of nationalism in Europe?",
+      "options": [
+        "A) The French Revolution",
+        "B) The Congress of Vienna",
+        "C) The unification of Germany",
+        "D) The fall of the Berlin Wall"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Who was the key figure in the unification of Italy?",
+      "options": [
+        "A) Giuseppe Garibaldi",
+        "B) Otto von Bismarck",
+        "C) Victor Emmanuel II",
+        "D) Napoleon Bonaparte"
+      ],
+      "answer": "A"
+    }
+  ]
+}

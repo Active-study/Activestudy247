@@ -1,0 +1,19 @@
+{
+  "quiz": [
+    {
+      "question": "What is heredity?",
+      "options": ["Transmission of traits from parents to offspring", "Change in traits over time", "Study of genes", "None of the above"],
+      "answer": "Transmission of traits from parents to offspring"
+    },
+    {
+      "question": "What is the basic unit of heredity?",
+      "options": ["Chromosome", "Gene", "DNA", "RNA"],
+      "answer": "Gene"
+    },
+    {
+      "question": "Who is known as the father of genetics?",
+      "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "James Watson"],
+      "answer": "Gregor Mendel"
+    }
+  ]
+}

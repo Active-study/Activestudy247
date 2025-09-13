@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "What is the unit of electric current?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "answer": "Ampere",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the formula for calculating electrical power?",
+      "options": ["P = IV", "P = I^2R", "P = V^2/R", "All of the above"],
+      "answer": "All of the above",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the effect of increasing resistance in a circuit?",
+      "options": ["Increases current", "Decreases current", "No effect", "Increases voltage"],
+      "answer": "Decreases current",
+      "difficulty": "hard"
+    }
+  ]
+}

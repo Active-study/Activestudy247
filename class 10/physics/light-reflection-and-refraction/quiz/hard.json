@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the law of reflection?",
+      "options": {
+        "A": "The angle of incidence is equal to the angle of reflection.",
+        "B": "The angle of incidence is greater than the angle of reflection.",
+        "C": "The angle of incidence is less than the angle of reflection.",
+        "D": "The angle of incidence is not related to the angle of reflection."
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What happens to light when it passes from air into water?",
+      "options": {
+        "A": "It speeds up.",
+        "B": "It slows down.",
+        "C": "It changes color.",
+        "D": "It reflects back."
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the focal length of a concave lens?",
+      "options": {
+        "A": "Positive.",
+        "B": "Negative.",
+        "C": "Zero.",
+        "D": "Infinite."
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    }
+  ]
+}

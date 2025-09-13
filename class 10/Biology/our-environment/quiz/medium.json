@@ -1,0 +1,19 @@
+{
+  "quiz": [
+    {
+      "question": "What is the importance of the environment?",
+      "options": ["A) Provides resources", "B) Supports life", "C) Regulates climate", "D) All of the above"],
+      "answer": "D"
+    },
+    {
+      "question": "Which of the following is a renewable resource?",
+      "options": ["A) Coal", "B) Solar energy", "C) Natural gas", "D) Nuclear energy"],
+      "answer": "B"
+    },
+    {
+      "question": "What is the main cause of environmental pollution?",
+      "options": ["A) Deforestation", "B) Industrial waste", "C) Plastic waste", "D) All of the above"],
+      "answer": "D"
+    }
+  ]
+}

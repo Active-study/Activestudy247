@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the law of reflection?",
+      "options": {
+        "A": "The angle of incidence is equal to the angle of reflection.",
+        "B": "The angle of incidence is greater than the angle of reflection.",
+        "C": "The angle of incidence is less than the angle of reflection.",
+        "D": "The angle of incidence is not related to the angle of reflection."
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What type of lens is used to correct nearsightedness?",
+      "options": {
+        "A": "Convex lens",
+        "B": "Concave lens",
+        "C": "Bifocal lens",
+        "D": "Cylindrical lens"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What phenomenon causes a rainbow to form?",
+      "options": {
+        "A": "Reflection",
+        "B": "Refraction",
+        "C": "Diffraction",
+        "D": "Absorption"
+      },
+      "answer": "B"
+    }
+  ]
+}

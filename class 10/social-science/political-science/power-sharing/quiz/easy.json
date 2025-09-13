@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the main purpose of power sharing in a democracy?",
+      "options": [
+        "To ensure that all groups have a say in governance",
+        "To concentrate power in the hands of a few",
+        "To eliminate political parties",
+        "To reduce the number of voters"
+      ],
+      "answer": "To ensure that all groups have a say in governance"
+    },
+    {
+      "question": "Which of the following is an example of power sharing?",
+      "options": [
+        "A single party ruling the country",
+        "A coalition government",
+        "A military dictatorship",
+        "A monarchy"
+      ],
+      "answer": "A coalition government"
+    },
+    {
+      "question": "Power sharing is essential for which of the following reasons?",
+      "options": [
+        "It promotes conflict",
+        "It ensures stability and peace",
+        "It leads to dictatorship",
+        "It reduces participation"
+      ],
+      "answer": "It ensures stability and peace"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the function of the nervous system?",
+      "options": [
+        "To control body movements",
+        "To digest food",
+        "To circulate blood",
+        "To produce hormones"
+      ],
+      "answer": "To control body movements",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which part of the brain is responsible for coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brainstem",
+        "Hypothalamus"
+      ],
+      "answer": "Cerebellum",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is a reflex action?",
+      "options": [
+        "A voluntary response to a stimulus",
+        "An involuntary response to a stimulus",
+        "A learned behavior",
+        "A conscious decision"
+      ],
+      "answer": "An involuntary response to a stimulus",
+      "difficulty": "medium"
+    }
+  ]
+}

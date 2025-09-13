@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the significance of gender in society?",
+      "options": [
+        "It determines social roles.",
+        "It has no impact on society.",
+        "It is only relevant in certain cultures.",
+        "It is a biological concept."
+      ],
+      "answer": "It determines social roles."
+    },
+    {
+      "question": "How does religion influence social identity?",
+      "options": [
+        "It creates divisions.",
+        "It has no influence.",
+        "It promotes unity.",
+        "It is only a personal matter."
+      ],
+      "answer": "It creates divisions."
+    },
+    {
+      "question": "What is caste?",
+      "options": [
+        "A social hierarchy.",
+        "A form of government.",
+        "A type of religion.",
+        "A cultural festival."
+      ],
+      "answer": "A social hierarchy."
+    }
+  ]
+}

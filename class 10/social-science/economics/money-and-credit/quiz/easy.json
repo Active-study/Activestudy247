@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary function of money in an economy?",
+      "options": [
+        "A medium of exchange",
+        "A store of value",
+        "A unit of account",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is not a function of money?",
+      "options": [
+        "Medium of exchange",
+        "Store of value",
+        "Measure of wealth",
+        "Unit of account"
+      ],
+      "answer": "Measure of wealth"
+    },
+    {
+      "question": "What is the term for the amount of money that banks are required to keep in reserve?",
+      "options": [
+        "Liquidity",
+        "Reserve requirement",
+        "Capital adequacy",
+        "Monetary policy"
+      ],
+      "answer": "Reserve requirement"
+    }
+  ]
+}

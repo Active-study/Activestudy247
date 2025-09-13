@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary source of energy for the Earth?",
+      "options": ["The Sun", "Wind", "Water", "Geothermal"],
+      "answer": "The Sun",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the process of converting raw materials into finished goods called?",
+      "options": ["Manufacturing", "Production", "Processing", "Refining"],
+      "answer": "Manufacturing",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following is a renewable resource?",
+      "options": ["Coal", "Natural Gas", "Solar Energy", "Nuclear Energy"],
+      "answer": "Solar Energy",
+      "difficulty": "easy"
+    }
+  ]
+}

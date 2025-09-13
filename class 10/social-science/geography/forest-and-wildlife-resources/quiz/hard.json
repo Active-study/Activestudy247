@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary purpose of wildlife conservation?",
+      "options": [
+        "To increase human population",
+        "To protect endangered species",
+        "To promote tourism",
+        "To develop urban areas"
+      ],
+      "answer": "To protect endangered species",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following is a major threat to wildlife?",
+      "options": [
+        "Habitat destruction",
+        "Increased biodiversity",
+        "Conservation efforts",
+        "Sustainable practices"
+      ],
+      "answer": "Habitat destruction",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the term for the variety of life in the world or in a particular habitat?",
+      "options": [
+        "Ecosystem",
+        "Biodiversity",
+        "Population",
+        "Community"
+      ],
+      "answer": "Biodiversity",
+      "difficulty": "hard"
+    }
+  ]
+}

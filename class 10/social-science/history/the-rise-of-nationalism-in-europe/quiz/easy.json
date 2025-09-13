@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What was the main aim of the nationalist movements in Europe during the 19th century?",
+      "options": [
+        "To establish monarchies",
+        "To promote regional languages",
+        "To achieve national unification",
+        "To spread colonialism"
+      ],
+      "answer": "To achieve national unification"
+    },
+    {
+      "question": "Which event is considered a significant turning point in the rise of nationalism in Europe?",
+      "options": [
+        "The French Revolution",
+        "The Industrial Revolution",
+        "The signing of the Treaty of Versailles",
+        "The establishment of the United Nations"
+      ],
+      "answer": "The French Revolution"
+    },
+    {
+      "question": "Who was the leader of the Italian unification movement?",
+      "options": [
+        "Giuseppe Garibaldi",
+        "Count Camillo di Cavour",
+        "Victor Emmanuel II",
+        "Mazzini"
+      ],
+      "answer": "Giuseppe Garibaldi"
+    }
+  ]
+}

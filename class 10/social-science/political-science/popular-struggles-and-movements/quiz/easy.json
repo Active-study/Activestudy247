@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What was the main reason for the rise of popular struggles in India?",
+      "options": [
+        "Economic inequality",
+        "Political oppression",
+        "Social injustice",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which movement is associated with the demand for social justice?",
+      "options": [
+        "The Civil Rights Movement",
+        "The Green Revolution",
+        "The Non-Cooperation Movement",
+        "The Chipko Movement"
+      ],
+      "answer": "The Civil Rights Movement"
+    },
+    {
+      "question": "What role did women play in popular struggles?",
+      "options": [
+        "They were passive participants",
+        "They were leaders and activists",
+        "They had no role",
+        "They only supported men"
+      ],
+      "answer": "They were leaders and activists"
+    }
+  ]
+}

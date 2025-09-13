@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What were the main factors that contributed to the making of a global world?",
+      "options": [
+        "Technological advancements",
+        "Colonialism",
+        "Trade routes",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How did the Industrial Revolution impact global trade?",
+      "options": [
+        "Increased production capacity",
+        "Decreased demand for goods",
+        "Reduced transportation costs",
+        "Both A and C"
+      ],
+      "answer": "Both A and C",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What role did the British Empire play in the global economy?",
+      "options": [
+        "It established trade monopolies",
+        "It promoted free trade",
+        "It limited trade with colonies",
+        "None of the above"
+      ],
+      "answer": "It established trade monopolies",
+      "difficulty": "hard"
+    }
+  ]
+}

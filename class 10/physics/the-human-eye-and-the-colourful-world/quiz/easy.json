@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the function of the human eye?",
+      "options": [
+        "To see colors",
+        "To see in the dark",
+        "To focus light",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What part of the eye controls the amount of light that enters?",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Iris"
+    },
+    {
+      "question": "What is the phenomenon of bending of light called?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "answer": "Refraction"
+    }
+  ]
+}

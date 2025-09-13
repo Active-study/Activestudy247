@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the general formula of alkanes?",
+      "options": {
+        "A": "C_nH_{2n+2}",
+        "B": "C_nH_{2n}",
+        "C": "C_nH_{2n-2}",
+        "D": "C_nH_{n}"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following is a property of carbon?",
+      "options": {
+        "A": "It can form four covalent bonds.",
+        "B": "It is a metal.",
+        "C": "It is a gas at room temperature.",
+        "D": "It cannot form long chains."
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What type of bond is formed between carbon atoms in a diamond?",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Covalent bond",
+        "C": "Metallic bond",
+        "D": "Hydrogen bond"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    }
+  ]
+}

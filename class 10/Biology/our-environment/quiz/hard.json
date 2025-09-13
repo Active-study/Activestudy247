@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the main cause of environmental degradation?",
+      "options": [
+        "A) Deforestation",
+        "B) Urbanization",
+        "C) Pollution",
+        "D) All of the above"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Which of the following is a renewable resource?",
+      "options": [
+        "A) Coal",
+        "B) Natural Gas",
+        "C) Solar Energy",
+        "D) Nuclear Energy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What is the greenhouse effect?",
+      "options": [
+        "A) A natural process that warms the Earth",
+        "B) A man-made phenomenon",
+        "C) A type of pollution",
+        "D) None of the above"
+      ],
+      "answer": "A"
+    }
+  ]
+}

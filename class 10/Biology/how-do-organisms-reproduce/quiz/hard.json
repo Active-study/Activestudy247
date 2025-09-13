@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the process by which organisms produce offspring?",
+      "options": [
+        "Asexual reproduction",
+        "Sexual reproduction",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": "Both A and B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the role of DNA in reproduction?",
+      "options": [
+        "It carries genetic information",
+        "It helps in energy production",
+        "It is involved in digestion",
+        "It has no role"
+      ],
+      "answer": "It carries genetic information",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following is a method of asexual reproduction?",
+      "options": [
+        "Budding",
+        "Fertilization",
+        "Pollination",
+        "Cross-fertilization"
+      ],
+      "answer": "Budding",
+      "difficulty": "hard"
+    }
+  ]
+}

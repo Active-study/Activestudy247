@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What are the two main types of minerals?",
+      "options": [
+        "Metallic and Non-metallic",
+        "Organic and Inorganic",
+        "Renewable and Non-renewable",
+        "Natural and Synthetic"
+      ],
+      "answer": "Metallic and Non-metallic",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which mineral is primarily used in the production of steel?",
+      "options": [
+        "Bauxite",
+        "Iron ore",
+        "Copper",
+        "Gold"
+      ],
+      "answer": "Iron ore",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the primary source of energy in the world?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Fossil fuels",
+        "Nuclear energy"
+      ],
+      "answer": "Fossil fuels",
+      "difficulty": "medium"
+    }
+  ]
+}

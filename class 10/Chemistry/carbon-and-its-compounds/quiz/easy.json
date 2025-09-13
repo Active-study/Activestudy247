@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "What is the molecular formula of carbon dioxide?",
+      "options": ["CO2", "C2O", "CO", "C2O2"],
+      "answer": "CO2"
+    },
+    {
+      "question": "Which of the following is a property of carbon?",
+      "options": ["It is a metal", "It can form four bonds", "It is a gas", "It is a liquid"],
+      "answer": "It can form four bonds"
+    },
+    {
+      "question": "What is the main use of graphite?",
+      "options": ["As a fuel", "In pencils", "In batteries", "In plastics"],
+      "answer": "In pencils"
+    }
+  ]
+}

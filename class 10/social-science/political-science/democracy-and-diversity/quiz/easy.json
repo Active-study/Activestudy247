@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is democracy?",
+      "options": [
+        "A system of government by the whole population",
+        "A type of monarchy",
+        "A form of dictatorship",
+        "None of the above"
+      ],
+      "answer": "A system of government by the whole population"
+    },
+    {
+      "question": "Which of the following is a feature of democracy?",
+      "options": [
+        "Elections are held regularly",
+        "Citizens have no rights",
+        "Government is run by a single person",
+        "None of the above"
+      ],
+      "answer": "Elections are held regularly"
+    },
+    {
+      "question": "What does the term 'majority rule' mean?",
+      "options": [
+        "The majority of people have the power to make decisions",
+        "Only the government can make decisions",
+        "Minority groups have more power",
+        "None of the above"
+      ],
+      "answer": "The majority of people have the power to make decisions"
+    }
+  ]
+}

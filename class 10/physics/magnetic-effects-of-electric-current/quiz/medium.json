@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the direction of the magnetic field lines around a current-carrying conductor?",
+      "options": [
+        "From North to South",
+        "From South to North",
+        "Circular around the conductor",
+        "None of the above"
+      ],
+      "answer": "Circular around the conductor",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the effect of increasing the current in a solenoid?",
+      "options": [
+        "Increases the magnetic field strength",
+        "Decreases the magnetic field strength",
+        "No effect on the magnetic field strength",
+        "Reverses the magnetic field direction"
+      ],
+      "answer": "Increases the magnetic field strength",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following devices uses the principle of electromagnetic induction?",
+      "options": [
+        "Electric motor",
+        "Transformer",
+        "Battery",
+        "Resistor"
+      ],
+      "answer": "Transformer",
+      "difficulty": "medium"
+    }
+  ]
+}

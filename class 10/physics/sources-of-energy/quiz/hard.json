@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary source of energy for the Earth?",
+      "options": [
+        "Nuclear energy",
+        "Solar energy",
+        "Wind energy",
+        "Geothermal energy"
+      ],
+      "answer": "Solar energy",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydropower"
+      ],
+      "answer": "Coal",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the main advantage of using renewable energy sources?",
+      "options": [
+        "They are cheaper",
+        "They are abundant and sustainable",
+        "They require less maintenance",
+        "They are more efficient"
+      ],
+      "answer": "They are abundant and sustainable",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the main function of the nervous system?",
+      "options": [
+        "To transport oxygen",
+        "To coordinate body activities",
+        "To digest food",
+        "To circulate blood"
+      ],
+      "answer": "To coordinate body activities"
+    },
+    {
+      "question": "Which part of the brain controls balance and coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brainstem",
+        "Hypothalamus"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "What is a reflex action?",
+      "options": [
+        "A voluntary response",
+        "An involuntary response",
+        "A learned behavior",
+        "A conscious decision"
+      ],
+      "answer": "An involuntary response"
+    }
+  ]
+}

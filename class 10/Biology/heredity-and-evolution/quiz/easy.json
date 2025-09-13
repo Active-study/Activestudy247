@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is heredity?",
+      "options": [
+        "The passing of traits from parents to offspring",
+        "The study of genes",
+        "The process of evolution",
+        "None of the above"
+      ],
+      "answer": "The passing of traits from parents to offspring"
+    },
+    {
+      "question": "Which of the following is a genetic disorder?",
+      "options": [
+        "Down syndrome",
+        "Flu",
+        "Cold",
+        "None of the above"
+      ],
+      "answer": "Down syndrome"
+    },
+    {
+      "question": "What is the role of DNA?",
+      "options": [
+        "To store genetic information",
+        "To provide energy",
+        "To transport nutrients",
+        "None of the above"
+      ],
+      "answer": "To store genetic information"
+    }
+  ]
+}

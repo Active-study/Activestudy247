@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "What is the atomic number of Hydrogen?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "1"
+    },
+    {
+      "question": "Which element is represented by the symbol 'O'?",
+      "options": ["Oxygen", "Gold", "Silver", "Iron"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the most abundant element in the universe?",
+      "options": ["Hydrogen", "Helium", "Carbon", "Oxygen"],
+      "answer": "Hydrogen"
+    }
+  ]
+}

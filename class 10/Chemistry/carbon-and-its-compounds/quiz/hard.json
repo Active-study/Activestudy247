@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the general formula for alkanes?",
+      "options": {
+        "A": "C_nH_(2n+2)",
+        "B": "C_nH_(2n)",
+        "C": "C_nH_(2n-2)",
+        "D": "C_nH_(2n+1)"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following is a property of carbon compounds?",
+      "options": {
+        "A": "They are generally soluble in water.",
+        "B": "They have high melting and boiling points.",
+        "C": "They can form long chains and rings.",
+        "D": "They are ionic in nature."
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What type of bond is formed between carbon atoms in a diamond?",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Covalent bond",
+        "C": "Metallic bond",
+        "D": "Hydrogen bond"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    }
+  ]
+}

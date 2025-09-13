@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the main difference between metals and non-metals?",
+      "options": [
+        "Metals are good conductors of heat and electricity, while non-metals are not.",
+        "Metals are usually solid at room temperature, while non-metals can be solid, liquid, or gas.",
+        "Metals have high melting points, while non-metals have low melting points.",
+        "All of the above."
+      ],
+      "answer": "All of the above."
+    },
+    {
+      "question": "Which of the following is a property of metals?",
+      "options": [
+        "Brittleness",
+        "Dullness",
+        "Malleability",
+        "Poor conductivity"
+      ],
+      "answer": "Malleability"
+    },
+    {
+      "question": "Which non-metal is essential for respiration?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Oxygen"
+    }
+  ]
+}

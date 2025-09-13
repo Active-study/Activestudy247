@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "What is the process by which organisms produce offspring?",
+      "options": ["Reproduction", "Respiration", "Digestion", "Excretion"],
+      "answer": "Reproduction"
+    },
+    {
+      "question": "Which type of reproduction involves the fusion of male and female gametes?",
+      "options": ["Asexual", "Sexual", "Binary Fission", "Budding"],
+      "answer": "Sexual"
+    },
+    {
+      "question": "What is the term for a single-celled organism that reproduces by binary fission?",
+      "options": ["Bacteria", "Fungi", "Plants", "Animals"],
+      "answer": "Bacteria"
+    }
+  ]
+}

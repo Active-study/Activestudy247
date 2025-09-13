@@ -1,0 +1,19 @@
+{
+  "quiz": [
+    {
+      "question": "What is the process by which organisms produce offspring?",
+      "options": ["Asexual reproduction", "Sexual reproduction", "Both A and B"],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "What is the term for the fusion of male and female gametes?",
+      "options": ["Fertilization", "Pollination", "Budding"],
+      "answer": "Fertilization"
+    },
+    {
+      "question": "Which type of reproduction involves only one parent?",
+      "options": ["Asexual reproduction", "Sexual reproduction", "Cross-fertilization"],
+      "answer": "Asexual reproduction"
+    }
+  ]
+}

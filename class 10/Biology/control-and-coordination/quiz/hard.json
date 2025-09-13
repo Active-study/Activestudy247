@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the role of the nervous system in control and coordination?",
+      "options": [
+        "To transport nutrients",
+        "To transmit signals",
+        "To produce hormones",
+        "To digest food"
+      ],
+      "answer": "To transmit signals",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Explain the difference between voluntary and involuntary actions.",
+      "options": [
+        "Voluntary actions are controlled consciously, while involuntary actions are not.",
+        "Voluntary actions are faster than involuntary actions.",
+        "Involuntary actions require more energy than voluntary actions.",
+        "There is no difference."
+      ],
+      "answer": "Voluntary actions are controlled consciously, while involuntary actions are not.",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is a reflex action? Give an example.",
+      "options": [
+        "A quick response to a stimulus, such as pulling your hand away from a hot surface.",
+        "A slow response to a stimulus, such as thinking about a problem.",
+        "An action that requires conscious thought.",
+        "An action that is learned over time."
+      ],
+      "answer": "A quick response to a stimulus, such as pulling your hand away from a hot surface.",
+      "difficulty": "hard"
+    }
+  ]
+}

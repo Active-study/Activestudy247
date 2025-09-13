@@ -1,0 +1,34 @@
+{
+  "quiz": [
+    {
+      "question": "What is the primary goal of development?",
+      "options": [
+        "Economic growth",
+        "Social equity",
+        "Environmental sustainability",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is a measure of economic development?",
+      "options": [
+        "Gross Domestic Product (GDP)",
+        "Literacy rate",
+        "Life expectancy",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is sustainable development?",
+      "options": [
+        "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+        "Development focused solely on economic growth.",
+        "Development that ignores environmental concerns.",
+        "None of the above"
+      ],
+      "answer": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
+    }
+  ]
+}

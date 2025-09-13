@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What was the impact of print culture on the society?",
+      "options": {
+        "a": "It led to the spread of knowledge.",
+        "b": "It restricted access to information.",
+        "c": "It had no significant impact.",
+        "d": "It only benefited the elite."
+      },
+      "answer": "a",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which invention is considered the starting point of print culture?",
+      "options": {
+        "a": "Typewriter",
+        "b": "Printing Press",
+        "c": "Photocopier",
+        "d": "Computer"
+      },
+      "answer": "b",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How did print culture contribute to the rise of nationalism?",
+      "options": {
+        "a": "By promoting local languages and literature.",
+        "b": "By discouraging communication.",
+        "c": "By limiting the spread of ideas.",
+        "d": "By focusing solely on religious texts."
+      },
+      "answer": "a",
+      "difficulty": "medium"
+    }
+  ]
+}

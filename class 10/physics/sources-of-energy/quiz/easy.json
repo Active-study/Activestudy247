@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary source of energy for the Earth?",
+      "options": [
+        "The Sun",
+        "Wind",
+        "Water",
+        "Geothermal"
+      ],
+      "answer": "The Sun"
+    },
+    {
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydropower"
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question": "What is the process of converting solar energy into electrical energy called?",
+      "options": [
+        "Photosynthesis",
+        "Solar thermal",
+        "Photovoltaics",
+        "Nuclear fission"
+      ],
+      "answer": "Photovoltaics"
+    }
+  ]
+}

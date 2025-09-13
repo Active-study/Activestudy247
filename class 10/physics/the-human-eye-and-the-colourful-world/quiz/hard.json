@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the function of the human eye?",
+      "options": [
+        "To see colors",
+        "To perceive depth",
+        "To focus light",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the role of the lens in the human eye?",
+      "options": [
+        "To protect the eye",
+        "To focus light onto the retina",
+        "To detect light",
+        "To maintain eye shape"
+      ],
+      "answer": "To focus light onto the retina",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What causes color blindness?",
+      "options": [
+        "Deficiency in certain cones in the retina",
+        "Excessive exposure to sunlight",
+        "Injury to the eye",
+        "Aging"
+      ],
+      "answer": "Deficiency in certain cones in the retina",
+      "difficulty": "hard"
+    }
+  ]
+}

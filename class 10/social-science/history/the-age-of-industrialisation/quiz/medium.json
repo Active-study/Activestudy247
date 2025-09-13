@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What was the primary reason for the Industrial Revolution?",
+      "options": [
+        "A) Agricultural advancements",
+        "B) Technological innovations",
+        "C) Political changes",
+        "D) Social reforms"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which industry was the first to industrialize?",
+      "options": [
+        "A) Textile industry",
+        "B) Steel industry",
+        "C) Agriculture",
+        "D) Transportation"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "What impact did the Industrial Revolution have on urbanization?",
+      "options": [
+        "A) Decreased population in cities",
+        "B) Increased migration to rural areas",
+        "C) Rapid growth of cities",
+        "D) No significant impact"
+      ],
+      "answer": "C"
+    }
+  ]
+}

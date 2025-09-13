@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the general electronic configuration of metals?",
+      "options": [
+        "a) ns²",
+        "b) ns²np⁶",
+        "c) ns²np⁴",
+        "d) ns²np¹"
+      ],
+      "answer": "a"
+    },
+    {
+      "question": "Which of the following is a property of non-metals?",
+      "options": [
+        "a) Good conductors of heat",
+        "b) Ductile",
+        "c) Brittle",
+        "d) Malleable"
+      ],
+      "answer": "c"
+    },
+    {
+      "question": "What is the most reactive metal?",
+      "options": [
+        "a) Gold",
+        "b) Sodium",
+        "c) Iron",
+        "d) Copper"
+      ],
+      "answer": "b"
+    }
+  ]
+}

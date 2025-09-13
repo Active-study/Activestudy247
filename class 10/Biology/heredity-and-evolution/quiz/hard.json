@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "What is the basic unit of heredity?",
+      "options": ["Gene", "Chromosome", "DNA", "RNA"],
+      "answer": "Gene",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the process by which traits are passed from parents to offspring?",
+      "options": ["Evolution", "Heredity", "Genetics", "Mutation"],
+      "answer": "Heredity",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following is an example of a dominant trait?",
+      "options": ["Blue eyes", "Brown eyes", "Cystic fibrosis", "Sickle cell anemia"],
+      "answer": "Brown eyes",
+      "difficulty": "hard"
+    }
+  ]
+}

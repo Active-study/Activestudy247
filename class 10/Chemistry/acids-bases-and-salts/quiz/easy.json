@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "What is the pH value of pure water?",
+      "options": ["0", "7", "14", "10"],
+      "answer": "7"
+    },
+    {
+      "question": "Which of the following is a strong acid?",
+      "options": ["Acetic acid", "Hydrochloric acid", "Citric acid", "Carbonic acid"],
+      "answer": "Hydrochloric acid"
+    },
+    {
+      "question": "What is the chemical formula for sodium hydroxide?",
+      "options": ["NaCl", "NaOH", "Na2SO4", "NaHCO3"],
+      "answer": "NaOH"
+    }
+  ]
+}
