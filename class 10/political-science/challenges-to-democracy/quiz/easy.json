@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is democracy?",
+      "options": [
+        "A system of government by the whole population",
+        "A form of government where one person rules",
+        "A system where the military controls the government",
+        "None of the above"
+      ],
+      "answer": "A system of government by the whole population"
+    },
+    {
+      "question": "Which of the following is a challenge to democracy?",
+      "options": [
+        "Political participation",
+        "Corruption",
+        "Freedom of speech",
+        "Equal representation"
+      ],
+      "answer": "Corruption"
+    },
+    {
+      "question": "What does 'majority rule' mean?",
+      "options": [
+        "The majority of people have the right to make decisions",
+        "Only the wealthy can make decisions",
+        "Decisions are made by a small group of people",
+        "None of the above"
+      ],
+      "answer": "The majority of people have the right to make decisions"
+    }
+  ]
+}

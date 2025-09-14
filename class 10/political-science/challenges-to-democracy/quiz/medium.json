@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the meaning of democracy?",
+      "options": [
+        "A system of government by the whole population",
+        "A system of government by a single ruler",
+        "A system of government by a small group of people",
+        "None of the above"
+      ],
+      "answer": "A system of government by the whole population",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following is a feature of democracy?",
+      "options": [
+        "Free and fair elections",
+        "Censorship of media",
+        "No political parties",
+        "None of the above"
+      ],
+      "answer": "Free and fair elections",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the role of opposition parties in a democracy?",
+      "options": [
+        "To support the ruling party",
+        "To criticize the ruling party",
+        "To form the government",
+        "None of the above"
+      ],
+      "answer": "To criticize the ruling party",
+      "difficulty": "medium"
+    }
+  ]
+}

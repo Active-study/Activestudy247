@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the significance of diversity in a democracy?",
+      "options": [
+        "It promotes uniformity.",
+        "It enhances social cohesion.",
+        "It leads to conflict.",
+        "It has no significance."
+      ],
+      "answer": "It enhances social cohesion."
+    },
+    {
+      "question": "How does democracy accommodate diversity?",
+      "options": [
+        "By enforcing a single culture.",
+        "By allowing multiple voices.",
+        "By ignoring minority opinions.",
+        "By promoting one religion."
+      ],
+      "answer": "By allowing multiple voices."
+    },
+    {
+      "question": "Which of the following is a challenge to democracy in a diverse society?",
+      "options": [
+        "Increased representation.",
+        "Social inequality.",
+        "Cultural exchange.",
+        "Political participation."
+      ],
+      "answer": "Social inequality."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the role of political parties in a democracy?",
+      "options": [
+        "To form the government",
+        "To represent the people",
+        "To create laws",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following is NOT a function of political parties?",
+      "options": [
+        "To contest elections",
+        "To form alliances",
+        "To conduct foreign policy",
+        "To mobilize public opinion"
+      ],
+      "answer": "To conduct foreign policy",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is a multi-party system?",
+      "options": [
+        "A system with only two parties",
+        "A system with multiple parties competing for power",
+        "A system where one party dominates",
+        "A system with no parties"
+      ],
+      "answer": "A system with multiple parties competing for power",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "chapters": [
+    {
+      "chapterName": "Light - Reflection and Refraction",
+      "resources": {
+        "ncertsol": "https://example.com/light/solutions",
+        "notes": "https://example.com/light/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/user/quizzes/light/quiz1.json", "qzname": "Quiz1" },
+          { "qz": "https://example.com/light/quiz2.json", "qzname": "Quiz2" }
+        ],
+        "worksheet": "https://example.com/light/worksheet.pdf",
+        "questions": [
+          { "qsn": "https://raw.githubusercontent.com/user/questions/light/q1.json", "qsnname": "Question1" },
+          { "qsn": "https://example.com/light/question2.json", "qsnname": "Question2" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep110.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc110.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc110.pdf"
+      }
+    },
+    {
+      "chapterName": "The Human Eye and the Colourful World",
+      "resources": {
+        "ncertsol": "https://example.com/eye/solutions",
+        "notes": "https://example.com/eye/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/user/quizzes/eye/quiz1.json", "qzname": "Quiz1" },
+          { "qz": "https://example.com/eye/quiz2.json", "qzname": "Quiz2" }
+        ],
+        "worksheet": "https://example.com/eye/worksheet.pdf",
+        "questions": [
+          { "qsn": "https://raw.githubusercontent.com/user/questions/eye/q1.json", "qsnname": "Question1" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep111.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc111.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc111.pdf"
+      }
+    },
+    {
+      "chapterName": "Electricity",
+      "resources": {
+        "ncertsol": "https://example.com/electricity/solutions",
+        "notes": "https://example.com/electricity/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/user/quizzes/electricity/quiz1.json", "qzname": "Quiz1" },
+          { "qz": "https://example.com/electricity/quiz2.json", "qzname": "Quiz2" }
+        ],
+        "worksheet": "https://example.com/electricity/worksheet.pdf",
+        "questions": [
+          { "qsn": "https://raw.githubusercontent.com/user/questions/electricity/q1.json", "qsnname": "Question1" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep112.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc112.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc112.pdf"
+      }
+    },
+    {
+      "chapterName": "Magnetic Effects of Electric Current",
+      "resources": {
+        "ncertsol": "https://example.com/magnetism/solutions",
+        "notes": "https://example.com/magnetism/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/user/quizzes/magnetism/quiz1.json", "qzname": "Quiz1" },
+          { "qz": "https://example.com/magnetism/quiz2.json", "qzname": "Quiz2" }
+        ],
+        "worksheet": "https://example.com/magnetism/worksheet.pdf",
+        "questions": [
+          { "qsn": "https://raw.githubusercontent.com/user/questions/magnetism/q1.json", "qsnname": "Question1" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep113.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc113.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc113.pdf"
+      }
+    },
+    {
+      "chapterName": "Sources of Energy",
+      "resources": {
+        "ncertsol": "https://example.com/energy/solutions",
+        "notes": "https://example.com/energy/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/user/quizzes/energy/quiz1.json", "qzname": "Quiz1" },
+          { "qz": "https://example.com/energy/quiz2.json", "qzname": "Quiz2" }
+        ],
+        "worksheet": "https://example.com/energy/worksheet.pdf",
+        "questions": [
+          { "qsn": "https://raw.githubusercontent.com/user/questions/energy/q1.json", "qsnname": "Question1" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep114.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc114.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc114.pdf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What are the two main types of minerals?",
+      "options": [
+        "Metallic and Non-metallic",
+        "Organic and Inorganic",
+        "Natural and Synthetic",
+        "Renewable and Non-renewable"
+      ],
+      "answer": "Metallic and Non-metallic",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which mineral is known as the 'black gold'?",
+      "options": [
+        "Coal",
+        "Iron",
+        "Gold",
+        "Diamond"
+      ],
+      "answer": "Coal",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the primary source of energy in the world?",
+      "options": [
+        "Solar Energy",
+        "Wind Energy",
+        "Fossil Fuels",
+        "Nuclear Energy"
+      ],
+      "answer": "Fossil Fuels",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary function of money in an economy?",
+      "options": [
+        "A medium of exchange",
+        "A store of value",
+        "A unit of account",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the role of banks in the economy?",
+      "options": [
+        "To print money",
+        "To provide loans and accept deposits",
+        "To regulate the stock market",
+        "To control inflation"
+      ],
+      "answer": "To provide loans and accept deposits",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is credit?",
+      "options": [
+        "Money that is borrowed",
+        "Money that is saved",
+        "Money that is invested",
+        "Money that is earned"
+      ],
+      "answer": "Money that is borrowed",
+      "difficulty": "medium"
+    }
+  ]
+}

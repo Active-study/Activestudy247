@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is globalization?",
+      "options": [
+        "A process of interaction and integration among people, companies, and governments worldwide.",
+        "A method of increasing local production.",
+        "A strategy to reduce international trade.",
+        "A way to isolate economies."
+      ],
+      "answer": "A process of interaction and integration among people, companies, and governments worldwide."
+    },
+    {
+      "question": "Which of the following is a positive effect of globalization?",
+      "options": [
+        "Increased job opportunities in developing countries.",
+        "Loss of local cultures.",
+        "Environmental degradation.",
+        "Increased inequality."
+      ],
+      "answer": "Increased job opportunities in developing countries."
+    },
+    {
+      "question": "What role do multinational corporations play in globalization?",
+      "options": [
+        "They help in spreading local businesses.",
+        "They often dominate the market and influence local economies.",
+        "They have no significant impact.",
+        "They only operate in their home countries."
+      ],
+      "answer": "They often dominate the market and influence local economies."
+    }
+  ]
+}

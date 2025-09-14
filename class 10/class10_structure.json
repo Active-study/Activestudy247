@@ -1,0 +1,24 @@
+{
+  "subjects": [
+    {
+      "subjectName": "Science",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/science/science%20(1).json"
+    },
+    {
+      "subjectName": "Math",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/deepseek_json_20250907_ca654c.json"
+    },
+    {
+      "subjectName": "SST",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/test"
+    },
+    {
+      "subjectName": "English",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/english/english_structure.json"
+    },
+    {
+      "subjectName": "Hindi",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/hindi/hindi_structure.json"
+    }
+  ]
+}

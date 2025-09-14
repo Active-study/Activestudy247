@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the relationship between gender and religion in society?",
+      "options": {
+        "A": "Gender roles are influenced by religious beliefs.",
+        "B": "Religion has no impact on gender roles.",
+        "C": "Gender and religion are completely unrelated.",
+        "D": "Only women are affected by religious beliefs."
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How do caste systems affect social dynamics in India?",
+      "options": {
+        "A": "They promote equality among all.",
+        "B": "They create social hierarchies.",
+        "C": "They have no effect on society.",
+        "D": "They are only relevant in rural areas."
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What role does religion play in shaping cultural identities?",
+      "options": {
+        "A": "It has no role.",
+        "B": "It is a major factor in cultural identity.",
+        "C": "Only ethnicity shapes cultural identities.",
+        "D": "Religion is only important in politics."
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    }
+  ]
+}

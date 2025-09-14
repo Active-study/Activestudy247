@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the significance of popular struggles in a democracy?",
+      "options": [
+        "They help in the formation of political parties.",
+        "They ensure the participation of citizens in governance.",
+        "They are a means to express dissent.",
+        "All of the above."
+      ],
+      "answer": "All of the above."
+    },
+    {
+      "question": "Which of the following is an example of a popular struggle?",
+      "options": [
+        "The Civil Rights Movement in the USA",
+        "The Green Revolution in India",
+        "The Industrial Revolution",
+        "The Cold War"
+      ],
+      "answer": "The Civil Rights Movement in the USA"
+    },
+    {
+      "question": "What role do social movements play in society?",
+      "options": [
+        "They promote social change.",
+        "They maintain the status quo.",
+        "They discourage political participation.",
+        "They are irrelevant to modern society."
+      ],
+      "answer": "They promote social change."
+    }
+  ]
+}

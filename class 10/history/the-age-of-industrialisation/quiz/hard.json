@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What were the main factors that led to the Industrial Revolution?",
+      "options": [
+        "A) Agricultural advancements",
+        "B) Technological innovations",
+        "C) Access to raw materials",
+        "D) All of the above"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Which industry was the first to industrialize?",
+      "options": [
+        "A) Textile industry",
+        "B) Steel industry",
+        "C) Transportation industry",
+        "D) Chemical industry"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "What impact did the Industrial Revolution have on urbanization?",
+      "options": [
+        "A) Decreased population in cities",
+        "B) Increased migration to urban areas",
+        "C) No significant impact",
+        "D) Rural areas became more populated"
+      ],
+      "answer": "B"
+    }
+  ]
+}

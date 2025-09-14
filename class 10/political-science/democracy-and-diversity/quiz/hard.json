@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the significance of democracy in a diverse society?",
+      "options": [
+        "It promotes equality among citizens.",
+        "It allows for the suppression of minority voices.",
+        "It encourages a single-party system.",
+        "It limits individual freedoms."
+      ],
+      "answer": "It promotes equality among citizens."
+    },
+    {
+      "question": "Which of the following is a challenge to democracy?",
+      "options": [
+        "Political participation",
+        "Corruption",
+        "Freedom of speech",
+        "Civic education"
+      ],
+      "answer": "Corruption"
+    },
+    {
+      "question": "How does federalism accommodate diversity?",
+      "options": [
+        "By centralizing power in the national government.",
+        "By allowing states to have their own laws.",
+        "By eliminating regional differences.",
+        "By promoting a uniform culture."
+      ],
+      "answer": "By allowing states to have their own laws."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What was the main aim of the Indian National Congress when it was formed?",
+      "options": [
+        "To gain independence from British rule",
+        "To promote social reforms",
+        "To support the British government",
+        "To establish a monarchy"
+      ],
+      "answer": "To gain independence from British rule"
+    },
+    {
+      "question": "Who was the leader of the Non-Cooperation Movement?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "What was the significance of the Dandi March?",
+      "options": [
+        "It marked the beginning of the Quit India Movement",
+        "It was a protest against the salt tax",
+        "It was a call for complete independence",
+        "It was a campaign for social equality"
+      ],
+      "answer": "It was a protest against the salt tax"
+    }
+  ]
+}

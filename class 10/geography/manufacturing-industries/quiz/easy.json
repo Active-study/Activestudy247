@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary purpose of manufacturing industries?",
+      "options": [
+        "To produce goods for consumption",
+        "To provide services",
+        "To manage resources",
+        "To conduct research"
+      ],
+      "answer": "To produce goods for consumption",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following is a characteristic of cottage industries?",
+      "options": [
+        "Large scale production",
+        "Use of advanced technology",
+        "Small scale production",
+        "Mass production"
+      ],
+      "answer": "Small scale production",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the significance of the 'Make in India' initiative?",
+      "options": [
+        "To promote foreign investment",
+        "To encourage local manufacturing",
+        "To reduce imports",
+        "To increase exports"
+      ],
+      "answer": "To encourage local manufacturing",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What was the impact of print culture on society?",
+      "options": [
+        "Increased literacy rates",
+        "Spread of ideas and information",
+        "Censorship of literature",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Who invented the printing press?",
+      "options": [
+        "Johannes Gutenberg",
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Isaac Newton"
+      ],
+      "answer": "Johannes Gutenberg"
+    },
+    {
+      "question": "What role did print culture play in the French Revolution?",
+      "options": [
+        "It had no impact",
+        "It helped spread revolutionary ideas",
+        "It was used to promote monarchy",
+        "It was only used for entertainment"
+      ],
+      "answer": "It helped spread revolutionary ideas"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "quiz": [
+    {
+      "question": "What is the main source of energy for the Earth?",
+      "options": ["The Sun", "Wind", "Water", "Geothermal"],
+      "answer": "The Sun",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is sustainable development?",
+      "options": ["Development that meets the needs of the present without compromising the ability of future generations to meet their own needs", "Development that focuses solely on economic growth", "Development that ignores environmental concerns", "Development that is only beneficial for developed countries"],
+      "answer": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following is a renewable resource?",
+      "options": ["Coal", "Natural Gas", "Solar Energy", "Nuclear Energy"],
+      "answer": "Solar Energy",
+      "difficulty": "medium"
+    }
+  ]
+}

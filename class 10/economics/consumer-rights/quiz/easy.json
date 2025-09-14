@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the right to be informed?",
+      "options": [
+        "The right to know about the quality and quantity of goods.",
+        "The right to know about the prices of goods.",
+        "The right to know about the origin of goods.",
+        "All of the above."
+      ],
+      "answer": "All of the above."
+    },
+    {
+      "question": "Which of the following is a consumer right?",
+      "options": [
+        "Right to safety",
+        "Right to choose",
+        "Right to be heard",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What does the right to seek redressal mean?",
+      "options": [
+        "The right to complain against unfair trade practices.",
+        "The right to receive compensation for damages.",
+        "The right to be informed about products.",
+        "Both A and B."
+      ],
+      "answer": "Both A and B."
+    }
+  ]
+}

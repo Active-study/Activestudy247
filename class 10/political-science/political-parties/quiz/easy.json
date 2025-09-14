@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is a political party?",
+      "options": [
+        "A group of people with similar ideologies",
+        "An organization that runs the government",
+        "A group that organizes elections",
+        "None of the above"
+      ],
+      "answer": "A group of people with similar ideologies"
+    },
+    {
+      "question": "Which of the following is a function of political parties?",
+      "options": [
+        "To contest elections",
+        "To form government",
+        "To provide a platform for political debate",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the main purpose of a political party?",
+      "options": [
+        "To gain power",
+        "To promote social welfare",
+        "To create laws",
+        "To educate citizens"
+      ],
+      "answer": "To gain power"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary sector of the economy?",
+      "options": ["Agriculture", "Manufacturing", "Services", "Trade"],
+      "answer": "Agriculture",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following is a characteristic of the tertiary sector?",
+      "options": ["Production of goods", "Provision of services", "Extraction of raw materials", "None of the above"],
+      "answer": "Provision of services",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What percentage of India's GDP is contributed by the service sector?",
+      "options": ["50%", "60%", "70%", "80%"],
+      "answer": "60%",
+      "difficulty": "hard"
+    }
+  ]
+}
