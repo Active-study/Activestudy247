@@ -6,9 +6,9 @@
         "ncertsol": "https://example.com/light/solutions",
         "notes": "https://example.com/light/notes",
         "quiz": [
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/easy.json", "qzname": "easy.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/medium.json", "qzname": "medium.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/hard.json", "qzname": "hard.json" }
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/easy.json", "qzname": "Quiz(easy)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/medium.json", "qzname": "Quiz(medium)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/light/worksheet.pdf",
         "questions": [
@@ -27,9 +27,9 @@
         "ncertsol": "https://example.com/eye/solutions",
         "notes": "https://example.com/eye/notes",
         "quiz": [
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/the-human-eye-and-the-colourful-world/quiz/easy.json", "qzname": "easy.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/the-human-eye-and-the-colourful-world/quiz/medium.json", "qzname": "medium.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/the-human-eye-and-the-colourful-world/quiz/hard.json", "qzname": "hard.json" }
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/the-human-eye-and-the-colourful-world/quiz/easy.json", "qzname": "Quiz(easy)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/the-human-eye-and-the-colourful-world/quiz/medium.json", "qzname": "Quiz(medium)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/the-human-eye-and-the-colourful-world/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/eye/worksheet.pdf",
         "questions": [
@@ -48,9 +48,9 @@
         "ncertsol": "https://example.com/electricity/solutions",
         "notes": "https://example.com/electricity/notes",
         "quiz": [
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/electricity/quiz/easy.json", "qzname": "easy.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/electricity/quiz/medium.json", "qzname": "medium.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/electricity/quiz/hard.json", "qzname": "hard.json" }
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/electricity/quiz/easy.json", "qzname": "Quiz(easy)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/electricity/quiz/medium.json", "qzname": "Quiz(medium)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/electricity/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/electricity/worksheet.pdf",
         "questions": [
@@ -69,9 +69,9 @@
         "ncertsol": "https://example.com/magnetism/solutions",
         "notes": "https://example.com/magnetism/notes",
         "quiz": [
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/magnetic-effects-of-electric-current/quiz/easy.json", "qzname": "easy.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/magnetic-effects-of-electric-current/quiz/medium.json", "qzname": "medium.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/magnetic-effects-of-electric-current/quiz/hard.json", "qzname": "hard.json" }
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/magnetic-effects-of-electric-current/quiz/easy.json", "qzname": "Quiz(easy)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/magnetic-effects-of-electric-current/quiz/medium.json", "qzname": "Quiz(medium)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/magnetic-effects-of-electric-current/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/magnetism/worksheet.pdf",
         "questions": [
@@ -90,9 +90,9 @@
         "ncertsol": "https://example.com/energy/solutions",
         "notes": "https://example.com/energy/notes",
         "quiz": [
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/sources-of-energy/quiz/easy.json", "qzname": "easy.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/sources-of-energy/quiz/medium.json", "qzname": "medium.json" },
-          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/sources-of-energy/quiz/hard.json", "qzname": "hard.json" }
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/sources-of-energy/quiz/easy.json", "qzname": "Quiz(easy)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/sources-of-energy/quiz/medium.json", "qzname": "Quiz(medium)" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/sources-of-energy/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/energy/worksheet.pdf",
         "questions": [
