@@ -1,0 +1,115 @@
+{
+  "books": {
+    "english": "https://ncert.nic.in/textbook/pdf/jesc1ps.pdf",
+    "hindi": "https://ncert.nic.in/textbook/pdf/jhsc1ps.pdf"
+  },
+  "chapters": [
+    {
+      "chapterName": "Control and Coordination",
+      "resources": {
+        "ncertsol": "https://example.com/biology/control-and-coordination/solutions",
+        "notes": "https://example.com/biology/control-and-coordination/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/control-and-coordination/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/control-and-coordination/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/control-and-coordination/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/biology/control-and-coordination/worksheet.pdf",
+        "questions": [],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep107.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc107.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc107.pdf"
+      }
+    },
+    {
+      "chapterName": "Heredity and Evolution",
+      "resources": {
+        "ncertsol": "https://example.com/biology/heredity-and-evolution/solutions",
+        "notes": "https://example.com/biology/heredity-and-evolution/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/heredity-and-evolution/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/heredity-and-evolution/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/heredity-and-evolution/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/biology/heredity-and-evolution/worksheet.pdf",
+        "questions": [],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep109.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc109.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc109.pdf"
+      }
+    },
+    {
+      "chapterName": "How Do Organisms Reproduce",
+      "resources": {
+        "ncertsol": "https://example.com/biology/how-do-organisms-reproduce/solutions",
+        "notes": "https://example.com/biology/how-do-organisms-reproduce/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/biology/how-do-organisms-reproduce/worksheet.pdf",
+        "questions": [],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep108.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc108.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc108.pdf"
+      }
+    },
+    {
+      "chapterName": "Life Processes",
+      "resources": {
+        "ncertsol": "https://example.com/biology/life-processes/solutions",
+        "notes": "https://example.com/biology/life-processes/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Excretion_Easy.json", "qzname": "Excretion_Easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Excretion_Medium.json", "qzname": "Excretion_Medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Excretion_Hard.json", "qzname": "Excretion_Hard.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/lifeprocess_easy.json", "qzname": "lifeprocess_easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/lifeprocess_medium.json", "qzname": "lifeprocess_medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/lifeprocess_hard.json", "qzname": "lifeprocess_hard.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Nutrition_Easy_Questions.json", "qzname": "Nutrition_Easy_Questions.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Nutrition_Medium.json", "qzname": "Nutrition_Medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Nutrition_Hard.json", "qzname": "Nutrition_Hard.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Respiration_easy.json", "qzname": "Respiration_easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Respiration_Medium.json", "qzname": "Respiration_Medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Respiration_Hard.json", "qzname": "Respiration_Hard.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Transportation_easy.json", "qzname": "Transportation_easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Transportation_Medium.json", "qzname": "Transportation_Medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Transportation_Hard.json", "qzname": "Transportation_Hard.json" }
+        ],
+        "worksheet": "https://example.com/biology/life-processes/worksheet.pdf",
+        "questions": [],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep106.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc106.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc106.pdf"
+      }
+    },
+    {
+      "chapterName": "Our Environment",
+      "resources": {
+        "ncertsol": "https://example.com/biology/our-environment/solutions",
+        "notes": "https://example.com/biology/our-environment/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/biology/our-environment/worksheet.pdf",
+        "questions": [],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep115.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jesc115.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jhsc115.pdf"
+      }
+    }
+  ]
+}

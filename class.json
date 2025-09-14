@@ -2,15 +2,15 @@
   "classes": [
     {
       "className": "Class 9",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/class9_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/class9/refs/heads/main/class9_structure.json"
     },
     {
       "className": "Class 10",
-      "url": "https://raw.githubusercontent.com/Active-study/class10/main/class10_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/class 10/main/class10_structure.json"
     },
     {
       "className": "Class 11",
-      "url": "https://raw.githubusercontent.com/Active-study/class10/main/class10_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/class11/main/class11_structure.json"
     }
   ]
 }

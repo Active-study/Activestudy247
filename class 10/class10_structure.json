@@ -1,16 +1,36 @@
 {
   "subjects": [
     {
-      "subjectName": "Science",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/science/science%20(1).json"
+      "subjectName": "Physics",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/physics/physics_structure.json"
+    },
+    {
+      "subjectName": "Chemistry",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/chemistry/chemistry_structure.json"
+    },
+    {
+      "subjectName": "Biology",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/biology/biology_structure.json"
     },
     {
       "subjectName": "Math",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/deepseek_json_20250907_ca654c.json"
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/maths/maths_structure.json"
     },
     {
-      "subjectName": "SST",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/test"
+      "subjectName": "History",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/history/history_structure.json"
+    },
+    {
+      "subjectName": "Geography",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/geography/geography_structure.json"
+    },
+    {
+      "subjectName": "Political Science",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/political_science/political_science_structure.json"
+    },
+    {
+      "subjectName": "Economics",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/economics/economics_structure.json"
     },
     {
       "subjectName": "English",
@@ -22,3 +42,4 @@
     }
   ]
 }
+
