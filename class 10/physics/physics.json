@@ -12,7 +12,7 @@
         ],
         "worksheet": "https://example.com/light/worksheet.pdf",
         "questions": [
-          { "qsn": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/easy.json", "qsnname": "Question1" }
+          { "qsn": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json", "qsnname": "Question1" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep110.pdf", "qpdfname": "NCERT Exemplar" }
