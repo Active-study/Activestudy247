@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Active Study — Static</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #222; }
+    header, footer { padding: 1rem; background: #343a40; color: #fff; }
+    h1 { margin: 0; font-size: 1.5rem; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 1rem; }
+    .grid { display: grid; grid-template-columns: 1fr 2fr; gap: 1rem; }
+    .card { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; }
+    button { cursor: pointer; padding: 0.5rem 1rem; border: none; border-radius: 4px; background: #007bff; color: white; }
+    button:hover { background: #0056b3; }
+    a { color: #007bff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .quiz-q { padding: 0.5rem; border: 1px solid #ddd; margin-bottom: 0.5rem; border-radius: 6px; }
+    .option { display: block; margin-top: 0.25rem; padding: 0.3rem; border-radius: 4px; border: 1px solid #ccc; cursor: pointer; }
+    .option:hover { background: #f0f0f0; }
+    .correct { color: green; font-weight: bold; }
+    .wrong { color: red; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Active Study — Static Frontend</h1>
+    <p style="margin:0;font-size:0.9rem;">Loads JSON from GitHub (raw URLs) and renders notes, quizzes, PDFs — no backend required.</p>
+  </header>
+  <div class="container">
+    <div class="grid">
+      <div>
+        <div class="card">
+          <h3>Classes</h3>
+          <ul id="classes"></ul>
+        </div>
+        <div class="card">
+          <h3>Selected</h3>
+          <div id="selectedClass">No class selected</div>
+        </div>
+      </div>
+      <div>
+        <div class="card">
+          <h3>Chapters & Resources</h3>
+          <div id="chapters">Select a class to load its chapters.</div>
+        </div>
+        <div class="card">
+          <h3>Viewer</h3>
+          <div id="viewer">Open a chapter to view its resources and quizzes.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <small>Static app — data comes from GitHub raw JSON. Ensure CORS is allowed (GitHub raw works).</small>
+  </footer>
+
+  <script>
+    const classesUrl = "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class.json";
+    const classesList = document.getElementById("classes");
+    const selectedClassDiv = document.getElementById("selectedClass");
+    const chaptersDiv = document.getElementById("chapters");
+    const viewerDiv = document.getElementById("viewer");
+
+    let currentClass = null;
+    let currentChapter = null;
+
+    async function loadClasses() {
+      try {
+        const res = await fetch(classesUrl);
+        const j = await res.json();
+        const arr = j.classes || j;
+        classesList.innerHTML = "";
+        arr.forEach(cls => {
+          const li = document.createElement("li");
+          const btn = document.createElement("button");
+          btn.textContent = cls.className;
+          btn.onclick = () => openClass(cls);
+          li.appendChild(btn);
+          classesList.appendChild(li);
+        });
+      } catch (e) {
+        classesList.innerHTML = "<li>Error loading classes</li>";
+      }
+    }
+
+    async function openClass(cls) {
+      currentClass = cls;
+      selectedClassDiv.textContent = cls.className;
+      chaptersDiv.textContent = "Loading chapters...";
+      viewerDiv.textContent = "";
+      try {
+        const res = await fetch(cls.url);
+        const struct = await res.json();
+        renderChapters(struct.chapters || []);
+      } catch (e) {
+        chaptersDiv.textContent = "Error loading chapters.";
+      }
+    }
+
+    function renderChapters(chapters) {
+      chaptersDiv.innerHTML = "";
+      chapters.forEach(ch => {
+        const div = document.createElement("div");
+        div.className = "card";
+        const h = document.createElement("div");
+        h.innerHTML = `<strong>${ch.chapterName}</strong>`;
+        div.appendChild(h);
+
+        const btn = document.createElement("button");
+        btn.textContent = "Open";
+        btn.onclick = () => openChapter(ch);
+        div.appendChild(btn);
+
+        chaptersDiv.appendChild(div);
+      });
+    }
+
+    function openChapter(ch) {
+      currentChapter = ch;
+      viewerDiv.innerHTML = `<h4>${ch.chapterName}</h4>`;
+
+      const r = ch.resources;
+      if (!r) return;
+
+      if (r.ncertsol) viewerDiv.innerHTML += `<p>NCERT Solutions: <a href="${r.ncertsol}" target="_blank">Open</a></p>`;
+      if (r.notes) viewerDiv.innerHTML += `<p>Notes: <a href="${r.notes}" target="_blank">Open</a></p>`;
+      if (r.worksheet) viewerDiv.innerHTML += `<p>Worksheet: <a href="${r.worksheet}" target="_blank">PDF</a></p>`;
+      if (r.ncertbook) viewerDiv.innerHTML += `<p>NCERT Book: <a href="${r.ncertbook}" target="_blank">PDF</a></p>`;
+      if (r.Hindi_book) viewerDiv.innerHTML += `<p>Hindi Book: <a href="${r.Hindi_book}" target="_blank">PDF</a></p>`;
+
+      if (r.quiz) {
+        viewerDiv.innerHTML += `<h5>Quizzes</h5>`;
+        r.quiz.forEach(q => {
+          const btn = document.createElement("button");
+          btn.textContent = q.qzname || "Quiz";
+          btn.onclick = () => loadQuiz(q.qz);
+          viewerDiv.appendChild(btn);
+        });
+      }
+
+      if (r.questions) {
+        viewerDiv.innerHTML += `<h5>Questions</h5>`;
+        r.questions.forEach(q => {
+          const btn = document.createElement("button");
+          btn.textContent = q.qsnname || "Questions";
+          btn.onclick = () => loadQuestions(q.qsn);
+          viewerDiv.appendChild(btn);
+        });
+      }
+
+      if (r.questionsPDF) {
+        viewerDiv.innerHTML += `<h5>Question PDFs</h5>`;
+        r.questionsPDF.forEach(p => {
+          viewerDiv.innerHTML += `<p><a href="${p.qpdf}" target="_blank">${p.qpdfname || "PDF"}</a></p>`;
+        });
+      }
+    }
+
+    async function loadQuiz(url) {
+      viewerDiv.innerHTML = "Loading quiz...";
+      try {
+        const res = await fetch(url);
+        const j = await res.json();
+        renderQuiz(j.data || j);
+      } catch (e) {
+        viewerDiv.textContent = "Error loading quiz.";
+      }
+    }
+
+    function renderQuiz(data) {
+      viewerDiv.innerHTML = "<h4>Quiz</h4>";
+      data.forEach((q, i) => {
+        const div = document.createElement("div");
+        div.className = "quiz-q";
+        div.innerHTML = `<strong>${i + 1}. ${q.question}</strong>`;
+        [q.op_1, q.op_2, q.op_3, q.op_4].forEach(opt => {
+          if (opt) {
+            const btn = document.createElement("div");
+            btn.className = "option";
+            btn.textContent = opt;
+            btn.onclick = () => {
+              if (opt === q.ans) btn.classList.add("correct");
+              else btn.classList.add("wrong");
+            };
+            div.appendChild(btn);
+          }
+        });
+        viewerDiv.appendChild(div);
+      });
+    }
+
+    async function loadQuestions(url) {
+      viewerDiv.innerHTML = "Loading questions...";
+      try {
+        const res = await fetch(url);
+        const j = await res.json();
+        renderQuestions(j.data || j);
+      } catch (e) {
+        viewerDiv.textContent = "Error loading questions.";
+      }
+    }
+
+    function renderQuestions(data) {
+      viewerDiv.innerHTML = "<h4>Questions</h4>";
+      data.forEach((q, i) => {
+        viewerDiv.innerHTML += `<p><strong>${i + 1}. ${q.que}</strong><br>Answer: ${q.ans}</p>`;
+      });
+    }
+
+    loadClasses();
+  </script>
+</body>
+</html>
