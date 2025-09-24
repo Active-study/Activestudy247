@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "que": "State the laws of reflection of light.",
+      "ans": "1) The angle of incidence is equal to the angle of reflection. 2) The incident ray, reflected ray, and normal all lie in the same plane."
+    },
+    {
+      "que": "What is the principal axis of a spherical mirror?",
+      "ans": "The straight line passing through the pole and the center of curvature of the mirror."
+    },
+    {
+      "que": "Define the focal length of a concave mirror.",
+      "ans": "The distance between the pole and the principal focus of the mirror."
+    },
+    {
+      "que": "What type of image is formed by a concave mirror when the object is at infinity?",
+      "ans": "A highly diminished, real, and inverted image at the focus."
+    },
+    {
+      "que": "What type of image is formed by a convex mirror for any position of the object?",
+      "ans": "A virtual, erect, and diminished image between the pole and focus."
+    },
+    {
+      "que": "State the mirror formula.",
+      "ans": "1/f = 1/v + 1/u, where f = focal length, v = image distance, u = object distance."
+    },
+    {
+      "que": "What is the magnification produced by a mirror?",
+      "ans": "It is the ratio of the height of the image to the height of the object (M = h’/h = v/u)."
+    },
+    {
+      "que": "Define refraction of light.",
+      "ans": "The bending of light when it passes from one medium to another due to change in speed."
+    },
+    {
+      "que": "State Snell’s law of refraction.",
+      "ans": "n1 sin i = n2 sin r, where i = angle of incidence, r = angle of refraction."
+    },
+    {
+      "que": "What is the refractive index of a medium?",
+      "ans": "The ratio of the speed of light in vacuum to the speed of light in that medium."
+    },
+    {
+      "que": "Define the principal focus of a convex lens.",
+      "ans": "The point on the principal axis where rays parallel to the axis converge after refraction."
+    },
+    {
+      "que": "What is the lens formula?",
+      "ans": "1/f = 1/v - 1/u, where f = focal length, v = image distance, u = object distance."
+    },
+    {
+      "que": "What is the power of a lens?",
+      "ans": "The reciprocal of the focal length in meters. Unit: Dioptre (D)."
+    },
+    {
+      "que": "What type of image is formed by a convex lens when the object is at 2F?",
+      "ans": "A real, inverted, and same-sized image at 2F on the other side."
+    },
+    {
+      "que": "What type of image is formed by a concave lens?",
+      "ans": "A virtual, erect, and diminished image between the lens and its focus."
+    },
+    {
+      "que": "What is total internal reflection?",
+      "ans": "When light travels from a denser to a rarer medium and the angle of incidence exceeds the critical angle, it is completely reflected back."
+    },
+    {
+      "que": "Give one application of total internal reflection.",
+      "ans": "Optical fibres used in communication."
+    },
+    {
+      "que": "What is the critical angle?",
+      "ans": "The angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90°."
+    },
+    {
+      "que": "Which type of mirror is used as a rear-view mirror in vehicles?",
+      "ans": "A convex mirror."
+    },
+    {
+      "que": "Which type of mirror is used by dentists to see enlarged images of teeth?",
+      "ans": "A concave mirror."
+    },
+    {
+      "que": "Which type of lens is used to correct myopia?",
+      "ans": "A concave lens."
+    },
+    {
+      "que": "Which type of lens is used to correct hypermetropia?",
+      "ans": "A convex lens."
+    },
+    {
+      "que": "What is the nature of the image formed by a plane mirror?",
+      "ans": "Virtual, erect, and of the same size as the object."
+    },
+    {
+      "que": "What is the relation between focal length and radius of curvature of a mirror?",
+      "ans": "f = R/2."
+    },
+    {
+      "que": "What is dispersion of light?",
+      "ans": "The splitting of white light into its constituent colours when it passes through a prism."
+    },
+    {
+      "que": "Why does refraction occur?",
+      "ans": "Because the speed of light changes when it enters a medium of different optical density."
+    },
+    {
+      "que": "What is the sign convention for mirrors?",
+      "ans": "Distances measured against the direction of incident light are negative, and those measured along the direction are positive."
+    },
+    {
+      "que": "What is the sign convention for lenses?",
+      "ans": "Object distance is taken negative, image distance positive if on the opposite side of the object, and focal length positive for convex lens, negative for concave lens."
+    },
+    {
+      "que": "What is the unit of power of a lens?",
+      "ans": "Dioptre (D)."
+    },
+    {
+      "que": "What is the nature of the image formed by a concave mirror when the object is between focus and pole?",
+      "ans": "Virtual, erect, and magnified."
+    }
+  ]
+}
