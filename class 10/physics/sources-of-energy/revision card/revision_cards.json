@@ -1,0 +1,33 @@
+{
+    "data": [
+        { "que": "State the law of reflection.", "ans": "Angle of incidence equals angle of reflection." },
+        { "que": "What is the normal in reflection?", "ans": "An imaginary line perpendicular to the reflecting surface at the point of incidence." },
+        { "que": "Define center of curvature of a spherical mirror.", "ans": "The center of the sphere of which the mirror is a part." },
+        { "que": "What is focal length of a concave mirror?", "ans": "Distance from the pole to the focus; f = R/2 for a spherical mirror." },
+        { "que": "Why do plane mirrors form virtual images?", "ans": "Because reflected rays appear to come from behind the mirror and do not actually meet." },
+        { "que": "Define refraction of light.", "ans": "Bending of light when it passes from one medium to another." },
+        { "que": "What is refractive index?", "ans": "Ratio of speed of light in vacuum to that in the medium (n = c/v)." },
+        { "que": "State Snell's law.", "ans": "n1 sinθ1 = n2 sinθ2 relating angles of incidence and refraction." },
+        { "que": "What causes dispersion of white light?", "ans": "Variation of refractive index with wavelength causing different bending for colours." },
+        { "que": "Give one use of a convex lens in daily life.", "ans": "Used in camera objective and magnifying glass." },
+        { "que": "Name the parts of the human eye that control the size of pupil.", "ans": "Iris controls the size of the pupil." },
+        { "que": "What is accommodation in the eye?", "ans": "Ability of the eye to focus on objects at different distances by changing lens curvature." },
+        { "que": "Define myopia and its simple correction.", "ans": "Short-sightedness; corrected using a concave lens." },
+        { "que": "Define hypermetropia and its correction.", "ans": "Farsightedness; corrected using a convex lens." },
+        { "que": "Why do we see objects in colour?", "ans": "Objects reflect certain wavelengths which are detected by cone cells in the retina." },
+        { "que": "What is the SI unit of electric current?", "ans": "Ampere (A)." },
+        { "que": "State Ohm's law.", "ans": "V = IR; current through a conductor is proportional to voltage across it." },
+        { "que": "Define resistivity.", "ans": "Intrinsic property of a material indicating resistance per unit length and cross-section." },
+        { "que": "What is the function of a fuse in an electric circuit?", "ans": "Protects circuit by melting and breaking the circuit on excessive current." },
+        { "que": "State Fleming's left-hand rule use.", "ans": "Determines direction of force on current-carrying conductor in a magnetic field." },
+        { "que": "What is a magnetic field line?", "ans": "Imaginary lines showing direction and strength of magnetic field from N to S." },
+        { "que": "How does magnetic field vary with distance from a current-carrying straight conductor?", "ans": "Field strength decreases with increase in distance (∝ 1/r)." },
+        { "que": "What is electromagnetic induction?", "ans": "Production of induced emf in a conductor due to change in magnetic flux linked with it." },
+        { "que": "State Lenz's law.", "ans": "Direction of induced current opposes the change causing it." },
+        { "que": "Give one example of a device working on electromagnetic induction.", "ans": "Electric generator." },
+        { "que": "Define renewable and non-renewable sources of energy.", "ans": "Renewable can be replenished (e.g., solar); non-renewable are finite (e.g., coal)." },
+        { "que": "What is the greenhouse effect in brief?", "ans": "Trapping of Earth's heat by certain atmospheric gases leading to warming." },
+        { "que": "Name two methods to conserve energy at home.", "ans": "Use LED bulbs and switch off appliances when not in use." },
+        { "que": "Why is energy efficiency important?", "ans": "Reduces resource use, pollution, and greenhouse gas emissions." }
+    ]
+}
