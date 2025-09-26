@@ -12,9 +12,8 @@
         ],
         "worksheet": "https://example.com/light/worksheet.pdf",
         "revisioncard": [
-          { "cardurl":"https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision" },
-           { "cardurl": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json", "cardname": "PQ Question1" },
-           { "cardurl": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json", "cardname": "PQ Question1" }
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/light-reflection-and-refraction/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
+          { "cardurl":"https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep110.pdf", "qpdfname": "NCERT Exemplar" }
@@ -35,7 +34,7 @@
         ],
         "worksheet": "https://example.com/eye/worksheet.pdf",
         "revisioncard": [
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/the-human-eye-and-the-colourful-world/quiz/easy.json", "cardname": "Question1" }
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/the-human-eye-and-the-colourful-world/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep111.pdf", "qpdfname": "NCERT Exemplar" }
@@ -56,8 +55,7 @@
         ],
         "worksheet": "https://example.com/electricity/worksheet.pdf",
         "revisioncard": [
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/electricity/quiz/easy.json", "cardname": "Question1" }
-        ],
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/electricity/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }        ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep112.pdf", "qpdfname": "NCERT Exemplar" }
         ],
@@ -77,8 +75,7 @@
         ],
         "worksheet": "https://example.com/magnetism/worksheet.pdf",
         "revisioncard": [
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/magnetic-effects-of-electric-current/quiz/easy.json", "cardname": "Question1" }
-        ],
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/magnetic-effects-of-electric-current/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }        ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep113.pdf", "qpdfname": "NCERT Exemplar" }
         ],
@@ -98,7 +95,7 @@
         ],
         "worksheet": "https://example.com/energy/worksheet.pdf",
         "revisioncard": [
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/sources-of-energy/quiz/easy.json", "cardname": "Question1" }
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/sources-of-energy/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep114.pdf", "qpdfname": "NCERT Exemplar" }
