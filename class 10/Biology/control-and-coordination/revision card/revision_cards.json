@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "que": "What is nutrition in living organisms?",
+            "ans": "Nutrition is the process by which organisms obtain and use food to get energy and materials for growth and maintenance."
+        },
+        {
+            "que": "Name the two main types of nutrition.",
+            "ans": "Autotrophic (organisms make their own food) and heterotrophic (organisms obtain food from others)."
+        },
+        {
+            "que": "Where does photosynthesis occur in plants?",
+            "ans": "In chloroplasts, mainly in the leaf mesophyll cells."
+        },
+        {
+            "que": "Write the overall equation of photosynthesis.",
+            "ans": "6CO2 + 6H2O → C6H12O6 + 6O2 (in presence of sunlight and chlorophyll)."
+        },
+        {
+            "que": "What is respiration?",
+            "ans": "Respiration is the process of breaking down food to release energy in cells."
+        },
+        {
+            "que": "Differentiate aerobic and anaerobic respiration briefly.",
+            "ans": "Aerobic uses oxygen and yields more ATP; anaerobic occurs without oxygen and yields less ATP with byproducts like lactic acid or ethanol."
+        },
+        {
+            "que": "How are materials transported in plants over long distances?",
+            "ans": "Through xylem (water and minerals up) and phloem (sugars and organic compounds up and down)."
+        },
+        {
+            "que": "What drives transpiration in plants?",
+            "ans": "Evaporation of water from leaf surfaces (transpiration) creates a pull that draws water up through xylem."
+        },
+        {
+            "que": "Name the organ systems primarily involved in transport in animals.",
+            "ans": "Circulatory (blood/heart) and respiratory systems."
+        },
+        {
+            "que": "What is excretion?",
+            "ans": "Excretion is removal of metabolic wastes produced by cells, such as CO2, urea, and excess salts."
+        },
+        {
+            "que": "Which organ removes nitrogenous wastes in humans?",
+            "ans": "The kidneys filter blood and remove nitrogenous wastes as urine."
+        },
+        {
+            "que": "What is the basic unit of the nervous system?",
+            "ans": "The neuron (nerve cell)."
+        },
+        {
+            "que": "How does a reflex action differ from a voluntary action?",
+            "ans": "Reflex is rapid, involuntary and mediated by spinal cord; voluntary involves conscious brain control and is slower."
+        },
+        {
+            "que": "Name two parts of the human brain and one function each.",
+            "ans": "Cerebrum controls thinking and voluntary actions; medulla oblongata controls heartbeat and breathing."
+        },
+        {
+            "que": "What are hormones?",
+            "ans": "Chemical messengers secreted by endocrine glands that travel in blood to target organs to regulate functions."
+        },
+        {
+            "que": "Give an example of a hormone and its function.",
+            "ans": "Insulin from the pancreas lowers blood glucose by promoting its uptake and storage."
+        },
+        {
+            "que": "What is vegetative propagation?",
+            "ans": "Asexual reproduction in plants where new plants grow from vegetative parts like stems, roots, or leaves."
+        },
+        {
+            "que": "What is meant by sexual reproduction?",
+            "ans": "Reproduction involving fusion of male and female gametes to form a zygote with genetic contribution from both parents."
+        },
+        {
+            "que": "Name the male and female reproductive organs in flowering plants.",
+            "ans": "Male: stamen (anther and filament); Female: pistil/carpel (stigma, style, ovary)."
+        },
+        {
+            "que": "What is pollination?",
+            "ans": "Transfer of pollen from anther to stigma of a flower."
+        },
+        {
+            "que": "Define fertilization in animals.",
+            "ans": "Fusion of male and female gametes (sperm and egg) to form a zygote."
+        },
+        {
+            "que": "Where does fertilization occur in human females?",
+            "ans": "Usually in the fallopian tube (oviduct)."
+        },
+        {
+            "que": "What is heredity?",
+            "ans": "The transmission of traits from parents to offspring through genes."
+        },
+        {
+            "que": "What is a gene?",
+            "ans": "A unit of heredity made of DNA that codes for a specific trait or protein."
+        },
+        {
+            "que": "Explain dominant and recessive alleles briefly.",
+            "ans": "Dominant allele expresses its trait even if one copy is present; recessive expresses only if both copies are present."
+        },
+        {
+            "que": "What is variation and why is it important?",
+            "ans": "Differences among individuals of a species; important for adaptation and evolution."
+        },
+        {
+            "que": "State natural selection in one line.",
+            "ans": "Process where organisms better adapted to the environment tend to survive and produce more offspring."
+        },
+        {
+            "que": "What is an ecosystem?",
+            "ans": "A community of organisms interacting with each other and their physical environment."
+        },
+        {
+            "que": "Define food chain and give an example.",
+            "ans": "A linear sequence showing transfer of energy from producers to consumers; e.g., grass → deer → tiger."
+        },
+        {
+            "que": "What is a food web?",
+            "ans": "Interconnected food chains showing multiple feeding relationships in an ecosystem."
+        },
+        {
+            "que": "Name one method of waste management that reduces landfill use.",
+            "ans": "Composting organic waste or recycling materials like paper, glass, and plastic."
+        },
+        {
+            "que": "List one major human activity that causes habitat loss.",
+            "ans": "Deforestation for agriculture, urbanization, or logging."
+        },
+        {
+            "que": "What is biodiversity?",
+            "ans": "The variety of life forms (species, genes, ecosystems) in a given area."
+        },
+        {
+            "que": "Why are forests important for the environment?",
+            "ans": "They conserve biodiversity, regulate climate, prevent soil erosion, and maintain the water cycle."
+        },
+        {
+            "que": "Give one way to conserve water at household level.",
+            "ans": "Fix leaks, use water-saving fixtures, and reuse greywater for gardening."
+        },
+        {
+            "que": "What is wildlife conservation?",
+            "ans": "Protection and management of wild species and their habitats to prevent extinction and maintain ecosystems."
+        }
+    ]
+}
