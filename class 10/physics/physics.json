@@ -1,11 +1,4 @@
 {
-  "related": {
-    "Biology": {
-      "file_url": "file:///c:/Users/kg306/OneDrive/Desktop/Documents/GitHub/Activestudy247/class 10/Biology/Biology.json",
-      "relative_path": "../Biology/Biology.json",
-      "github_raw": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Biology.json"
-    }
-  },
   "chapters": [
     {
       "chapterName": "Light - Reflection and Refraction",
@@ -18,10 +11,9 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/light/worksheet.pdf",
-        "questions": [
-          { "qsn": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json", "qsnname": "PQ Question1" },
-           { "qsn": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json", "qsnname": "PQ Question1" },
-           { "qsn": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json", "qsnname": "PQ Question1" }
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/light-reflection-and-refraction/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
+          { "cardurl":"https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep110.pdf", "qpdfname": "NCERT Exemplar" }
@@ -41,8 +33,8 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/the-human-eye-and-the-colourful-world/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/eye/worksheet.pdf",
-        "questions": [
-          { "qsn": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/the-human-eye-and-the-colourful-world/quiz/easy.json", "qsnname": "Question1" }
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/the-human-eye-and-the-colourful-world/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep111.pdf", "qpdfname": "NCERT Exemplar" }
@@ -62,9 +54,8 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/electricity/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/electricity/worksheet.pdf",
-        "questions": [
-          { "qsn": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/electricity/quiz/easy.json", "qsnname": "Question1" }
-        ],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/electricity/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }        ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep112.pdf", "qpdfname": "NCERT Exemplar" }
         ],
@@ -83,9 +74,8 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/magnetic-effects-of-electric-current/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/magnetism/worksheet.pdf",
-        "questions": [
-          { "qsn": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/magnetic-effects-of-electric-current/quiz/easy.json", "qsnname": "Question1" }
-        ],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/magnetic-effects-of-electric-current/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }        ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep113.pdf", "qpdfname": "NCERT Exemplar" }
         ],
@@ -94,7 +84,7 @@
       }
     },
     {
-      "chapterName": "Sources of Energy",
+      "chapterName": "Sources of Energy (old)",
       "resources": {
         "ncertsol": "https://example.com/energy/solutions",
         "notes": "https://example.com/energy/notes",
@@ -104,8 +94,8 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/sources-of-energy/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
         "worksheet": "https://example.com/energy/worksheet.pdf",
-        "questions": [
-          { "qsn": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/sources-of-energy/quiz/easy.json", "qsnname": "Question1" }
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/sources-of-energy/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep114.pdf", "qpdfname": "NCERT Exemplar" }

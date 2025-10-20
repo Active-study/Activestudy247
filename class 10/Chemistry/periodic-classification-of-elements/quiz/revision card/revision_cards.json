@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "que": "Who proposed the Law of Octaves?",
+            "ans": "Newlands"
+        },
+        {
+            "que": "Who proposed the Law of Triads?",
+            "ans": "Dobereiner"
+        },
+        {
+            "que": "Who developed the periodic table based on atomic mass?",
+            "ans": "Mendeleev"
+        },
+        {
+            "que": "What is the basis of the modern periodic table?",
+            "ans": "Atomic number"
+        },
+        {
+            "que": "Who proposed the modern periodic law?",
+            "ans": "Moseley"
+        },
+        {
+            "que": "What are groups in the periodic table?",
+            "ans": "Vertical columns"
+        },
+        {
+            "que": "What are periods in the periodic table?",
+            "ans": "Horizontal rows"
+        },
+        {
+            "que": "How many groups are there in the modern periodic table?",
+            "ans": "18"
+        },
+        {
+            "que": "How many periods are there in the modern periodic table?",
+            "ans": "7"
+        },
+        {
+            "que": "What are alkali metals?",
+            "ans": "Group 1 elements"
+        },
+        {
+            "que": "What are alkaline earth metals?",
+            "ans": "Group 2 elements"
+        },
+        {
+            "que": "What are halogens?",
+            "ans": "Group 17 elements"
+        },
+        {
+            "que": "What are noble gases?",
+            "ans": "Group 18 elements"
+        },
+        {
+            "que": "What is the trend in atomic size across a period?",
+            "ans": "Decreases from left to right"
+        },
+        {
+            "que": "What is the trend in atomic size down a group?",
+            "ans": "Increases from top to bottom"
+        },
+        {
+            "que": "What is ionization energy?",
+            "ans": "The energy required to remove an electron from an isolated gaseous atom."
+        },
+        {
+            "que": "What is the trend in ionization energy across a period?",
+            "ans": "Increases from left to right"
+        },
+        {
+            "que": "What is the trend in ionization energy down a group?",
+            "ans": "Decreases from top to bottom"
+        },
+        {
+            "que": "What is electronegativity?",
+            "ans": "The tendency of an atom to attract electrons in a chemical bond."
+        },
+        {
+            "que": "What is the trend in electronegativity across a period?",
+            "ans": "Increases from left to right"
+        },
+        {
+            "que": "What is the trend in electronegativity down a group?",
+            "ans": "Decreases from top to bottom"
+        },
+        {
+            "que": "Where are metals located in the periodic table?",
+            "ans": "Left side"
+        },
+        {
+            "que": "Where are non-metals located in the periodic table?",
+            "ans": "Right side"
+        },
+        {
+            "que": "What are transition elements?",
+            "ans": "Elements in groups 3-12"
+        },
+        {
+            "que": "What is the general electronic configuration of alkali metals?",
+            "ans": "ns1"
+        },
+         {
+            "que": "What is the general electronic configuration of halogens?",
+            "ans": "ns2np5"
+        },
+        {
+            "que": "What is the general electronic configuration of noble gases?",
+            "ans": "ns2np6"
+        }
+    ]
+}

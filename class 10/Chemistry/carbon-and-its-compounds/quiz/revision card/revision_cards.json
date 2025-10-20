@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+            "que": "What is catenation?",
+            "ans": "The ability of carbon to form bonds with other carbon atoms."
+        },
+        {
+            "que": "What is tetravalency?",
+            "ans": "The ability of carbon to form four covalent bonds."
+        },
+        {
+            "que": "What are hydrocarbons?",
+            "ans": "Compounds containing only carbon and hydrogen."
+        },
+        {
+            "que": "What are saturated hydrocarbons?",
+            "ans": "Hydrocarbons with single bonds between carbon atoms (alkanes)."
+        },
+        {
+            "que": "What are unsaturated hydrocarbons?",
+            "ans": "Hydrocarbons with double or triple bonds between carbon atoms (alkenes and alkynes)."
+        },
+        {
+            "que": "What is an alkane?",
+            "ans": "A saturated hydrocarbon with the general formula CnH2n+2."
+        },
+        {
+            "que": "What is an alkene?",
+            "ans": "An unsaturated hydrocarbon with a double bond and the general formula CnH2n."
+        },
+        {
+            "que": "What is an alkyne?",
+            "ans": "An unsaturated hydrocarbon with a triple bond and the general formula CnH2n-2."
+        },
+        {
+            "que": "What is an isomer?",
+            "ans": "Compounds with the same molecular formula but different structural formulas."
+        },
+        {
+            "que": "What is a functional group?",
+            "ans": "An atom or group of atoms that determines the chemical properties of a compound."
+        },
+        {
+            "que": "Give an example of a functional group.",
+            "ans": "-OH (alcohol)"
+        },
+        {
+            "que": "What is a homologous series?",
+            "ans": "A series of compounds with the same functional group and similar chemical properties."
+        },
+        {
+            "que": "What is saponification?",
+            "ans": "The process of making soap by reacting a fat or oil with a base."
+        },
+        {
+            "que": "What are soaps?",
+            "ans": "Sodium or potassium salts of long-chain carboxylic acids."
+        },
+        {
+            "que": "What are detergents?",
+            "ans": "Ammonium or sulfonate salts of long-chain carboxylic acids."
+        },
+        {
+            "que": "What is esterification?",
+            "ans": "The reaction between a carboxylic acid and an alcohol to form an ester."
+        },
+        {
+            "que": "What is combustion?",
+            "ans": "Burning a substance in the presence of oxygen to produce heat and light."
+        },
+        {
+            "que": "What is oxidation?",
+            "ans": "Addition of oxygen or removal of hydrogen."
+        },
+        {
+            "que": "What is addition reaction?",
+            "ans": "A reaction in which atoms add to a multiple bond."
+        },
+        {
+            "que": "What is substitution reaction?",
+            "ans": "A reaction in which one atom or group is replaced by another."
+        },
+        {
+            "que": "What is hydrogenation?",
+            "ans": "Addition of hydrogen to an unsaturated hydrocarbon to make it saturated."
+        },
+        {
+            "que": "What is denatured alcohol?",
+            "ans": "Ethanol made unfit for drinking by adding methanol."
+        },
+        {
+            "que": "What are allotropes?",
+            "ans": "Different forms of the same element having different physical properties."
+        },
+        {
+            "que": "Give an example of an allotrope of carbon.",
+            "ans": "Diamond"
+        },
+        {
+            "que": "What is a micelle?",
+            "ans": "An aggregate of surfactant molecules dispersed in a liquid colloid."
+        },
+        {
+            "que": "What is a carboxylic acid?",
+            "ans": "An organic acid containing a carboxyl group (-COOH)."
+        }
+    ]
+}

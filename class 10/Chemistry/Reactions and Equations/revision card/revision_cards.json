@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "que": "What is a chemical reaction?",
+            "ans": "A process involving rearrangement of atoms to form new substances."
+        },
+        {
+            "que": "Define a balanced chemical equation.",
+            "ans": "An equation with equal number of atoms for each element on both sides."
+        },
+        {
+            "que": "What is a combination reaction?",
+            "ans": "Two or more reactants combine to form a single product."
+        },
+        {
+            "que": "Give an example of a combination reaction.",
+            "ans": "2Mg + O2 -> 2MgO"
+        },
+        {
+            "que": "What is a decomposition reaction?",
+            "ans": "A single reactant breaks down into two or more products."
+        },
+        {
+            "que": "Give an example of a decomposition reaction.",
+            "ans": "CaCO3 -> CaO + CO2"
+        },
+        {
+            "que": "What is a displacement reaction?",
+            "ans": "One element replaces another in a compound."
+        },
+        {
+            "que": "Give an example of a displacement reaction.",
+            "ans": "Fe + CuSO4 -> FeSO4 + Cu"
+        },
+        {
+            "que": "What is a double displacement reaction?",
+            "ans": "Ions are exchanged between two reactants forming new compounds."
+        },
+        {
+            "que": "Give an example of a double displacement reaction.",
+            "ans": "Na2SO4 + BaCl2 -> 2NaCl + BaSO4"
+        },
+        {
+            "que": "What is an oxidation reaction?",
+            "ans": "A reaction involving gain of oxygen or loss of electrons."
+        },
+        {
+            "que": "What is a reduction reaction?",
+            "ans": "A reaction involving loss of oxygen or gain of electrons."
+        },
+        {
+            "que": "Define redox reaction.",
+            "ans": "A reaction where oxidation and reduction occur simultaneously."
+        },
+        {
+            "que": "What is corrosion?",
+            "ans": "The process of metal being eaten up gradually by reaction with air, moisture or chemicals."
+        },
+        {
+            "que": "Give an example of corrosion.",
+            "ans": "Rusting of iron."
+        },
+        {
+            "que": "How can corrosion be prevented?",
+            "ans": "By painting, galvanization, or applying grease."
+        },
+        {
+            "que": "What is rancidity?",
+            "ans": "Oxidation of fats and oils in food resulting in bad taste and smell."
+        },
+        {
+            "que": "How can rancidity be prevented?",
+            "ans": "By adding antioxidants or storing food in airtight containers."
+        },
+        {
+            "que": "What are reactants?",
+            "ans": "Substances that take part in a chemical reaction."
+        },
+        {
+            "que": "What are products?",
+            "ans": "Substances formed as a result of a chemical reaction."
+        },
+        {
+            "que": "What is an exothermic reaction?",
+            "ans": "A reaction that releases heat."
+        },
+        {
+            "que": "What is an endothermic reaction?",
+            "ans": "A reaction that absorbs heat."
+        },
+        {
+            "que": "What is a precipitate?",
+            "ans": "An insoluble solid that emerges from a liquid solution."
+        },
+        {
+            "que": "What is the role of a catalyst?",
+            "ans": "To speed up a chemical reaction without being consumed."
+        },
+         {
+            "que": "What does the symbol (aq) represent in a chemical equation?",
+            "ans": "Aqueous solution (dissolved in water)."
+        },
+        {
+            "que": "What does the symbol (g) represent in a chemical equation?",
+            "ans": "Gaseous state."
+        },
+        {
+            "que": "What does the symbol (s) represent in a chemical equation?",
+            "ans": "Solid state."
+        },
+        {
+            "que": "What does the symbol (l) represent in a chemical equation?",
+            "ans": "Liquid state."
+        }
+    ]
+}

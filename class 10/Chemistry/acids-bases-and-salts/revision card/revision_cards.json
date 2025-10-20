@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "que": "What are acids?",
+            "ans": "Substances that release H+ ions in water."
+        },
+        {
+            "que": "What are bases?",
+            "ans": "Substances that release OH- ions in water."
+        },
+        {
+            "que": "What is a salt?",
+            "ans": "A compound formed by the reaction of an acid and a base."
+        },
+        {
+            "que": "What is neutralization?",
+            "ans": "The reaction between an acid and a base to form salt and water."
+        },
+        {
+            "que": "What is pH scale?",
+            "ans": "A scale to measure the acidity or alkalinity of a solution."
+        },
+        {
+            "que": "What is the pH value of a neutral solution?",
+            "ans": "7"
+        },
+        {
+            "que": "What is the pH range for acidic solutions?",
+            "ans": "Less than 7"
+        },
+        {
+            "que": "What is the pH range for basic solutions?",
+            "ans": "Greater than 7"
+        },
+        {
+            "que": "What are strong acids?",
+            "ans": "Acids that completely dissociate in water."
+        },
+        {
+            "que": "Give an example of a strong acid.",
+            "ans": "Hydrochloric acid (HCl)"
+        },
+        {
+            "que": "What are weak acids?",
+            "ans": "Acids that partially dissociate in water."
+        },
+        {
+            "que": "Give an example of a weak acid.",
+            "ans": "Acetic acid (CH3COOH)"
+        },
+        {
+            "que": "What are strong bases?",
+            "ans": "Bases that completely dissociate in water."
+        },
+        {
+            "que": "Give an example of a strong base.",
+            "ans": "Sodium hydroxide (NaOH)"
+        },
+        {
+            "que": "What are weak bases?",
+            "ans": "Bases that partially dissociate in water."
+        },
+        {
+            "que": "Give an example of a weak base.",
+            "ans": "Ammonium hydroxide (NH4OH)"
+        },
+        {
+            "que": "What are indicators?",
+            "ans": "Substances that change color to indicate the presence of an acid or base."
+        },
+        {
+            "que": "Give an example of an indicator.",
+            "ans": "Litmus"
+        },
+        {
+            "que": "What is the color of litmus in acidic solution?",
+            "ans": "Red"
+        },
+        {
+            "que": "What is the color of litmus in basic solution?",
+            "ans": "Blue"
+        },
+        {
+            "que": "What is universal indicator?",
+            "ans": "A mixture of indicators that shows different colors at different pH values."
+        },
+        {
+            "que": "What is the chemical formula of sodium chloride?",
+            "ans": "NaCl"
+        },
+        {
+            "que": "What is the common name of sodium bicarbonate?",
+            "ans": "Baking soda"
+        },
+        {
+            "que": "What is the chemical formula of sodium carbonate?",
+            "ans": "Na2CO3"
+        },
+        {
+            "que": "What is the common name of calcium sulfate hemihydrate?",
+            "ans": "Plaster of Paris"
+        },
+        {
+            "que": "What is the chemical formula of calcium hydroxide?",
+            "ans": "Ca(OH)2"
+        },
+        {
+            "que": "What is the common name of calcium hypochlorite?",
+            "ans": "Bleaching powder"
+        }
+    ]
+}
