@@ -1,8 +1,5 @@
 {
-  "books": {
-    "english": "https://ncert.nic.in/textbook/pdf/jesc1ps.pdf",
-    "hindi": "https://ncert.nic.in/textbook/pdf/jhsc1ps.pdf"
-  },
+  
   "chapters": [
     {
       "chapterName": "Control and Coordination",
