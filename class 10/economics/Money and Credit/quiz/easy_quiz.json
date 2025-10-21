@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "What is collateral?", "op_1": "Type of bank", "op_2": "Asset pledged for a loan", "op_3": "Form of interest", "op_4": "A bank account", "ans": "Asset pledged for a loan" },
+    { "question": "Which is a formal source of credit?", "op_1": "Moneylender", "op_2": "Bank", "op_3": "Friend", "op_4": "Local shop", "ans": "Bank" },
+    { "question": "Microcredit is:", "op_1": "Large corporate loan", "op_2": "Small loans to poor for livelihood", "op_3": "Only for students", "op_4": "Always unsecured", "ans": "Small loans to poor for livelihood" },
+    { "question": "Interest is:", "op_1": "Price paid for borrowing money", "op_2": "A type of collateral", "op_3": "A social scheme", "op_4": "A savings account", "ans": "Price paid for borrowing money" },
+    { "question": "Which is an informal lender?", "op_1": "Cooperative bank", "op_2": "Moneylender", "op_3": "Commercial bank", "op_4": "Post office", "ans": "Moneylender" },
+    { "question": "What does financial inclusion mean?", "op_1": "Only rich have bank accounts", "op_2": "Everyone has access to financial services", "op_3": "No one uses banks", "op_4": "Only importers have credit", "ans": "Everyone has access to financial services" },
+    { "question": "Which is an example of money?", "op_1": "Household goods", "op_2": "Currency notes", "op_3": "Farm land", "op_4": "Computer", "ans": "Currency notes" },
+    { "question": "Why do farmers use credit?", "op_1": "To buy inputs before harvest", "op_2": "To close markets", "op_3": "To avoid production", "op_4": "To stop saving", "ans": "To buy inputs before harvest" },
+    { "question": "What is a bank loan?", "op_1": "Money given by bank to be repaid with interest", "op_2": "Free grant", "op_3": "Only for saving", "op_4": "A gift", "ans": "Money given by bank to be repaid with interest" },
+    { "question": "Which is a benefit of formal credit?", "op_1": "Lower interest than many informal lenders", "op_2": "Always higher charges", "op_3": "No documentation ever required", "op_4": "Less access to loans", "ans": "Lower interest than many informal lenders" },
+    { "question": "What is overdraft?", "op_1": "Withdrawing beyond account balance up to a limit", "op_2": "Saving money only", "op_3": "A fixed deposit", "op_4": "A loan without interest", "ans": "Withdrawing beyond account balance up to a limit" },
+    { "question": "What is trade credit?", "op_1": "Credit given by suppliers to buyers", "op_2": "Bank loan only", "op_3": "Credit card debt", "op_4": "Government grant", "ans": "Credit given by suppliers to buyers" }
+  ]
+}

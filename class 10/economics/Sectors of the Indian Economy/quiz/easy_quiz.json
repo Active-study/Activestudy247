@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "Which is a primary sector activity?", "op_1": "Banking", "op_2": "Fishing", "op_3": "IT services", "op_4": "Retail trade", "ans": "Fishing" },
+    { "question": "Which is a secondary sector activity?", "op_1": "Farming", "op_2": "Manufacturing", "op_3": "Transport", "op_4": "Healthcare", "ans": "Manufacturing" },
+    { "question": "Which is a tertiary sector activity?", "op_1": "Mining", "op_2": "Car manufacturing", "op_3": "Education", "op_4": "Crop cultivation", "ans": "Education" },
+    { "question": "MSMEs are important for: ", "op_1": "Only exports", "op_2": "Employment generation", "op_3": "Only agriculture", "op_4": "Only insurance", "ans": "Employment generation" },
+    { "question": "Organised sector firms are: ", "op_1": "Registered and regulated", "op_2": "Always informal", "op_3": "Only street vendors", "op_4": "Never taxed", "ans": "Registered and regulated" },
+    { "question": "Disguised unemployment is common in:", "op_1": "Industry", "op_2": "Formal sector", "op_3": "Agriculture", "op_4": "IT services", "ans": "Agriculture" },
+    { "question": "Value addition happens in: ", "op_1": "Processing raw materials into finished goods", "op_2": "Growing crops only", "op_3": "Only services", "op_4": "None", "ans": "Processing raw materials into finished goods" },
+    { "question": "Which sector contributes the most to India's GDP?", "op_1": "Agriculture", "op_2": "Industry", "op_3": "Services", "op_4": "Mining", "ans": "Services" },
+    { "question": "Why is infrastructure important?", "op_1": "Reduces market access", "op_2": "Increases connectivity and lowers costs", "op_3": "Only affects imports", "op_4": "Decreases productivity", "ans": "Increases connectivity and lowers costs" },
+    { "question": "Rural-urban migration mainly occurs due to: ", "op_1": "Better rural services", "op_2": "Search for jobs and services in cities", "op_3": "Decline in urban jobs", "op_4": "Lower education in cities", "ans": "Search for jobs and services in cities" },
+    { "question": "Which is an unorganised sector example?", "op_1": "Public bank", "op_2": "Street vendor", "op_3": "Large manufacturing firm", "op_4": "IT multinational", "ans": "Street vendor" },
+    { "question": "Industrialisation typically leads to: ", "op_1": "More agricultural employment", "op_2": "Creation of manufacturing jobs", "op_3": "Less services", "op_4": "Lower productivity", "ans": "Creation of manufacturing jobs" }
+  ]
+}

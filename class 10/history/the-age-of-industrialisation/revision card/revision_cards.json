@@ -1,0 +1,31 @@
+{
+  "data": [
+    { "que": "What was the Industrial Revolution?", "ans": "A period of major industrialization that began in Britain in the late 18th century causing shifts to mechanized production." },
+    { "que": "Why did the Industrial Revolution begin in Britain?", "ans": "Factors included coal and iron resources, colonial markets, capital, and inventions like the steam engine." },
+    { "que": "Who invented the steam engine that impacted industry?", "ans": "James Watt improved the steam engine, boosting industrial power." },
+    { "que": "What is the significance of the textile industry?", "ans": "Textiles were central to early industrialization, driving mechanization and factory systems." },
+    { "que": "Define 'factory system'.", "ans": "A method of manufacturing using centralized buildings, machines, and wage labour under supervision." },
+    { "que": "What is 'division of labour'?", "ans": "Breaking production into separate tasks to increase efficiency." },
+    { "que": "What were working conditions in early factories?", "ans": "Often long hours, low wages, child labour, and unsafe environments." },
+    { "que": "How did industrialization affect urbanisation?", "ans": "It led to rapid growth of cities as people migrated for factory work." },
+    { "que": "What is 'Luddism'?", "ans": "A movement where workers protested against machinery by destroying machines that threatened jobs." },
+    { "que": "Name one positive social impact of industrialisation.", "ans": "Growth of jobs, increased production, and development of infrastructure." },
+    { "que": "What role did colonies play in industrialisation?", "ans": "They supplied raw materials and served as markets for manufactured goods." },
+    { "que": "What is 'proto-industrialisation'?", "ans": "Early rural-based manufacturing before large factories, often household-based production." },
+    { "que": "How did technology affect transportation during industrialisation?", "ans": "Inventions like railways and steamships improved movement of goods and people." },
+    { "que": "Why did industrial centres shift from Britain to other countries?", "ans": "Spread of technology, capital investment, and access to resources led to industrialisation elsewhere." },
+    { "que": "What were the environmental consequences of industrialisation?", "ans": "Pollution, deforestation, and increased use of fossil fuels affecting air and water quality." },
+    { "que": "How did labour movements respond to factory conditions?", "ans": "They organized strikes, unions, and demanded legislation for workers' rights." },
+    { "que": "What is 'mass production'?", "ans": "Large-scale manufacturing using standardized parts and assembly processes." },
+    { "que": "Give an example of a 19th-century industrial innovation.", "ans": "The power loom in textiles or the Bessemer process in steel production." },
+    { "que": "What was the Bessemer process?", "ans": "A method to mass-produce steel by removing impurities from iron, making steel cheaper." },
+    { "que": "How did industrialisation influence social classes?", "ans": "It created a new industrial working class and expanded the bourgeoisie (middle class)." },
+    { "que": "What is 'capitalism' in the industrial context?", "ans": "An economic system where private individuals own production and labour is bought and sold in markets." },
+    { "que": "Why was child labour common in early factories?", "ans": "Because children were cheap labour and could handle small tasks in dangerous conditions." },
+    { "que": "What reforms improved factory conditions?", "ans": "Laws limiting working hours, banning child labour, and improving safety standards." },
+    { "que": "How did industrialisation change consumption patterns?", "ans": "More goods became affordable, leading to mass consumer markets and new lifestyles." },
+    { "que": "What role did inventions play in the spread of industrialization?", "ans": "They increased productivity and were adopted internationally, fostering industrial growth." },
+    { "que": "What is 'assembly line' production?", "ans": "A production process where a product moves sequentially through stations each adding parts or performing steps." },
+    { "que": "How did industrialisation contribute to imperialism?", "ans": "Need for raw materials and markets pushed nations to acquire colonies and control trade." }
+  ]
+}

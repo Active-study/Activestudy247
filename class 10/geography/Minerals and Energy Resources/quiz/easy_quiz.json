@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "What is an ore?", "op_1": "Any rock", "op_2": "Mineral-bearing rock usable for extraction", "op_3": "Forest product", "op_4": "Soil type", "ans": "Mineral-bearing rock usable for extraction" },
+    { "question": "Which is a renewable energy?", "op_1": "Coal", "op_2": "Solar", "op_3": "Petroleum", "op_4": "Natural gas", "ans": "Solar" },
+    { "question": "What is hydropower?", "op_1": "Energy from burning coal", "op_2": "Energy from flowing water", "op_3": "Solar panels", "op_4": "Wind turbines", "ans": "Energy from flowing water" },
+    { "question": "Which is a non-metallic mineral?", "op_1": "Iron", "op_2": "Bauxite", "op_3": "Limestone", "op_4": "Copper", "ans": "Limestone" },
+    { "question": "What is coal used for primarily?", "op_1": "Textiles", "op_2": "Thermal power and steel production", "op_3": "Fishing", "op_4": "Tourism", "ans": "Thermal power and steel production" },
+    { "question": "What is offshore drilling?", "op_1": "Mining on land", "op_2": "Extracting oil from under the sea", "op_3": "Planting trees", "op_4": "Hydropower development", "ans": "Extracting oil from under the sea" },
+    { "question": "Why are rare earths significant?", "op_1": "Used in high-tech devices and strategic industries", "op_2": "Only used in agriculture", "op_3": "Always abundant", "op_4": "No industrial use", "ans": "Used in high-tech devices and strategic industries" },
+    { "question": "What is coal gasification?", "op_1": "Turning coal into gas for cleaner use", "op_2": "Burning coal directly", "op_3": "Mining method only", "op_4": "A renewable process", "ans": "Turning coal into gas for cleaner use" },
+    { "question": "Which is an environmental impact of mining?", "op_1": "Increased biodiversity", "op_2": "Soil erosion and water pollution", "op_3": "Improved air quality", "op_4": "More forests", "ans": "Soil erosion and water pollution" },
+    { "question": "What is distributed renewable energy?", "op_1": "Large centralised plants only", "op_2": "Local small-scale generation like rooftop solar", "op_3": "Only fossil fuels", "op_4": "No electricity generation", "ans": "Local small-scale generation like rooftop solar" },
+    { "question": "What is acid mine drainage?", "op_1": "Freshwater spring", "op_2": "Acidic runoff from mines polluting water", "op_3": "A type of coal", "op_4": "An energy source", "ans": "Acidic runoff from mines polluting water" },
+    { "question": "Why diversify energy sources?", "op_1": "To increase dependence on one fuel", "op_2": "To enhance energy security and reduce environmental impact", "op_3": "To reduce renewable use", "op_4": "To close all mines", "ans": "To enhance energy security and reduce environmental impact" }
+  ]
+}

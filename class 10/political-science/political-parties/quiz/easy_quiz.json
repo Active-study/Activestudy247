@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "What is a political party?", "op_1": "A group organizing sports", "op_2": "An organized group contesting elections and forming government", "op_3": "A religious sect", "op_4": "A company", "ans": "An organized group contesting elections and forming government" },
+    { "question": "Which is an example of a national party in India?", "op_1": "A local panchayat group", "op_2": "BJP", "op_3": "A trade union only", "op_4": "An NGO", "ans": "BJP" },
+    { "question": "What is a party manifesto?", "op_1": "A financial audit", "op_2": "A list of party policies and promises", "op_3": "A court order", "op_4": "A tax form", "ans": "A list of party policies and promises" },
+    { "question": "What does party discipline mean?", "op_1": "Members follow chief's family only", "op_2": "Members vote and act according to party decisions", "op_3": "No rules in the party", "op_4": "Only opposition follows rules", "ans": "Members vote and act according to party decisions" },
+    { "question": "Why do parties form alliances?", "op_1": "To avoid elections", "op_2": "To combine strengths and form governments", "op_3": "To reduce voter turnout", "op_4": "To ban other parties", "ans": "To combine strengths and form governments" },
+    { "question": "What is a regional party?", "op_1": "A party active in one region with local support", "op_2": "A party with global headquarters", "op_3": "A party for senior citizens only", "op_4": "A party with no voters", "ans": "A party active in one region with local support" },
+    { "question": "What role do opposition parties play?", "op_1": "Support the government always", "op_2": "Hold the government accountable and critique policies", "op_3": "Run the judiciary", "op_4": "Collect taxes", "ans": "Hold the government accountable and critique policies" },
+    { "question": "What is coalition politics?", "op_1": "A single-party government only", "op_2": "Government formed by two or more parties working together", "op_3": "No government at all", "op_4": "Military rule", "ans": "Government formed by two or more parties working together" },
+    { "question": "Why is internal democracy important in parties?", "op_1": "To concentrate power in leaders", "op_2": "To ensure accountability and broader participation", "op_3": "To stop elections", "op_4": "To increase corruption", "ans": "To ensure accountability and broader participation" },
+    { "question": "What is a party symbol used for?", "op_1": "Identification on ballots especially for illiterate voters", "op_2": "Tax collection only", "op_3": "Judicial decisions", "op_4": "None of these", "ans": "Identification on ballots especially for illiterate voters" }
+  ]
+}

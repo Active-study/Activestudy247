@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "Which crop is a rabi crop?", "op_1": "Rice", "op_2": "Wheat", "op_3": "Maize", "op_4": "Sorghum", "ans": "Wheat" },
+    { "question": "What is mixed farming?", "op_1": "Only planting trees", "op_2": "Growing crops and rearing animals together", "op_3": "Only fisheries", "op_4": "Only cash crops", "ans": "Growing crops and rearing animals together" },
+    { "question": "Which is a kharif crop?", "op_1": "Wheat", "op_2": "Rice", "op_3": "Barley", "op_4": "Mustard", "ans": "Rice" },
+    { "question": "Green Revolution introduced:", "op_1": "High-yielding varieties and modern techniques", "op_2": "Only organic farming", "op_3": "Shifting cultivation", "op_4": "No irrigation", "ans": "High-yielding varieties and modern techniques" },
+    { "question": "What is plantation agriculture?", "op_1": "Small farm food production", "op_2": "Large estates growing single commercial crops", "op_3": "Mixed cropping only", "op_4": "Subsistence farming", "ans": "Large estates growing single commercial crops" },
+    { "question": "Why is irrigation important?", "op_1": "To remove water from fields", "op_2": "To supply water and increase yields", "op_3": "To reduce production", "op_4": "To prevent cropping", "ans": "To supply water and increase yields" },
+    { "question": "What is crop rotation?", "op_1": "Growing the same crop every season", "op_2": "Alternating crops to maintain soil fertility", "op_3": "Only cash cropping", "op_4": "Planting trees instead of crops", "ans": "Alternating crops to maintain soil fertility" },
+    { "question": "Which is a cash crop?", "op_1": "Rice", "op_2": "Cotton", "op_3": "Millet", "op_4": "Pulses", "ans": "Cotton" },
+    { "question": "What does mechanisation do?", "op_1": "Increase manual labour only", "op_2": "Use machines to boost efficiency", "op_3": "Reduce yields always", "op_4": "Stop farming", "ans": "Use machines to boost efficiency" },
+    { "question": "What is post-harvest loss?", "op_1": "Loss of crops after harvest due to poor storage", "op_2": "Higher yields", "op_3": "Increased exports", "op_4": "Better storage", "ans": "Loss of crops after harvest due to poor storage" },
+    { "question": "What is contract farming?", "op_1": "Farmers refuse markets", "op_2": "Agreement to grow crops for companies", "op_3": "Only subsistence farming", "op_4": "Illegal practice always", "ans": "Agreement to grow crops for companies" },
+    { "question": "Why use high-quality seeds?", "op_1": "They reduce yield", "op_2": "Improve yield and disease resistance", "op_3": "Always cost less", "op_4": "Stop pest attacks entirely", "ans": "Improve yield and disease resistance" }
+  ]
+}

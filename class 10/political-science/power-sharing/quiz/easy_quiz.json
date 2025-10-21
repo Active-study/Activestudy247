@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "What is power sharing?", "op_1": "Only one group rules", "op_2": "Different groups share decision-making power", "op_3": "Military rule", "op_4": "No government", "ans": "Different groups share decision-making power" },
+    { "question": "Which is a form of vertical power sharing?", "op_1": "Separation of powers", "op_2": "Federalism", "op_3": "Judicial review", "op_4": "Conscription", "ans": "Federalism" },
+    { "question": "What does horizontal distribution of power involve?", "op_1": "Sharing power across institutions", "op_2": "Sharing power across regions", "op_3": "No sharing", "op_4": "Only party rule", "ans": "Sharing power across institutions" },
+    { "question": "Which country is an example of linguistic power sharing?", "op_1": "Belgium", "op_2": "Japan", "op_3": "China", "op_4": "Saudi Arabia", "ans": "Belgium" },
+    { "question": "What is decentralization?", "op_1": "Centralizing authority", "op_2": "Transferring power to lower levels of government", "op_3": "Removing elections", "op_4": "A type of tax", "ans": "Transferring power to lower levels of government" },
+    { "question": "Which organ safeguards rights and resolves disputes?", "op_1": "Legislature", "op_2": "Judiciary", "op_3": "Executive alone", "op_4": "Military", "ans": "Judiciary" },
+    { "question": "What are reserved seats used for?", "op_1": "Military recruitment", "op_2": "Guaranteeing representation for underrepresented groups", "op_3": "Tax collection", "op_4": "Foreign affairs", "ans": "Guaranteeing representation for underrepresented groups" },
+    { "question": "Why are dialogue and negotiation important in power sharing?", "op_1": "They reduce cooperation", "op_2": "They build consensus and manage conflicts", "op_3": "They cause division", "op_4": "They remove parties", "ans": "They build consensus and manage conflicts" },
+    { "question": "Which is a risk of federalism?", "op_1": "Uniform governance everywhere", "op_2": "Weak national unity if decentralization is excessive", "op_3": "No regional autonomy", "op_4": "No elections", "ans": "Weak national unity if decentralization is excessive" },
+    { "question": "What does multilevel governance refer to?", "op_1": "Single-tier government", "op_2": "Decision-making across local, regional and national levels", "op_3": "No local governments", "op_4": "Only international bodies", "ans": "Decision-making across local, regional and national levels" }
+  ]
+}

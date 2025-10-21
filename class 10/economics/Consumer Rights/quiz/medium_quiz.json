@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "What does redressal mean?", "op_1": "Punishment of consumers", "op_2": "Remedy for defective goods or services", "op_3": "Only refunds always", "op_4": "No action possible", "ans": "Remedy for defective goods or services" },
+    { "question": "Which agency certifies product quality in India?", "op_1": "WTO", "op_2": "BIS", "op_3": "IMF", "op_4": "UNESCO", "ans": "BIS" },
+    { "question": "What is misleading labelling?", "op_1": "Accurate ingredient list", "op_2": "Hiding or misrepresenting important product information", "op_3": "Providing expiry date", "op_4": "Clear instructions", "ans": "Hiding or misrepresenting important product information" },
+    { "question": "How can consumers obtain redress?", "op_1": "Lodging complaint with consumer forum and providing evidence", "op_2": "Only through criminal courts", "op_3": "By ignoring defects", "op_4": "By destroying the product", "ans": "Lodging complaint with consumer forum and providing evidence" },
+    { "question": "Why keep emails and messages regarding purchases?", "op_1": "They are irrelevant", "op_2": "They serve as proof of communication and terms", "op_3": "They increase fraud", "op_4": "They are illegal", "ans": "They serve as proof of communication and terms" },
+    { "question": "What is deceptive pricing?", "op_1": "Clear and fair pricing", "op_2": "Hidden charges or false discounts", "op_3": "Explicit taxes only", "op_4": "Transparent billing", "ans": "Hidden charges or false discounts" },
+    { "question": "Which is a consumer responsibility?", "op_1": "To ignore instructions", "op_2": "To read labels and follow instructions", "op_3": "To hide defects", "op_4": "To avoid bills", "ans": "To read labels and follow instructions" },
+    { "question": "What is product testing by consumer organisations for?", "op_1": "To mislead buyers", "op_2": "To assess quality and safety and inform consumers", "op_3": "To increase prices only", "op_4": "To promote a brand without tests", "ans": "To assess quality and safety and inform consumers" },
+    { "question": "How does warranty differ from guarantee?", "op_1": "They are always identical", "op_2": "Warranty is a formal promise; guarantee may be broader assurance", "op_3": "Warranty never allows repair", "op_4": "Guarantee is illegal", "ans": "Warranty is a formal promise; guarantee may be broader assurance" },
+    { "question": "What should be included in a consumer complaint?", "op_1": "Evidence like bills, warranty and details of defect", "op_2": "Only verbal claims", "op_3": "No proof", "op_4": "Irrelevant information", "ans": "Evidence like bills, warranty and details of defect" },
+    { "question": "Why is consumer awareness important?", "op_1": "To reduce complaints", "op_2": "To empower consumers to make safe choices and seek redress", "op_3": "To avoid regulations", "op_4": "To increase exploitation", "ans": "To empower consumers to make safe choices and seek redress" },
+    { "question": "Which is a remedy available to consumers?", "op_1": "Replacement, refund or compensation", "op_2": "Only criminal punishment", "op_3": "No remedy", "op_4": "Immediate wealth", "ans": "Replacement, refund or compensation" }
+  ]
+}

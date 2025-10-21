@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "Who introduced movable type printing in Europe?", "op_1": "Benjamin Franklin", "op_2": "Johannes Gutenberg", "op_3": "Isaac Newton", "op_4": "Alexander Fleming", "ans": "Johannes Gutenberg" },
+    { "question": "What is a pamphlet?", "op_1": "A large novel", "op_2": "A short printed work arguing a position", "op_3": "A musical instrument", "op_4": "A law code", "ans": "A short printed work arguing a position" },
+    { "question": "How did printing affect vernacular languages?", "op_1": "It reduced their use", "op_2": "It promoted their standardization and wider use", "op_3": "It banned vernaculars", "op_4": "It only used Latin", "ans": "It promoted their standardization and wider use" },
+    { "question": "What is censorship?", "op_1": "Promotion of free speech", "op_2": "Suppression or control of printed materials by authorities", "op_3": "A printing technique", "op_4": "A type of newspaper", "ans": "Suppression or control of printed materials by authorities" },
+    { "question": "Which printed form helped spread popular songs and tunes?", "op_1": "Pamphlets", "op_2": "Sheet music", "op_3": "Legal codes", "op_4": "Atlases", "ans": "Sheet music" },
+    { "question": "What is a serialized novel?", "op_1": "A novel in one volume", "op_2": "A novel published in installments in periodicals", "op_3": "A play", "op_4": "A map", "ans": "A novel published in installments in periodicals" },
+    { "question": "How did print culture contribute to nationalism?", "op_1": "By making languages obscure", "op_2": "By spreading national histories and ideas to a wider audience", "op_3": "By eliminating newspapers", "op_4": "By banning schools", "ans": "By spreading national histories and ideas to a wider audience" },
+    { "question": "What is an almanac?", "op_1": "A yearly publication with practical information", "op_2": "A type of poem", "op_3": "A novel series", "op_4": "A theatre play", "ans": "A yearly publication with practical information" },
+    { "question": "Who used print to promote literacy and religious texts in colonies?", "op_1": "Missionaries", "op_2": "Merchants only", "op_3": "Farmers", "op_4": "Factory owners", "ans": "Missionaries" },
+    { "question": "Why did print become cheaper in the 19th century?", "op_1": "Because paper vanished", "op_2": "Steam-powered presses increased speed and lowered costs", "op_3": "Because people stopped reading", "op_4": "Because books were banned", "ans": "Steam-powered presses increased speed and lowered costs" }
+  ]
+}

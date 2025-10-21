@@ -1,0 +1,33 @@
+{
+  "data": [
+    { "que": "What is a resource?", "ans": "Anything in the environment that can be used to satisfy human needs." },
+    { "que": "Define natural resource.", "ans": "Resources derived from nature like air, water, soil, minerals, plants and animals." },
+    { "que": "What is development of resources?", "ans": "Using resources to increase availability and utility for human use." },
+    { "que": "Explain resource planning.", "ans": "Systematic assessment and allocation of resources for sustainable use." },
+    { "que": "Differentiate renewable and non-renewable resources.", "ans": "Renewable can be replenished (e.g., forests); non-renewable cannot be replaced within human timescales (e.g., minerals)." },
+    { "que": "What is a stock?", "ans": "Total amount of a resource present in the environment, may or may not be usable." },
+    { "que": "What is a reserve?", "ans": "Portion of resource that can be used with existing technology and under current economic conditions." },
+    { "que": "Why is technology important in resource use?", "ans": "Enables conversion of resources into usable forms and increases efficiency." },
+    { "que": "What are human-made resources?", "ans": "Resources created by humans like machines, buildings and roads." },
+    { "que": "How does sustainable use help resources?", "ans": "Maintains resource availability for future generations while meeting present needs." },
+    { "que": "What is land resource?", "ans": "Surface of the earth used for various activities like agriculture, settlements and industry." },
+    { "que": "Explain land capability classification.", "ans": "Assessing land for best uses based on factors like soil, slope and climate." },
+    { "que": "What is soil erosion?", "ans": "Removal of topsoil by water or wind reducing fertility and productivity." },
+    { "que": "Name a method to conserve soil.", "ans": "Terrace farming, contour ploughing or afforestation." },
+    { "que": "What is water harvesting?", "ans": "Collecting and storing rainwater for future use." },
+    { "que": "Why is biodiversity important?", "ans": "It supports ecosystem services, resilience and variety of resources for humans." },
+    { "que": "What is over-exploitation?", "ans": "Using a resource faster than it can regenerate leading to depletion." },
+    { "que": "Give an example of a resource conflict.", "ans": "Dispute over water allocation between states or countries." },
+    { "que": "What is role of communities in resource management?", "ans": "Local communities can manage resources sustainably using traditional knowledge and participation." },
+    { "que": "What is afforestation?", "ans": "Planting trees on non-forested land to increase forest cover and conserve soil." },
+    { "que": "Why classify resources?", "ans": "To organise management and plan utilisation based on availability and utility." },
+    { "que": "What is ecologically sustainable development?", "ans": "Development that balances economic growth with ecological protection and resource conservation." },
+    { "que": "How does industrialisation affect resources?", "ans": "Increases extraction and consumption of resources and may cause pollution." },
+    { "que": "What is land degradation?", "ans": "Deterioration of land quality through erosion, salinisation or deforestation." },
+    { "que": "What is conservation?", "ans": "Wise use and protection of resources to prevent depletion or degradation." },
+    { "que": "What is resource mapping?", "ans": "Identifying and documenting the location and type of resources for planning." },
+    { "que": "Why are reserves important in resource policy?", "ans": "They ensure availability under changing economic and technological conditions." },
+    { "que": "How does climate change affect resources?", "ans": "Alters availability and distribution of water, soil fertility and biodiversity." },
+    { "que": "What is role of government in resource planning?", "ans": "Set policies, regulations and programs for sustainable utilisation and protection." }
+  ]
+}

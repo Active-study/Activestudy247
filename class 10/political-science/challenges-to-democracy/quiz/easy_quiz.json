@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "What is corruption?", "op_1": "Fair use of public office", "op_2": "Misuse of public office for private gain", "op_3": "A type of election", "op_4": "A media outlet", "ans": "Misuse of public office for private gain" },
+    { "question": "What does communalism appeal to?", "op_1": "Religious identity", "op_2": "Only economic policies", "op_3": "Sports only", "op_4": "Education only", "ans": "Religious identity" },
+    { "question": "What is money power in elections?", "op_1": "A type of currency", "op_2": "Using financial resources to influence elections", "op_3": "A law", "op_4": "An educational policy", "ans": "Using financial resources to influence elections" },
+    { "question": "What is vote-buying?", "op_1": "Buying votes through inducements", "op_2": "Legal campaign activity only", "op_3": "A judicial process", "op_4": "A type of public good", "ans": "Buying votes through inducements" },
+    { "question": "Which institution can punish corruption?", "op_1": "Audit offices and judiciary", "op_2": "Only political parties", "op_3": "No institution", "op_4": "Market forces only", "ans": "Audit offices and judiciary" },
+    { "question": "What is regionalism?", "op_1": "Preference for local interests and identity", "op_2": "A global policy", "op_3": "A national festival", "op_4": "An economic model", "ans": "Preference for local interests and identity" },
+    { "question": "Why is transparency important?", "op_1": "To hide decisions", "op_2": "To allow public scrutiny and reduce corruption", "op_3": "To centralize power", "op_4": "To increase secrecy", "ans": "To allow public scrutiny and reduce corruption" },
+    { "question": "What are pressure groups?", "op_1": "Groups that contest elections", "op_2": "Groups that try to influence public policy without contesting elections", "op_3": "Only NGOs", "op_4": "Only labour unions", "ans": "Groups that try to influence public policy without contesting elections" },
+    { "question": "What is the effect of criminalization of politics?", "op_1": "Strengthens rule of law", "op_2": "Undermines governance and rule of law", "op_3": "Increases transparency", "op_4": "Promotes fairness", "ans": "Undermines governance and rule of law" },
+    { "question": "How can education help address democratic challenges?", "op_1": "By promoting bias", "op_2": "By fostering critical thinking and reducing prejudices", "op_3": "By discouraging participation", "op_4": "By increasing inequality", "ans": "By fostering critical thinking and reducing prejudices" }
+  ]
+}

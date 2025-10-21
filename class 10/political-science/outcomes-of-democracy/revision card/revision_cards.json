@@ -1,0 +1,32 @@
+{
+  "data": [
+    { "que": "What are outcomes of democracy?", "ans": "The social, political and economic results democracy delivers like accountability, participation, and protection of rights." },
+    { "que": "Why is accountability an outcome of democracy?", "ans": "Elected representatives are answerable to voters and can be removed through regular elections." },
+    { "que": "How does democracy promote representation?", "ans": "Through elections and political parties, diverse groups can elect leaders to voice their interests." },
+    { "que": "What is rule of law as a democratic outcome?", "ans": "Laws apply equally to all and protect citizens from arbitrary use of power." },
+    { "que": "How does democracy enable better decision-making?", "ans": "By encouraging debate, consultation, and combining diverse perspectives for informed policies." },
+    { "que": "What is political participation?", "ans": "Citizens’ engagement in politics through voting, protests, joining parties, or public debate." },
+    { "que": "How can democracy improve social justice?", "ans": "By enabling policies that redistribute resources and protect disadvantaged groups through public deliberation." },
+    { "que": "What is transparency in governance?", "ans": "Open sharing of information about government decisions, budgets, and policies with the public." },
+    { "que": "How does democracy safeguard rights?", "ans": "Through constitutional guarantees, independent courts, and civil liberties like freedom of speech." },
+    { "que": "What is responsiveness?", "ans": "Governments react to citizens’ needs and feedback, adjusting policies accordingly." },
+    { "que": "How does democracy affect economic development?", "ans": "It can promote stable institutions and accountability but outcomes depend on policies and context." },
+    { "que": "What is pluralism?", "ans": "Recognition and accommodation of diverse groups and interests within political processes." },
+    { "que": "How do elections reflect democratic outcomes?", "ans": "They provide legitimacy to governments and allow citizens to choose and evaluate leaders." },
+    { "que": "What role do civil society organizations play?", "ans": "They mediate between state and citizens, advocate rights, and hold governments accountable." },
+    { "que": "What is social inclusion?", "ans": "Efforts to bring marginalized groups into political and economic life on equal terms." },
+    { "que": "How does democracy manage conflicts?", "ans": "Through peaceful channels like negotiation, courts, and representative institutions instead of violence." },
+    { "que": "What is political equality?", "ans": "All citizens have equal rights to vote, run for office, and influence public decisions." },
+    { "que": "Why is stability an outcome sometimes associated with democracy?", "ans": "Institutionalized processes and regular elections can reduce sudden power shifts and unrest." },
+    { "que": "What is accountability of public officials?", "ans": "Officials must explain and justify actions and can face sanctions or removal for misconduct." },
+    { "que": "How does democracy influence education and health outcomes?", "ans": "Responsive governments may prioritize public goods like education and health through public pressure." },
+    { "que": "What is minority protection in democracies?", "ans": "Legal and institutional safeguards that prevent tyranny of the majority and protect minority rights." },
+    { "que": "How does decentralization relate to democratic outcomes?", "ans": "It brings decision-making closer to people, improving participation and service delivery." },
+    { "que": "What is the role of free press in democracy?", "ans": "To inform citizens, investigate wrongdoing, and provide platforms for public debate." },
+    { "que": "Can democracy fail to deliver outcomes?", "ans": "Yes—due to corruption, weak institutions, inequality, or lack of participation, democratic promises may not be fulfilled." },
+    { "que": "What is the relation between democracy and human development?", "ans": "Democracy can support human development by enabling policies for education, health and welfare, but results vary." },
+    { "que": "How do accountability mechanisms work?", "ans": "Through elections, audits, ombudspersons, judiciary, and media scrutiny that check government power." },
+    { "que": "Why is rule of law linked to trust in institutions?", "ans": "When laws are applied fairly, people trust public institutions and comply with rules." },
+    { "que": "What is civic consciousness?", "ans": "Public awareness and willingness to participate and hold leaders accountable as responsible citizens." }
+  ]
+}

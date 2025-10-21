@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "What is outsourcing?", "op_1": "Buying from local markets", "op_2": "Contracting work to external providers, often abroad", "op_3": "Investing in local firms only", "op_4": "Increasing tariffs", "ans": "Contracting work to external providers, often abroad" },
+    { "question": "FDI stands for:", "op_1": "Foreign Domestic Investment", "op_2": "Foreign Direct Investment", "op_3": "Final Domestic Income", "op_4": "Foreign Debt Investment", "ans": "Foreign Direct Investment" },
+    { "question": "A benefit of globalisation for consumers is:", "op_1": "Less variety", "op_2": "More variety and competitive prices", "op_3": "Higher tariffs always", "op_4": "Fewer imports", "ans": "More variety and competitive prices" },
+    { "question": "WTO deals with:", "op_1": "Domestic tax rules", "op_2": "International trade rules and disputes", "op_3": "Local governance only", "op_4": "Education policies", "ans": "International trade rules and disputes" },
+    { "question": "Tariffs are:", "op_1": "Subsidies to exporters", "op_2": "Taxes on imports", "op_3": "Trade agreements", "op_4": "Currency controls", "ans": "Taxes on imports" },
+    { "question": "Which is an example of technology transfer?", "op_1": "Local craft only", "op_2": "Foreign firm introducing new processes to domestic firms", "op_3": "Closing trade", "op_4": "Increasing tariffs", "ans": "Foreign firm introducing new processes to domestic firms" },
+    { "question": "What is fair trade?", "op_1": "Trade favouring big firms", "op_2": "Trade ensuring better prices and conditions for producers", "op_3": "Only exports of raw materials", "op_4": "Removing standards", "ans": "Trade ensuring better prices and conditions for producers" },
+    { "question": "What is a trade deficit?", "op_1": "Exports exceed imports", "op_2": "Imports exceed exports", "op_3": "No trade at all", "op_4": "Balanced trade", "ans": "Imports exceed exports" },
+    { "question": "Which sector in India grew due to globalisation?", "op_1": "IT and services", "op_2": "Only agriculture", "op_3": "Only mining", "op_4": "None", "ans": "IT and services" },
+    { "question": "Why are quality standards important?", "op_1": "To block exports", "op_2": "To meet market requirements and access global markets", "op_3": "To reduce production", "op_4": "To increase tariffs", "ans": "To meet market requirements and access global markets" },
+    { "question": "What is capital flight?", "op_1": "Large inflow of foreign capital", "op_2": "Large outflow of capital to foreign jurisdictions", "op_3": "Increase in exports", "op_4": "Rise in domestic saving", "ans": "Large outflow of capital to foreign jurisdictions" },
+    { "question": "Which helps exporters compete?", "op_1": "Ignoring standards", "op_2": "Improving quality and meeting standards", "op_3": "Raising tariffs on exports", "op_4": "Closing ports", "ans": "Improving quality and meeting standards" }
+  ]
+}

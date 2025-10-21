@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "Which indicator reflects education in HDI?", "op_1": "Literacy and enrolment", "op_2": "Only literacy", "op_3": "Only GDP", "op_4": "Life expectancy", "ans": "Literacy and enrolment" },
+    { "question": "What causes structural change in economy?", "op_1": "Decline in technology", "op_2": "Shift from agriculture to industry/services", "op_3": "Increase in poverty", "op_4": "Higher taxes", "ans": "Shift from agriculture to industry/services" },
+    { "question": "Why might GDP rise but HDI not improve?", "op_1": "If income is equally distributed", "op_2": "If growth is not accompanied by better health/education", "op_3": "If population falls", "op_4": "If exports increase", "ans": "If growth is not accompanied by better health/education" },
+    { "question": "Which is a direct effect of higher agricultural productivity?", "op_1": "Lower food production", "op_2": "Higher rural incomes", "op_3": "Fewer services jobs", "op_4": "Reduced exports", "ans": "Higher rural incomes" },
+    { "question": "Underemployment means:", "op_1": "Working more hours than desired", "op_2": "Working less or below skill level", "op_3": "Being unemployed", "op_4": "Being self-employed", "ans": "Working less or below skill level" },
+    { "question": "Which policy helps reduce inequality?", "op_1": "Regressive tax", "op_2": "Progressive tax and social spending", "op_3": "Cutting education", "op_4": "Removing healthcare", "ans": "Progressive tax and social spending" },
+    { "question": "A limitation of per capita income is:", "op_1": "It shows income distribution", "op_2": "It is average and masks inequality", "op_3": "It measures happiness", "op_4": "It measures HDI", "ans": "It is average and masks inequality" },
+    { "question": "Which is an outcome of sustainable development?", "op_1": "Resource depletion", "op_2": "Long-term availability of resources", "op_3": "Higher immediate profits only", "op_4": "Worsening health", "ans": "Long-term availability of resources" },
+    { "question": "How does technology affect employment?", "op_1": "Always reduces jobs", "op_2": "Creates new industries and changes skill demands", "op_3": "Prevents education", "op_4": "Reduces productivity", "ans": "Creates new industries and changes skill demands" },
+    { "question": "Which one is a public good?", "op_1": "Private car", "op_2": "Street lighting", "op_3": "Personal phone", "op_4": "House", "ans": "Street lighting" },
+    { "question": "What does inclusive growth require?", "op_1": "Only higher GDP", "op_2": "Policies that spread benefits to all", "op_3": "Eliminating agriculture", "op_4": "Only foreign investment", "ans": "Policies that spread benefits to all" },
+    { "question": "Which is an example of a social measure to improve welfare?", "op_1": "Cutting schools", "op_2": "Expanding immunisation", "op_3": "Removing safety nets", "op_4": "Reducing health funding", "ans": "Expanding immunisation" }
+  ]
+}

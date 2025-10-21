@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "Why is collateral required for some loans?", "op_1": "To increase lender's risk", "op_2": "To secure the loan and reduce lender's risk", "op_3": "To reduce borrower's options", "op_4": "To avoid repayment", "ans": "To secure the loan and reduce lender's risk" },
+    { "question": "How do SHGs help members access credit?", "op_1": "By saving together and borrowing collectively", "op_2": "By increasing informal lending", "op_3": "By rejecting loans", "op_4": "By reducing bank access", "ans": "By saving together and borrowing collectively" },
+    { "question": "What is microfinance's role?", "op_1": "Provide large corporate loans", "op_2": "Offer small loans to poor for livelihood activities", "op_3": "Only invest in stocks", "op_4": "Provide grants only", "ans": "Offer small loans to poor for livelihood activities" },
+    { "question": "Why might informal loans be risky for borrowers?", "op_1": "Lower interest rates always", "op_2": "High interest rates and harsh repayment terms", "op_3": "Government protection always", "op_4": "Better documentation", "ans": "High interest rates and harsh repayment terms" },
+    { "question": "What is the main function of banks?", "op_1": "Collect taxes", "op_2": "Mobilise savings and provide credit", "op_3": "Only lend to governments", "op_4": "Avoid providing loans", "ans": "Mobilise savings and provide credit" },
+    { "question": "Which helps reduce dependence on moneylenders?", "op_1": "Expand formal credit access", "op_2": "Increase informal lending", "op_3": "Close banks", "op_4": "Limit cooperatives", "ans": "Expand formal credit access" },
+    { "question": "What is default risk?", "op_1": "Risk of not repaying loan", "op_2": "Guaranteed repayment", "op_3": "Profit for borrower", "op_4": "A type of service", "ans": "Risk of not repaying loan" },
+    { "question": "Why are interest rates important?", "op_1": "They determine borrowing cost and saving returns", "op_2": "They have no economic impact", "op_3": "They reduce lending always", "op_4": "They stop credit availability", "ans": "They determine borrowing cost and saving returns" },
+    { "question": "How can banks help farmers?", "op_1": "By refusing loans", "op_2": "By offering timely crop loans and crop insurance", "op_3": "By increasing moneylenders' role", "op_4": "By stopping credit", "ans": "By offering timely crop loans and crop insurance" },
+    { "question": "What is the benefit of SHG-bank linkage?", "op_1": "Greater access to formal credit for SHG members", "op_2": "Only informal lending", "op_3": "Higher costs always", "op_4": "Decreased bank outreach", "ans": "Greater access to formal credit for SHG members" },
+    { "question": "Why regulate interest rates?", "op_1": "To prevent exploitation and ensure affordability", "op_2": "To increase informal lending", "op_3": "To stop banks from lending", "op_4": "To eliminate savings", "ans": "To prevent exploitation and ensure affordability" },
+    { "question": "Which financial service promotes inclusion?", "op_1": "Only high-cost loans", "op_2": "Low-cost savings and credit products", "op_3": "Exclusive corporate loans", "op_4": "Only stock trading", "ans": "Low-cost savings and credit products" }
+  ]
+}

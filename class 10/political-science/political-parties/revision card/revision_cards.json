@@ -1,0 +1,32 @@
+{
+  "data": [
+    { "que": "What is a political party?", "ans": "An organized group seeking to contest elections, win power, and implement certain policies." },
+    { "que": "Why do political parties exist in democracies?", "ans": "To aggregate interests, contest elections, form governments, and provide political alternatives to voters." },
+    { "que": "What is a multi-party system?", "ans": "A political system where multiple parties compete and no single party dominates consistently." },
+    { "que": "What is a two-party system?", "ans": "A system dominated by two major parties that alternate in power, like the USA." },
+    { "que": "Define 'party ideology'.", "ans": "A set of beliefs and policies that guide a party's goals and actions." },
+    { "que": "What functions do political parties perform?", "ans": "They contest elections, form governments, shape public policy, and organize political participation." },
+    { "que": "What is party discipline?", "ans": "The expectation that party members will follow party decisions and vote together in legislatures." },
+    { "que": "Why do parties form pre-poll or post-poll alliances?", "ans": "To combine strengths, win majorities, and form a stable government." },
+    { "que": "What is a 'regional party'?", "ans": "A party whose support is concentrated in one or a few states focusing on local issues." },
+    { "que": "Give an example of a national party in India.", "ans": "Indian National Congress (INC) or Bharatiya Janata Party (BJP)." },
+    { "que": "How do parties select candidates?", "ans": "Through internal processes, which can include primaries, central leadership decisions, or consultations with local units." },
+    { "que": "What role does funding play in party politics?", "ans": "Funding supports campaigning, organization, and outreach, but can lead to influence by donors if unregulated." },
+    { "que": "What is the impact of anti-defection laws?", "ans": "They aim to prevent legislators from switching parties, promoting stability in governments." },
+    { "que": "How do parties mobilize voters?", "ans": "Through rallies, campaigns, manifestos, social media, and grassroots networks." },
+    { "que": "What is a party manifesto?", "ans": "A public document outlining a party's policies and promises before an election." },
+    { "que": "Why is internal democracy within parties important?", "ans": "It ensures accountability, greater representation, and reduces concentration of power in leaders." },
+    { "que": "What challenges do political parties face?", "ans": "Corruption, dynastic politics, weak internal democracy, and lack of funds or grassroots organisation." },
+    { "que": "What is the role of opposition parties?", "ans": "To hold the government accountable, critique policies, and provide alternative policies." },
+    { "que": "How does media influence parties?", "ans": "Media shapes public perception, broadcasts party messages, and can investigate party activities." },
+    { "que": "What is coalition politics?", "ans": "Governments formed by two or more parties cooperating to achieve a majority in legislature." },
+    { "que": "How do regional parties affect national politics?", "ans": "They can be kingmakers in coalition governments and push local interests at the centre." },
+    { "que": "What is the role of party symbols in elections?", "ans": "Symbols help illiterate voters identify parties on ballots and build party identity." },
+    { "que": "Why is transparency in party funding necessary?", "ans": "To prevent undue influence, corruption, and ensure a level playing field in elections." },
+    { "que": "What are mass-based parties vs cadre parties?", "ans": "Mass-based parties recruit broad membership; cadre parties rely on a small committed leadership and activists." },
+    { "que": "How can political reforms strengthen parties?", "ans": "By enforcing internal democracy, regulating funding, and improving candidate selection processes." },
+    { "que": "What is the connection between parties and representation?", "ans": "Parties translate social demands into policies and represent various interests in legislatures." },
+    { "que": "Why do some parties adopt populist strategies?", "ans": "To mobilize mass support by promising quick solutions and appealing to emotions over institutions." },
+    { "que": "What is the main lesson about political parties?", "ans": "Healthy parties with internal democracy and accountability are essential for a functioning democracy." }
+  ]
+}

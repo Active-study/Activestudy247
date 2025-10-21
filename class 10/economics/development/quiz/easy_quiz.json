@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "Which indicator measures health in HDI?", "op_1": "GDP", "op_2": "Life expectancy", "op_3": "Literacy", "op_4": "Per capita income", "ans": "Life expectancy" },
+    { "question": "What does social sector include?", "op_1": "Manufacturing", "op_2": "Education and health", "op_3": "Mining", "op_4": "Banking", "ans": "Education and health" },
+    { "question": "Child labour affects:", "op_1": "Education negatively", "op_2": "GDP positively always", "op_3": "Exports only", "op_4": "Health only", "ans": "Education negatively" },
+    { "question": "Which is a measure to reduce poverty?", "op_1": "Cutting schools", "op_2": "Employment schemes", "op_3": "Increase child labour", "op_4": "Remove healthcare", "ans": "Employment schemes" },
+    { "question": "What is equity?", "op_1": "Fair distribution of resources", "op_2": "Only growth of GDP", "op_3": "Higher taxes for poor", "op_4": "Less education", "ans": "Fair distribution of resources" },
+    { "question": "NGOs typically do:", "op_1": "Provide public goods for profit", "op_2": "Advocate and provide services", "op_3": "Run banks", "op_4": "Set tax policy", "ans": "Advocate and provide services" },
+    { "question": "Urbanisation often leads to:", "op_1": "Decline in markets", "op_2": "More job opportunities", "op_3": "Less services", "op_4": "Lower population", "ans": "More job opportunities" },
+    { "question": "Why is nutrition important?", "op_1": "Reduces learning and health", "op_2": "Improves health and productivity", "op_3": "Only affects exports", "op_4": "Irrelevant to development", "ans": "Improves health and productivity" },
+    { "question": "What does monitoring indicators help with?", "op_1": "Ignore policies", "op_2": "Evaluate progress", "op_3": "Increase poverty", "op_4": "Stop services", "ans": "Evaluate progress" },
+    { "question": "Which is a welfare scheme example?", "op_1": "Luxury hotel", "op_2": "Public distribution system", "op_3": "Private bank loan", "op_4": "Stock market", "ans": "Public distribution system" },
+    { "question": "What is access to credit?", "op_1": "Availability of loans", "op_2": "Only savings", "op_3": "Only grants", "op_4": "Only taxes", "ans": "Availability of loans" },
+    { "question": "Which reduces inequality?", "op_1": "Progressive taxation", "op_2": "Cutting health services", "op_3": "Increasing child labour", "op_4": "Closing schools", "ans": "Progressive taxation" }
+  ]
+}

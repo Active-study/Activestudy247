@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "What is federalism?", "op_1": "A system with only a central government", "op_2": "Division of powers between central and regional governments", "op_3": "A single-party rule", "op_4": "A type of monarchy", "ans": "Division of powers between central and regional governments" },
+    { "question": "Which of these is a feature of federalism?", "op_1": "Concentration of power", "op_2": "Written constitution", "op_3": "No courts", "op_4": "Single legislature only", "ans": "Written constitution" },
+    { "question": "What are residuary powers?", "op_1": "Powers shared equally always", "op_2": "Powers not specified in the constitution", "op_3": "Only central taxes", "op_4": "Only local customs", "ans": "Powers not specified in the constitution" },
+    { "question": "What is asymmetric federalism?", "op_1": "All states have identical powers", "op_2": "Different states have different degrees of autonomy", "op_3": "No regional governments", "op_4": "Only one region exists", "ans": "Different states have different degrees of autonomy" },
+    { "question": "Which body often resolves federal disputes?", "op_1": "Local panchayat", "op_2": "Constitutional court or judiciary", "op_3": "Political party HQ", "op_4": "Municipal corporation", "ans": "Constitutional court or judiciary" },
+    { "question": "What is fiscal federalism?", "op_1": "Only local taxes exist", "op_2": "Distribution of taxation powers and revenues across levels of government", "op_3": "No taxation", "op_4": "Foreign aid only", "ans": "Distribution of taxation powers and revenues across levels of government" },
+    { "question": "Give an example of a 'coming together' federation.", "op_1": "India", "op_2": "United States of America", "op_3": "Unitary France", "op_4": "Absolute monarchy", "ans": "United States of America" },
+    { "question": "Why do federations have bicameral legislatures sometimes?", "op_1": "To exclude regions", "op_2": "To represent regional interests at the national level", "op_3": "To centralize power", "op_4": "To eliminate courts", "ans": "To represent regional interests at the national level" },
+    { "question": "What is decentralization?", "op_1": "Weakening local governments", "op_2": "Delegating administrative powers to lower levels", "op_3": "A central tax policy", "op_4": "A judicial practice", "ans": "Delegating administrative powers to lower levels" },
+    { "question": "What challenge can federalism face?", "op_1": "Uniform resource distribution always", "op_2": "Regional inequality due to different capacities", "op_3": "No regional identity", "op_4": "No elections", "ans": "Regional inequality due to different capacities" }
+  ]
+}

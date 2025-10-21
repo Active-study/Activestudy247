@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "Why is resource mapping useful?", "op_1": "To hide resource locations", "op_2": "To identify resource distribution for planning", "op_3": "To prevent use", "op_4": "To increase pollution", "ans": "To identify resource distribution for planning" },
+    { "question": "What leads to land degradation?", "op_1": "Afforestation", "op_2": "Overgrazing, deforestation and unsustainable farming", "op_3": "Contour ploughing", "op_4": "Terrace farming", "ans": "Overgrazing, deforestation and unsustainable farming" },
+    { "question": "How does technology change resource reserves?", "op_1": "Reduces reserves always", "op_2": "Can convert stock into reserves by improving extraction", "op_3": "Stops resource use", "op_4": "Wastes resources", "ans": "Can convert stock into reserves by improving extraction" },
+    { "question": "Why involve local communities in resource management?", "op_1": "To exclude traditional knowledge", "op_2": "They have local knowledge and stake in sustainable use", "op_3": "To privatise resources", "op_4": "To reduce ownership", "ans": "They have local knowledge and stake in sustainable use" },
+    { "question": "What is rainwater harvesting's benefit?", "op_1": "Increases runoff", "op_2": "Stores water for use and recharges groundwater", "op_3": "Destroys soil", "op_4": "Pollutes water", "ans": "Stores water for use and recharges groundwater" },
+    { "question": "Which is a non-renewable resource?", "op_1": "Forest", "op_2": "Coal", "op_3": "Sunlight", "op_4": "Wind", "ans": "Coal" },
+    { "question": "What is carrying capacity?", "op_1": "Maximum population an ecosystem can support sustainably", "op_2": "Infinite resource use", "op_3": "Zero population", "op_4": "Only human settlements", "ans": "Maximum population an ecosystem can support sustainably" },
+    { "question": "How does climate change affect resource distribution?", "op_1": "No effect", "op_2": "Alters rainfall and water availability affecting resource patterns", "op_3": "Only increases minerals", "op_4": "Removes need for planning", "ans": "Alters rainfall and water availability affecting resource patterns" },
+    { "question": "Why classify resources as actual and potential?", "op_1": "To confuse users", "op_2": "Actual are usable now; potential can be used in future with technology", "op_3": "To stop development", "op_4": "To increase exports", "ans": "Actual are usable now; potential can be used in future with technology" },
+    { "question": "What is optimal use of resources?", "op_1": "Using resources wastefully", "op_2": "Using resources efficiently without over-exploitation", "op_3": "Never using resources", "op_4": "Degrading resources quickly", "ans": "Using resources efficiently without over-exploitation" },
+    { "question": "Which practice reduces soil erosion?", "op_1": "Deforestation", "op_2": "Contour ploughing and terracing", "op_3": "Overgrazing", "op_4": "Burning crop residues", "ans": "Contour ploughing and terracing" },
+    { "question": "Why is sustainable resource use important?", "op_1": "To deplete resources rapidly", "op_2": "To balance present needs with future availability", "op_3": "To ignore biodiversity", "op_4": "To increase conflict", "ans": "To balance present needs with future availability" }
+  ]
+}

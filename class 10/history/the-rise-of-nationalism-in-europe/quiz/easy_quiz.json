@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "Which event is often cited as a starting point for modern nationalism in Europe?", "op_1": "Industrial Revolution", "op_2": "French Revolution", "op_3": "American Civil War", "op_4": "Napoleonic Wars", "ans": "French Revolution" },
+    { "question": "Who founded the movement 'Young Italy'?", "op_1": "Garibaldi", "op_2": "Cavour", "op_3": "Mazzini", "op_4": "Bismarck", "ans": "Mazzini" },
+    { "question": "Which country led German unification?", "op_1": "Austria", "op_2": "France", "op_3": "Prussia", "op_4": "Italy", "ans": "Prussia" },
+    { "question": "What is a nation-state?", "op_1": "An empire with many nations", "op_2": "A state where boundaries match a single nation", "op_3": "A state with no government", "op_4": "A cultural club", "ans": "A state where boundaries match a single nation" },
+    { "question": "Who used 'realpolitik' to unify Germany?", "op_1": "Mazzini", "op_2": "Garibaldi", "op_3": "Bismarck", "op_4": "Cavour", "ans": "Bismarck" },
+    { "question": "Which uprising year spread across Europe demanding reforms?", "op_1": "1830", "op_2": "1848", "op_3": "1861", "op_4": "1871", "ans": "1848" },
+    { "question": "Which cultural movement supported nationalism by valuing folk traditions?", "op_1": "Romanticism", "op_2": "Enlightenment", "op_3": "Classicism", "op_4": "Realism", "ans": "Romanticism" },
+    { "question": "Which war directly led to the proclamation of the German Empire in 1871?", "op_1": "Austro-Prussian War", "op_2": "Franco-Prussian War", "op_3": "Crimean War", "op_4": "World War I", "ans": "Franco-Prussian War" },
+    { "question": "Who were the 'Red Shirts'?", "op_1": "Prussian soldiers", "op_2": "Italian volunteers under Garibaldi", "op_3": "French revolutionaries", "op_4": "German nationalists", "ans": "Italian volunteers under Garibaldi" },
+    { "question": "Which of these was NOT a tool of nationalist mobilization?", "op_1": "Newspapers", "op_2": "Public meetings", "op_3": "Folk songs", "op_4": "Feudal dues", "ans": "Feudal dues" }
+  ]
+}

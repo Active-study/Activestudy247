@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "What does 'caste' refer to?", "op_1": "A job only", "op_2": "A hereditary social group based on birth", "op_3": "A political party", "op_4": "A school system", "ans": "A hereditary social group based on birth" },
+    { "question": "What is communalism?", "op_1": "Unity among communities", "op_2": "Politics based on religious/communal identity often leading to division", "op_3": "A type of economy", "op_4": "A legal system", "ans": "Politics based on religious/communal identity often leading to division" },
+    { "question": "What is gender stereotyping?", "op_1": "Beliefs about appropriate roles for men and women", "op_2": "A law", "op_3": "A tax", "op_4": "A medical condition", "ans": "Beliefs about appropriate roles for men and women" },
+    { "question": "What is reservation policy?", "op_1": "A type of tax", "op_2": "Quotas in education and jobs for disadvantaged groups", "op_3": "A festival", "op_4": "A travel booking system", "ans": "Quotas in education and jobs for disadvantaged groups" },
+    { "question": "Which movement fights gender discrimination?", "op_1": "Women's movement", "op_2": "Industrial movement", "op_3": "Monarchical movement", "op_4": "Feudal movement", "ans": "Women's movement" },
+    { "question": "What is secularism?", "op_1": "State neutrality towards religion", "op_2": "Preference for one religion", "op_3": "A caste system", "op_4": "Economic policy", "ans": "State neutrality towards religion" },
+    { "question": "What does intersectionality explain?", "op_1": "One identity only", "op_2": "Overlapping disadvantages across multiple identities", "op_3": "Economic growth only", "op_4": "A political party", "ans": "Overlapping disadvantages across multiple identities" },
+    { "question": "How can education reduce caste discrimination?", "op_1": "By promoting awareness and skills", "op_2": "By enforcing segregation", "op_3": "By eliminating schools", "op_4": "By restricting literacy", "ans": "By promoting awareness and skills" },
+    { "question": "What is social exclusion?", "op_1": "Complete inclusion", "op_2": "Marginalization from access to resources and opportunities", "op_3": "A type of festival", "op_4": "Economic policy", "ans": "Marginalization from access to resources and opportunities" },
+    { "question": "Which law addresses domestic violence in India?", "op_1": "Dowry Prohibition Act only", "op_2": "Protection of Women from Domestic Violence Act, 2005", "op_3": "Motor Vehicles Act", "op_4": "Income Tax Act", "ans": "Protection of Women from Domestic Violence Act, 2005" }
+  ]
+}

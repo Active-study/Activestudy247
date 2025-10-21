@@ -1,0 +1,33 @@
+{
+  "data": [
+    { "que": "What is agriculture?", "ans": "Cultivation of crops and rearing of animals for food, fibre and other products." },
+    { "que": "What is subsistence farming?", "ans": "Farming mainly to meet the needs of the farmer's family with little surplus for sale." },
+    { "que": "Define commercial farming.", "ans": "Farming aimed at producing crops for sale in markets rather than for family consumption." },
+    { "que": "What is plantation agriculture?", "ans": "Large estates growing single crops like tea, coffee or rubber for export and commercial use." },
+    { "que": "What are food crops?", "ans": "Crops grown mainly for human consumption, e.g., rice, wheat and millets." },
+    { "que": "What are cash crops?", "ans": "Crops grown for sale rather than subsistence, e.g., cotton, sugarcane." },
+    { "que": "Why is irrigation important?", "ans": "Provides water control for crops, increases yield and enables multiple cropping." },
+    { "que": "What is multiple cropping?", "ans": "Growing more than one crop on the same field in a year." },
+    { "que": "What is crop rotation?", "ans": "Alternating different crops on the same land to maintain soil fertility and control pests." },
+    { "que": "What is organic farming?", "ans": "Farming without synthetic fertilisers or pesticides, using natural methods." },
+    { "que": "What is mixed farming?", "ans": "Growing crops and rearing livestock on the same farm for diversified income." },
+    { "que": "Name major kharif crops in India.", "ans": "Rice, maize, sugarcane and cotton grown in the monsoon season." },
+    { "que": "Name major rabi crops in India.", "ans": "Wheat, gram and mustard grown in the winter season." },
+    { "que": "What is Green Revolution?", "ans": "Introduction of high-yielding varieties and modern techniques in the 1960s-70s to boost food production." },
+    { "que": "What is agricultural labour?", "ans": "Workers employed in farm operations who may be permanent or seasonal." },
+    { "que": "Why are seeds important?", "ans": "Good quality seeds are crucial for high yield, disease resistance and crop quality." },
+    { "que": "What is soil fertility?", "ans": "Soil's capacity to supply nutrients necessary for plant growth." },
+    { "que": "How does fertiliser use affect yield?", "ans": "Provides essential nutrients raising productivity but overuse can damage soil and environment." },
+    { "que": "What is agricultural mechanisation?", "ans": "Use of machines like tractors and harvesters to increase efficiency and reduce labour." },
+    { "que": "What is the role of cooperatives in agriculture?", "ans": "Help farmers access credit, inputs and marketing collectively." },
+    { "que": "What is horticulture?", "ans": "Cultivation of fruits, vegetables and flowers, often intensively managed." },
+    { "que": "How do pests affect crops?", "ans": "Cause yield loss and may require pest management strategies like integrated pest management." },
+    { "que": "What is post-harvest loss?", "ans": "Loss of crops after harvest due to poor storage, transport or processing." },
+    { "que": "Why is crop diversification beneficial?", "ans": "Reduces risk, improves soil health and can increase farmer income." },
+    { "que": "What is the significance of storage facilities?", "ans": "Reduce post-harvest losses and stabilise prices by holding stocks." },
+    { "que": "What is the impact of climate change on agriculture?", "ans": "Changes rainfall, temperature and pests affecting yields and cropping patterns." },
+    { "que": "What is seed bank?", "ans": "A facility to store seeds for conserving genetic diversity and future use." },
+    { "que": "What is contract farming?", "ans": "Agreement between farmers and companies to produce specified goods for a fixed price or terms." },
+    { "que": "Why is access to credit important for farmers?", "ans": "Allows purchase of inputs, machinery and investment to improve productivity." }
+  ]
+}

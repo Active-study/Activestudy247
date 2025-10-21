@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "What is a natural resource?", "op_1": "A machine", "op_2": "A naturally occurring material useful to humans", "op_3": "A bank", "op_4": "A textbook", "ans": "A naturally occurring material useful to humans" },
+    { "question": "Which is renewable?", "op_1": "Coal", "op_2": "Forest", "op_3": "Petroleum", "op_4": "Minerals", "ans": "Forest" },
+    { "question": "What is resource planning?", "op_1": "Random use of resources", "op_2": "Systematic allocation and management of resources", "op_3": "Only mining", "op_4": "Ignoring resources", "ans": "Systematic allocation and management of resources" },
+    { "question": "Give an example of over-exploitation.", "op_1": "Sustainable fishing", "op_2": "Overfishing leading to stock decline", "op_3": "Afforestation", "op_4": "Water harvesting", "ans": "Overfishing leading to stock decline" },
+    { "question": "What is soil erosion?", "op_1": "Strengthening soil", "op_2": "Removal of topsoil by wind or water", "op_3": "Planting trees", "op_4": "Terrace farming", "ans": "Removal of topsoil by wind or water" },
+    { "question": "What is a reserve?", "op_1": "Unusable stock", "op_2": "Portion of resource available for use under current conditions", "op_3": "A park only", "op_4": "A type of soil", "ans": "Portion of resource available for use under current conditions" },
+    { "question": "Which practice conserves water?", "op_1": "Water harvesting", "op_2": "Wasteful irrigation", "op_3": "Draining wetlands", "op_4": "Cutting forests", "ans": "Water harvesting" },
+    { "question": "What is afforestation?", "op_1": "Cutting trees", "op_2": "Planting trees on non-forest land", "op_3": "Mining coal", "op_4": "Urbanisation", "ans": "Planting trees on non-forest land" },
+    { "question": "Why classify resources?", "op_1": "To confuse planners", "op_2": "To organise management based on availability and utility", "op_3": "To reduce production", "op_4": "To stop mapping", "ans": "To organise management based on availability and utility" },
+    { "question": "What is biodiversity?", "op_1": "Only forests", "op_2": "Variety of life forms in an ecosystem", "op_3": "A type of mineral", "op_4": "A machine", "ans": "Variety of life forms in an ecosystem" },
+    { "question": "Which is a human-made resource?", "op_1": "Tree", "op_2": "Machine", "op_3": "River", "op_4": "Soil", "ans": "Machine" },
+    { "question": "What is sustainable use?", "op_1": "Using resources so future generations cannot use them", "op_2": "Using resources to meet present needs without compromising future use", "op_3": "Exploiting everything now", "op_4": "Never using resources", "ans": "Using resources to meet present needs without compromising future use" }
+  ]
+}

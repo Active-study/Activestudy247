@@ -1,0 +1,32 @@
+{
+  "data": [
+    { "que": "What is federalism?", "ans": "A system of government where power is constitutionally divided between a central authority and regional governments." },
+    { "que": "Name two features of federalism.", "ans": "Division of powers and written constitution guaranteeing powers to each level." },
+    { "que": "What is a unitary system?", "ans": "A system where all powers are concentrated in the central government." },
+    { "que": "Give one reason countries adopt federalism.", "ans": "To manage diversity by granting regional autonomy and accommodating local identities." },
+    { "que": "What is dual federalism?", "ans": "A model where central and regional governments operate independently within their own spheres." },
+    { "que": "What is cooperative federalism?", "ans": "A model where different levels of government work together on shared functions and policies." },
+    { "que": "What is an asymmetric federal arrangement?", "ans": "When different states or regions have different powers or degrees of autonomy." },
+    { "que": "Why is a written constitution important in federal systems?", "ans": "It clearly allocates powers and protects regional autonomy from arbitrary change." },
+    { "que": "What is the role of a constitutional court in federalism?", "ans": "To adjudicate disputes between levels of government and ensure constitutional compliance." },
+    { "que": "How does fiscal federalism function?", "ans": "By distributing taxation powers and revenue between central and regional governments." },
+    { "que": "What are 'concurrent powers'?", "ans": "Powers that both central and state governments can exercise, such as education or criminal law in some countries." },
+    { "que": "What are residuary powers?", "ans": "Powers not listed in the constitution that may be assigned to either level depending on the system." },
+    { "que": "Give an example of legal pluralism in federal countries.", "ans": "States may have their own laws on family or land while the center handles national issues." },
+    { "que": "What is federalism's advantage in large countries?", "ans": "It allows local governance tailored to regional needs and prevents over-centralization." },
+    { "que": "What is decentralization compared to federalism?", "ans": "Decentralization devolves administrative powers but may not constitutionally guarantee autonomy like federalism." },
+    { "que": "How are governors used in some federal systems?", "ans": "Central government appoints governors to represent federal interests and ensure law and order." },
+    { "que": "What is the significance of intergovernmental relations?", "ans": "They facilitate coordination, negotiation, and conflict resolution between levels of government." },
+    { "que": "Why can federalism lead to inequality between regions?", "ans": "Differing resource endowments and capacities can cause unequal development across states." },
+    { "que": "What is a federal council or senate's role?", "ans": "To represent regional interests at the national level, often in a bicameral legislature." },
+    { "que": "How can fiscal transfers reduce regional disparities?", "ans": "By redistributing resources from wealthier to poorer regions through grants and shared revenues." },
+    { "que": "What is the role of political parties in federal systems?", "ans": "They operate at both regional and national levels, sometimes with different platforms and alliances." },
+    { "que": "What are possible tensions in federations?", "ans": "Conflicts over resource control, language policies, or legal authority between centre and regions." },
+    { "que": "What is a 'holding together' federation?", "ans": "A federation formed by a strong central government to keep diverse regions united (e.g., India)." },
+    { "que": "What is a 'coming together' federation?", "ans": "Regions/states voluntarily join to form a federal union (e.g., USA)." },
+    { "que": "Why is capacity building important for subnational governments?", "ans": "To ensure they can effectively deliver services and manage devolved responsibilities." },
+    { "que": "What is an example of asymmetric federalism in India?", "ans": "Special provisions for states like Jammu & Kashmir (historically) or tribal areas with autonomy councils." },
+    { "que": "How does judicial review protect federalism?", "ans": "Courts can strike down laws that exceed constitutional powers of either level, preserving the balance." },
+    { "que": "What is federalism's core lesson?", "ans": "Distributing power constitutionally helps manage diversity while maintaining unity." }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "What is deforestation?", "op_1": "Planting trees", "op_2": "Clearing of forests for other uses", "op_3": "Protecting wildlife", "op_4": "Water harvesting", "ans": "Clearing of forests for other uses" },
+    { "question": "Which is an in-situ conservation method?", "op_1": "Zoos", "op_2": "National parks", "op_3": "Seed banks", "op_4": "Botanical gardens", "ans": "National parks" },
+    { "question": "What is poaching?", "op_1": "Legal hunting", "op_2": "Illegal hunting of wildlife", "op_3": "Planting trees", "op_4": "Forest protection", "ans": "Illegal hunting of wildlife" },
+    { "question": "Which Act protects wildlife in India?", "op_1": "Forest Rights Act", "op_2": "Wildlife (Protection) Act, 1972", "op_3": "Water Act", "op_4": "Soil Act", "ans": "Wildlife (Protection) Act, 1972" },
+    { "question": "What is afforestation?", "op_1": "Cutting trees", "op_2": "Planting trees on non-forest land", "op_3": "Illegal hunting", "op_4": "Mining", "ans": "Planting trees on non-forest land" },
+    { "question": "Why are corridors important?", "op_1": "To block animal movement", "op_2": "To connect habitats for species movement", "op_3": "To increase deforestation", "op_4": "To promote hunting", "ans": "To connect habitats for species movement" },
+    { "question": "What is ex-situ conservation?", "op_1": "Protecting in wild", "op_2": "Protecting species outside their habitat", "op_3": "Forest management only", "op_4": "Planting trees only", "ans": "Protecting species outside their habitat" },
+    { "question": "Which is a non-timber forest product?", "op_1": "Timber", "op_2": "Honey", "op_3": "Coal", "op_4": "Petroleum", "ans": "Honey" },
+    { "question": "What is habitat fragmentation?", "op_1": "Merging habitats", "op_2": "Breaking habitats into smaller patches", "op_3": "Planting corridors", "op_4": "Afforestation", "ans": "Breaking habitats into smaller patches" },
+    { "question": "Why conserve wetlands?", "op_1": "They are useless", "op_2": "They support biodiversity and water purification", "op_3": "They increase pollution", "op_4": "They reduce habitat", "ans": "They support biodiversity and water purification" },
+    { "question": "What is reforestation?", "op_1": "Planting trees in deforested areas", "op_2": "Removing trees from forests", "op_3": "Poaching", "op_4": "Logging", "ans": "Planting trees in deforested areas" },
+    { "question": "Name a community-based forest product.", "op_1": "Heavy machinery", "op_2": "Non-timber products like medicinal plants", "op_3": "Petroleum", "op_4": "Steel", "ans": "Non-timber products like medicinal plants" }
+  ]
+}

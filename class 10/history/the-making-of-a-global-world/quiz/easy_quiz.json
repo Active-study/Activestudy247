@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "What major invention reduced sea travel time in the 19th century?", "op_1": "Printing press", "op_2": "Steamship", "op_3": "Telephone", "op_4": "Automobile", "ans": "Steamship" },
+    { "question": "Which canal opened in 1869 to shorten routes between Europe and Asia?", "op_1": "Panama Canal", "op_2": "Suez Canal", "op_3": "Kiel Canal", "op_4": "Erie Canal", "ans": "Suez Canal" },
+    { "question": "What is a cash crop?", "op_1": "Crop grown for local food only", "op_2": "Crop grown for sale in distant markets", "op_3": "Wild plant", "op_4": "A medicinal herb", "ans": "Crop grown for sale in distant markets" },
+    { "question": "What was mercantilism primarily concerned with?", "op_1": "Free trade", "op_2": "Accumulation of wealth through trade surplus", "op_3": "Equality of incomes", "op_4": "Labor rights", "ans": "Accumulation of wealth through trade surplus" },
+    { "question": "Which commodity was central to the Opium Wars?", "op_1": "Tea", "op_2": "Opium", "op_3": "Cotton", "op_4": "Sugar", "ans": "Opium" },
+    { "question": "What did the Gold Standard link currency to?", "op_1": "Silver", "op_2": "Gold", "op_3": "Land", "op_4": "Grain", "ans": "Gold" },
+    { "question": "What is indentured labour?", "op_1": "Voluntary skilled migration", "op_2": "Contracted labour for a fixed period, often abroad", "op_3": "Free trade", "op_4": "A tax system", "ans": "Contracted labour for a fixed period, often abroad" },
+    { "question": "Which technology connected global communications rapidly in 19th century?", "op_1": "Telegraph", "op_2": "Radio", "op_3": "Internet", "op_4": "Steam engine", "ans": "Telegraph" },
+    { "question": "Which sector benefited most from colonial raw materials?", "op_1": "Manufacturing in Europe", "op_2": "Local handicrafts in colonies", "op_3": "Agriculture in Europe", "op_4": "Education", "ans": "Manufacturing in Europe" },
+    { "question": "What does 'decolonization' mean?", "op_1": "Expansion of empires", "op_2": "Colonies gaining independence", "op_3": "New trade tariffs", "op_4": "Industrial growth", "ans": "Colonies gaining independence" }
+  ]
+}

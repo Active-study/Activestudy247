@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "What is groundwater?", "op_1": "Surface water in rivers", "op_2": "Water stored beneath the earth's surface", "op_3": "Rainwater only", "op_4": "Ocean water", "ans": "Water stored beneath the earth's surface" },
+    { "question": "Which method conserves water for plants?", "op_1": "Drip irrigation", "op_2": "Flood irrigation", "op_3": "Over-irrigation", "op_4": "Leaving fields dry", "ans": "Drip irrigation" },
+    { "question": "What is rainwater harvesting?", "op_1": "Collecting and storing rainwater", "op_2": "Dumping rainwater", "op_3": "Only using river water", "op_4": "Removing reservoirs", "ans": "Collecting and storing rainwater" },
+    { "question": "Which structure stores water?", "op_1": "Dam", "op_2": "Road", "op_3": "Bridge", "op_4": "Stadium", "ans": "Dam" },
+    { "question": "What causes saline intrusion?", "op_1": "Over-extraction of groundwater near coasts", "op_2": "Planting trees", "op_3": "Rainwater harvesting", "op_4": "Building dams inland", "ans": "Over-extraction of groundwater near coasts" },
+    { "question": "What is desalination used for?", "op_1": "Removing salt from seawater", "op_2": "Polluting freshwater", "op_3": "Irrigating fields with seawater", "op_4": "Increasing salinity", "ans": "Removing salt from seawater" },
+    { "question": "Why are wetlands important?", "op_1": "They waste water", "op_2": "They store water and support biodiversity", "op_3": "They increase floods always", "op_4": "They reduce groundwater", "ans": "They store water and support biodiversity" },
+    { "question": "What is a watershed?", "op_1": "Area draining into a river or reservoir", "op_2": "Only a dam", "op_3": "An island", "op_4": "A mountain peak", "ans": "Area draining into a river or reservoir" },
+    { "question": "What is conjunctive use?", "op_1": "Using only surface water", "op_2": "Using both surface and groundwater together", "op_3": "Using only groundwater", "op_4": "Ignoring water use", "ans": "Using both surface and groundwater together" },
+    { "question": "What is water table?", "op_1": "Top of mountains", "op_2": "Upper surface of saturated groundwater zone", "op_3": "Riverbank only", "op_4": "A reservoir", "ans": "Upper surface of saturated groundwater zone" },
+    { "question": "Which is a non-conventional water source?", "op_1": "River water", "op_2": "Desalinated seawater", "op_3": "Groundwater", "op_4": "Rainwater only", "ans": "Desalinated seawater" },
+    { "question": "What is the main aim of watershed management?", "op_1": "Destroying ecosystems", "op_2": "Integrated use of land and water to maintain resources", "op_3": "Only building dams", "op_4": "Ignore land use", "ans": "Integrated use of land and water to maintain resources" }
+  ]
+}

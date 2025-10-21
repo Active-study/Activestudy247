@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "Which sector is most labour intensive?", "op_1": "Services", "op_2": "Industry (heavy machinery)", "op_3": "Agriculture", "op_4": "IT", "ans": "Agriculture" },
+    { "question": "What causes disguised unemployment?", "op_1": "Excess labour in low-productivity farming", "op_2": "High tech jobs", "op_3": "Full mechanisation", "op_4": "High wages", "ans": "Excess labour in low-productivity farming" },
+    { "question": "Why promote MSMEs?", "op_1": "They reduce employment", "op_2": "They create jobs and add to exports", "op_3": "They only benefit large firms", "op_4": "They reduce value addition", "ans": "They create jobs and add to exports" },
+    { "question": "Which policy helps sectoral shift?", "op_1": "Rural neglect", "op_2": "Industrial and service sector development with skill training", "op_3": "Cutting urban services", "op_4": "Removing education", "ans": "Industrial and service sector development with skill training" },
+    { "question": "How do services contribute to GDP?", "op_1": "Through IT, finance and transport", "op_2": "Only through farming", "op_3": "Only through manufacturing", "op_4": "Only through mining", "ans": "Through IT, finance and transport" },
+    { "question": "What is value addition in agriculture?", "op_1": "Selling raw crops without processing", "op_2": "Processing crops into packaged food", "op_3": "Reducing storage", "op_4": "Only exporting raw grains", "ans": "Processing crops into packaged food" },
+    { "question": "Which challenge faces unorganised sector workers?", "op_1": "Social security and irregular incomes", "op_2": "High pensions", "op_3": "Stable contracts", "op_4": "Guaranteed healthcare", "ans": "Social security and irregular incomes" },
+    { "question": "Why are services often high value-added?", "op_1": "Because they need low skills", "op_2": "Because of technology and specialised skills", "op_3": "Because they are unregulated", "op_4": "Because they use raw materials", "ans": "Because of technology and specialised skills" },
+    { "question": "How can agriculture productivity be increased?", "op_1": "Reducing irrigation", "op_2": "Better seeds, irrigation and technology", "op_3": "Eliminating markets", "op_4": "Reducing extension services", "ans": "Better seeds, irrigation and technology" },
+    { "question": "What is the impact of export-led growth?", "op_1": "No change in employment", "op_2": "Can create jobs and foreign exchange", "op_3": "Always reduces incomes", "op_4": "Only harms farmers", "ans": "Can create jobs and foreign exchange" },
+    { "question": "Which skill helps service sector growth?", "op_1": "Digital and communication skills", "op_2": "Only physical strength", "op_3": "Only manual farming skills", "op_4": "No skills", "ans": "Digital and communication skills" },
+    { "question": "Why measure sectoral employment?", "op_1": "To ignore labour policies", "op_2": "To design targeted job creation", "op_3": "To reduce schooling", "op_4": "To increase child labour", "ans": "To design targeted job creation" }
+  ]
+}

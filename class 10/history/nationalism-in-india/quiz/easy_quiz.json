@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "When was the Indian National Congress founded?", "op_1": "1857", "op_2": "1885", "op_3": "1905", "op_4": "1920", "ans": "1885" },
+    { "question": "Who led the Salt March in 1930?", "op_1": "Subhas Chandra Bose", "op_2": "Mahatma Gandhi", "op_3": "Jawaharlal Nehru", "op_4": "Sardar Patel", "ans": "Mahatma Gandhi" },
+    { "question": "What was the Jallianwala Bagh incident year?", "op_1": "1919", "op_2": "1915", "op_3": "1920", "op_4": "1930", "ans": "1919" },
+    { "question": "Which movement promoted boycott of British goods?", "op_1": "Non-Cooperation Movement", "op_2": "Swadeshi Movement", "op_3": "Khilafat Movement", "op_4": "Quit India Movement", "ans": "Swadeshi Movement" },
+    { "question": "Who was a prominent leader of the Khilafat Movement?", "op_1": "Tilak", "op_2": "Annie Besant", "op_3": "Muhammad Ali Jinnah", "op_4": "The Ali brothers (Shaukat and Mohammad Ali)", "ans": "The Ali brothers (Shaukat and Mohammad Ali)" },
+    { "question": "Which movement demanded immediate British withdrawal in 1942?", "op_1": "Non-Cooperation Movement", "op_2": "Civil Disobedience Movement", "op_3": "Quit India Movement", "op_4": "Swadeshi Movement", "ans": "Quit India Movement" },
+    { "question": "What was the Rowlatt Act associated with?", "op_1": "Land reform", "op_2": "Detention without trial", "op_3": "Tax relief", "op_4": "Women's rights", "ans": "Detention without trial" },
+    { "question": "Who wrote about the 'drain of wealth' from India?", "op_1": "Bal Gangadhar Tilak", "op_2": "Dadabhai Naoroji", "op_3": "Mahatma Gandhi", "op_4": "Lala Lajpat Rai", "ans": "Dadabhai Naoroji" },
+    { "question": "Which event intensified the Non-Cooperation Movement in 1920?", "op_1": "Rowlatt Act", "op_2": "Formation of Muslim League", "op_3": "Khilafat and Non-Cooperation alliance", "op_4": "Simon Commission", "ans": "Khilafat and Non-Cooperation alliance" },
+    { "question": "Who founded the Home Rule League in India?", "op_1": "Tilak and Annie Besant", "op_2": "Subhas Chandra Bose", "op_3": "Dadabhai Naoroji", "op_4": "Bhagat Singh", "ans": "Tilak and Annie Besant" }
+  ]
+}

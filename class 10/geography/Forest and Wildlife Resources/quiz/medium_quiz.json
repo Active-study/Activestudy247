@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "How does deforestation affect climate?", "op_1": "Increases carbon sequestration", "op_2": "Increases CO2 and contributes to climate change", "op_3": "No effect", "op_4": "Improves biodiversity", "ans": "Increases CO2 and contributes to climate change" },
+    { "question": "What is a biosphere reserve's objective?", "op_1": "Only tourism", "op_2": "Conservation with sustainable use and research", "op_3": "Only logging", "op_4": "Industrialisation", "ans": "Conservation with sustainable use and research" },
+    { "question": "Why are migratory species vulnerable?", "op_1": "They never move", "op_2": "Dependence on multiple habitats that may be degraded", "op_3": "They are domesticated", "op_4": "They are always protected", "ans": "Dependence on multiple habitats that may be degraded" },
+    { "question": "How do invasive species impact native wildlife?", "op_1": "They enhance native populations", "op_2": "They compete and reduce native species populations", "op_3": "They always increase habitat quality", "op_4": "They have no impact", "ans": "They compete and reduce native species populations" },
+    { "question": "What is community-based conservation benefit?", "op_1": "Excludes locals", "op_2": "Local stewardship leads to sustainable use and livelihood support", "op_3": "Increases poaching always", "op_4": "Reduces biodiversity", "ans": "Local stewardship leads to sustainable use and livelihood support" },
+    { "question": "Why are corridors included in planning?", "op_1": "To fragment habitats", "op_2": "To maintain genetic flow and seasonal movement", "op_3": "To increase roads", "op_4": "To encourage hunting", "ans": "To maintain genetic flow and seasonal movement" },
+    { "question": "What is an effect of habitat fragmentation on species?", "op_1": "Improved survival", "op_2": "Isolation and reduced gene flow", "op_3": "More contiguous habitat", "op_4": "Less edge effect", "ans": "Isolation and reduced gene flow" },
+    { "question": "Which human activity promotes forest restoration?", "op_1": "Illegal logging", "op_2": "Afforestation and controlled reforestation", "op_3": "Overgrazing", "op_4": "Urban sprawl", "ans": "Afforestation and controlled reforestation" },
+    { "question": "How do wetlands help local communities?", "op_1": "Provide drinking water, fisheries and flood control", "op_2": "Reduce resources", "op_3": "Always cause disease", "op_4": "Prevent agriculture", "ans": "Provide drinking water, fisheries and flood control" },
+    { "question": "What role do protected areas serve?", "op_1": "Only tourism", "op_2": "Safeguard habitats and species from exploitation", "op_3": "Promote mining", "op_4": "Increase deforestation", "ans": "Safeguard habitats and species from exploitation" },
+    { "question": "Why monitor wildlife populations?", "op_1": "To ignore changes", "op_2": "To detect declines and guide conservation actions", "op_3": "To promote hunting", "op_4": "To reduce parks", "ans": "To detect declines and guide conservation actions" },
+    { "question": "What is one solution to reduce human-wildlife conflict?", "op_1": "No measures", "op_2": "Fencing, crop choices and compensation schemes", "op_3": "Increase settlements in forest", "op_4": "Remove corridors", "ans": "Fencing, crop choices and compensation schemes" }
+  ]
+}

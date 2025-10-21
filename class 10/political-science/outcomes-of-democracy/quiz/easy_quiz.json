@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "What does accountability mean in a democracy?", "op_1": "Officials are unanswerable", "op_2": "Officials are responsible and can be removed by citizens", "op_3": "No elections", "op_4": "Military control", "ans": "Officials are responsible and can be removed by citizens" },
+    { "question": "Which institution informs citizens and investigates wrongdoing?", "op_1": "Secret police", "op_2": "Free press", "op_3": "Only political parties", "op_4": "No institutions", "ans": "Free press" },
+    { "question": "What is political participation?", "op_1": "Voting and other forms of civic engagement", "op_2": "Only paying taxes", "op_3": "Avoiding public life", "op_4": "Military service only", "ans": "Voting and other forms of civic engagement" },
+    { "question": "Why are regular elections important?", "op_1": "They reduce accountability", "op_2": "They provide legitimacy and allow citizens to choose leaders", "op_3": "They delay governance always", "op_4": "They remove rights", "ans": "They provide legitimacy and allow citizens to choose leaders" },
+    { "question": "What is rule of law?", "op_1": "Law applies only to elites", "op_2": "Law applies equally to all citizens", "op_3": "No laws", "op_4": "Only executive orders", "ans": "Law applies equally to all citizens" },
+    { "question": "How does democracy protect minority rights?", "op_1": "By ignoring them", "op_2": "Through constitutional safeguards and judicial protection", "op_3": "By majority rule only", "op_4": "By eliminating courts", "ans": "Through constitutional safeguards and judicial protection" },
+    { "question": "What is transparency in governance?", "op_1": "Secret budgets", "op_2": "Open sharing of government information and decisions", "op_3": "No public information", "op_4": "Only party statements", "ans": "Open sharing of government information and decisions" },
+    { "question": "Which group helps hold governments accountable besides elections?", "op_1": "Civil society organizations and media", "op_2": "Only military leaders", "op_3": "Monarchs only", "op_4": "No groups", "ans": "Civil society organizations and media" },
+    { "question": "What is political equality?", "op_1": "Some have more votes", "op_2": "All citizens have equal rights to vote and participate", "op_3": "Only elites vote", "op_4": "No voting rights", "ans": "All citizens have equal rights to vote and participate" },
+    { "question": "What does responsiveness refer to?", "op_1": "Government ignoring citizens", "op_2": "Government responding to citizens’ needs and feedback", "op_3": "Absence of services", "op_4": "Only international response", "ans": "Government responding to citizens’ needs and feedback" }
+  ]
+}

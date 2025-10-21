@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "Where did the Industrial Revolution begin?", "op_1": "United States", "op_2": "Britain", "op_3": "Germany", "op_4": "France", "ans": "Britain" },
+    { "question": "Which industry was the first to industrialize?", "op_1": "Textiles", "op_2": "Steel", "op_3": "Automobile", "op_4": "Electronics", "ans": "Textiles" },
+    { "question": "Who improved the steam engine to power factories?", "op_1": "James Watt", "op_2": "Thomas Edison", "op_3": "Henry Ford", "op_4": "Alexander Graham Bell", "ans": "James Watt" },
+    { "question": "What was a common problem in early factories?", "op_1": "Short working hours", "op_2": "Unsafe working conditions and long hours", "op_3": "High wages for all", "op_4": "Plenty of leisure", "ans": "Unsafe working conditions and long hours" },
+    { "question": "What is urbanisation?", "op_1": "Increase in rural population", "op_2": "Growth of cities due to migration from rural areas", "op_3": "Decrease in city size", "op_4": "A type of crop rotation", "ans": "Growth of cities due to migration from rural areas" },
+    { "question": "Which process made steel cheaper in the 19th century?", "op_1": "Luddism", "op_2": "Bessemer process", "op_3": "Steam power", "op_4": "Division of labour", "ans": "Bessemer process" },
+    { "question": "What is division of labour intended to improve?", "op_1": "Complexity", "op_2": "Efficiency and productivity", "op_3": "Pollution", "op_4": "Number of workers", "ans": "Efficiency and productivity" },
+    { "question": "What is Luddism?", "op_1": "Support for machines", "op_2": "Protests against machinery that threatened jobs", "op_3": "A type of factory", "op_4": "A protective tariff", "ans": "Protests against machinery that threatened jobs" },
+    { "question": "Which transportation innovation connected industrial centres?", "op_1": "Canals only", "op_2": "Railways", "op_3": "Hot air balloons", "op_4": "Bicycles", "ans": "Railways" },
+    { "question": "Why did industrialisation lead to increased consumption?", "op_1": "Goods became more expensive", "op_2": "Mass production made goods cheaper and widely available", "op_3": "People stopped buying goods", "op_4": "Goods were banned", "ans": "Mass production made goods cheaper and widely available" }
+  ]
+}

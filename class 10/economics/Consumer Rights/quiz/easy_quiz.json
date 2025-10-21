@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "Which is a basic consumer right?", "op_1": "Right to unlimited credit", "op_2": "Right to safety", "op_3": "Right to monopolise markets", "op_4": "Right to tax others", "ans": "Right to safety" },
+    { "question": "What does warranty cover?", "op_1": "Repair or replacement of defective product within time", "op_2": "Free gifts always", "op_3": "Only used goods", "op_4": "No obligations", "ans": "Repair or replacement of defective product within time" },
+    { "question": "Where to file a consumer complaint?", "op_1": "Consumer forum or commission", "op_2": "Police only", "op_3": "Only court of law by default", "op_4": "No authority", "ans": "Consumer forum or commission" },
+    { "question": "What is misleading advertisement?", "op_1": "Accurate product description", "op_2": "False or deceptive promotion", "op_3": "Mandatory labelling", "op_4": "Quality certification", "ans": "False or deceptive promotion" },
+    { "question": "Why keep bills and warranty cards?", "op_1": "For decoration", "op_2": "As proof for complaints and claims", "op_3": "To avoid purchases", "op_4": "Not required ever", "ans": "As proof for complaints and claims" },
+    { "question": "What is product recall?", "op_1": "Withdrawal due to safety defects", "op_2": "Marketing strategy only", "op_3": "Raising prices", "op_4": "Extending warranty always", "ans": "Withdrawal due to safety defects" },
+    { "question": "How to avoid online fraud?", "op_1": "Share OTP and passwords freely", "op_2": "Use secure sites and check seller reviews", "op_3": "Pay unknown sellers only", "op_4": "Click unknown links", "ans": "Use secure sites and check seller reviews" },
+    { "question": "What is right to information?", "op_1": "Conceal product details", "op_2": "Consumers must be informed about product features and price", "op_3": "No labels required", "op_4": "Hide expiry dates", "ans": "Consumers must be informed about product features and price" },
+    { "question": "Which document is proof of purchase?", "op_1": "Bill or receipt", "op_2": "Only warranty card", "op_3": "Verbal promise", "op_4": "No record needed", "ans": "Bill or receipt" },
+    { "question": "What is an unfair trade practice?", "op_1": "Truthful advertising", "op_2": "Deceptive business conduct", "op_3": "Clear labelling", "op_4": "Quality certification", "ans": "Deceptive business conduct" },
+    { "question": "What is cooling-off period?", "op_1": "Time to cancel certain contracts without penalty", "op_2": "Never allowed", "op_3": "Mandatory for all sales", "op_4": "Only for merchants", "ans": "Time to cancel certain contracts without penalty" },
+    { "question": "Who sets product quality standards in India?", "op_1": "Consumer only", "op_2": "BIS (Bureau of Indian Standards)", "op_3": "Local shopkeepers", "op_4": "Only foreign firms", "ans": "BIS (Bureau of Indian Standards)" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    { "que": "What is power sharing?", "ans": "A political arrangement where different social groups share decision-making power to reduce conflict." },
+    { "que": "Why is power sharing important in a democracy?", "ans": "It ensures representation, reduces majority domination, and maintains stability." },
+    { "que": "Name two forms of power sharing.", "ans": "Horizontal (across institutions) and vertical (between central and regional governments)." },
+    { "que": "What is horizontal distribution of power?", "ans": "Sharing power among different organs of government like legislature, executive and judiciary." },
+    { "que": "What is vertical distribution of power?", "ans": "Sharing power between levels of government, such as central and state governments." },
+    { "que": "Give an example of horizontal power sharing in India.", "ans": "The separation of powers between Parliament, the President, and the Supreme Court." },
+    { "que": "What is community government?", "ans": "A system where religious or ethnic communities govern their own affairs to accommodate diversity." },
+    { "que": "How does federalism relate to power sharing?", "ans": "Federalism is a form of vertical power sharing between central and regional governments." },
+    { "que": "What is consociationalism?", "ans": "A system where power is shared among elites of different ethnic or religious groups." },
+    { "que": "Give an example of power sharing in Belgium.", "ans": "Belgium shares power between Flemish and Walloon communities with linguistic parity and federal structures." },
+    { "que": "How does power sharing reduce conflict?", "ans": "By giving minorities representation and stake in governance, lowering the incentive for violent competition." },
+    { "que": "What is the role of an independent judiciary in power sharing?", "ans": "It protects rights and resolves disputes between branches and levels of government impartially." },
+    { "que": "What is decentralization?", "ans": "Transfer of powers to lower levels of government to bring decision-making closer to people." },
+    { "que": "How does electoral system design affect power sharing?", "ans": "Proportional representation and reserved seats can ensure minority voices in legislatures." },
+    { "que": "What are reserved seats?", "ans": "Legislative seats set aside for underrepresented groups to guarantee their participation." },
+    { "que": "Why can majoritarian systems be problematic in diverse societies?", "ans": "They may exclude minorities and concentrate power in the hands of a single group." },
+    { "que": "What is the significance of local self-government in power sharing?", "ans": "It allows communities control over local issues, enhancing participation and accountability." },
+    { "que": "How can autonomy agreements promote peace?", "ans": "By granting regions control over cultural and administrative matters, reducing separatist demands." },
+    { "que": "What is an example of consociational arrangements outside Belgium?", "ans": "Lebanon's power-sharing among religious communities (though often criticized)." },
+    { "que": "Define 'multilevel governance'.", "ans": "Decision-making distributed across multiple territorial levels, including local, regional, and national." },
+    { "que": "What is the role of political parties in power sharing?", "ans": "They aggregate interests and can form inclusive coalitions representing diverse groups." },
+    { "que": "How does federalism address diversity?", "ans": "By allowing regions to legislate on local matters and protect cultural practices." },
+    { "que": "What is the danger of excessive decentralization?", "ans": "It may weaken national unity or lead to unequal capacities across regions." },
+    { "que": "What is an example of successful power sharing in India?", "ans": "The autonomous councils in Northeast India that provide local self-rule to tribal areas." },
+    { "que": "How does proportional representation differ from first-past-the-post?", "ans": "Proportional representation allocates seats based on vote share, unlike winner-takes-all FPTP." },
+    { "que": "Why is dialogue important in power-sharing systems?", "ans": "Dialogue helps build consensus, manage grievances, and maintain cooperative politics." },
+    { "que": "Name a challenge to power sharing.", "ans": "Elite capture where political elites monopolize benefits, excluding ordinary citizens." },
+    { "que": "What is the main lesson of power sharing?", "ans": "In diverse societies, sharing political power promotes stability, inclusion, and democratic governance." }
+  ]
+}

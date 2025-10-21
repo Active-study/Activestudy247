@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "question": "What was the main objective of Giuseppe Mazzini's Young Italy?", "op_1": "Create an Italian republic", "op_2": "Support the Pope", "op_3": "Promote Austrian rule", "op_4": "Establish monarchy in Italy", "ans": "Create an Italian republic" },
+    { "question": "Which policy best describes Bismarck's approach to unification?", "op_1": "Idealism", "op_2": "Realpolitik", "op_3": "Pacifism", "op_4": "Isolationism", "ans": "Realpolitik" },
+    { "question": "How did the printing press aid nationalism?", "op_1": "By making weapons", "op_2": "By spreading ideas and standardizing language", "op_3": "By increasing taxes", "op_4": "By building railways", "ans": "By spreading ideas and standardizing language" },
+    { "question": "Why did multinational empires oppose nationalist movements?", "op_1": "To encourage democracy", "op_2": "Because nationalism threatened their territorial integrity", "op_3": "To promote industrialization", "op_4": "To spread religion", "ans": "Because nationalism threatened their territorial integrity" },
+    { "question": "Which event strengthened Italian unification under Piedmont?", "op_1": "Support from Cavour and alliance with France", "op_2": "Austrian victory", "op_3": "Spanish invasion", "op_4": "Russian support", "ans": "Support from Cavour and alliance with France" },
+    { "question": "What does the term 'nation' emphasize?", "op_1": "Only political institutions", "op_2": "Shared culture, history, and identity", "op_3": "Geographic area only", "op_4": "Economic output", "ans": "Shared culture, history, and identity" },
+    { "question": "Which of these was a cause of 19th-century nationalist movements?", "op_1": "Feudal fragmentation", "op_2": "Spread of print culture and education", "op_3": "Decline of trade", "op_4": "Isolationism", "ans": "Spread of print culture and education" },
+    { "question": "How did folk culture contribute to nationalism?", "op_1": "It provided raw materials for factories", "op_2": "It helped construct a shared past and identity", "op_3": "It reduced literacy", "op_4": "It discouraged political participation", "ans": "It helped construct a shared past and identity" },
+    { "question": "Which Italian leader negotiated unification through diplomacy rather than mass uprising?", "op_1": "Garibaldi", "op_2": "Mazzini", "op_3": "Cavour", "op_4": "Victor Emmanuel II", "ans": "Cavour" },
+    { "question": "What was an unintended consequence of nationalism in Europe?", "op_1": "Promotion of multinational empires", "op_2": "Marginalization of minority groups", "op_3": "End of industrialization", "op_4": "Abolition of monarchies everywhere", "ans": "Marginalization of minority groups" }
+  ]
+}

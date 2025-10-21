@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "Why monitor HDI alongside GDP?", "op_1": "Because HDI measures only GDP", "op_2": "Because HDI includes health and education", "op_3": "HDI ignores education", "op_4": "HDI equals unemployment", "ans": "Because HDI includes health and education" },
+    { "question": "What does social exclusion mean?", "op_1": "Inclusion in mainstream", "op_2": "Being left out of opportunities", "op_3": "Higher income for all", "op_4": "Universal healthcare", "ans": "Being left out of opportunities" },
+    { "question": "Which policy directly improves human capital?", "op_1": "Cutting education budget", "op_2": "Investing in schooling and health", "op_3": "Reducing healthcare", "op_4": "Removing training programs", "ans": "Investing in schooling and health" },
+    { "question": "Why is adult literacy targeted?", "op_1": "To reduce access to information", "op_2": "To improve employability and participation", "op_3": "To increase child labour", "op_4": "To cut services", "ans": "To improve employability and participation" },
+    { "question": "How can migration affect sending areas?", "op_1": "Always reduces remittances", "op_2": "May increase remittances and reduce local unemployment", "op_3": "Eliminates jobs entirely", "op_4": "Stops development", "ans": "May increase remittances and reduce local unemployment" },
+    { "question": "What is targeted welfare?", "op_1": "Universal subsidies", "op_2": "Benefits aimed at needy groups", "op_3": "Only tax cuts for rich", "op_4": "Only public works for elites", "ans": "Benefits aimed at needy groups" },
+    { "question": "Which is a sign of unequal development?", "op_1": "Uniform infrastructure everywhere", "op_2": "Regional disparities in services", "op_3": "Equal incomes", "op_4": "Same HDI across regions", "ans": "Regional disparities in services" },
+    { "question": "Why invest in rural infrastructure?", "op_1": "To isolate villages", "op_2": "To improve connectivity and markets", "op_3": "To reduce jobs", "op_4": "To decrease production", "ans": "To improve connectivity and markets" },
+    { "question": "Which is an example of social sector investment?", "op_1": "Building a hospital", "op_2": "Stock market investment", "op_3": "Buying machinery for private firm", "op_4": "Opening a casino", "ans": "Building a hospital" },
+    { "question": "How can technology improve services?", "op_1": "By reducing access", "op_2": "By enabling telemedicine and e-learning", "op_3": "By stopping education", "op_4": "By increasing child labour", "ans": "By enabling telemedicine and e-learning" },
+    { "question": "What is a sustainable livelihood?", "op_1": "Earning without depleting resources", "op_2": "High short-term profits only", "op_3": "Exploiting resources", "op_4": "No income", "ans": "Earning without depleting resources" },
+    { "question": "Why are welfare schemes monitored?", "op_1": "To reduce benefits", "op_2": "To ensure they reach intended beneficiaries", "op_3": "To stop services", "op_4": "To decrease transparency", "ans": "To ensure they reach intended beneficiaries" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "What is a manufacturing industry?", "op_1": "Service provider", "op_2": "Transforms raw materials into finished goods", "op_3": "A farm", "op_4": "A bank", "ans": "Transforms raw materials into finished goods" },
+    { "question": "Which is a cottage industry?", "op_1": "Large steel plant", "op_2": "Home-based handloom weaving", "op_3": "Automobile factory", "op_4": "Software firm", "ans": "Home-based handloom weaving" },
+    { "question": "What is an agro-based industry?", "op_1": "Mining industry", "op_2": "Industry using agricultural raw materials", "op_3": "IT industry", "op_4": "Tourism", "ans": "Industry using agricultural raw materials" },
+    { "question": "Why is infrastructure important for industries?", "op_1": "It increases production costs always", "op_2": "Provides energy, transport and water which are essential for operations", "op_3": "It prevents markets", "op_4": "It reduces employment", "ans": "Provides energy, transport and water which are essential for operations" },
+    { "question": "What is an export-oriented industry?", "op_1": "Produces goods mainly for domestic use", "op_2": "Produces goods primarily for foreign markets", "op_3": "Only services", "op_4": "Only agriculture", "ans": "Produces goods primarily for foreign markets" },
+    { "question": "Which sector includes manufacturing?", "op_1": "Primary sector", "op_2": "Secondary sector", "op_3": "Tertiary sector", "op_4": "Quaternary sector", "ans": "Secondary sector" },
+    { "question": "What is MSME?", "op_1": "Very large industry", "op_2": "Micro, Small and Medium Enterprises", "op_3": "Only service firms", "op_4": "Only agriculture firms", "ans": "Micro, Small and Medium Enterprises" },
+    { "question": "Why are quality standards important?", "op_1": "They prevent production", "op_2": "Ensure safety and access to markets", "op_3": "Increase defects", "op_4": "Reduce exports always", "ans": "Ensure safety and access to markets" },
+    { "question": "What is industrial agglomeration?", "op_1": "Scattering of industries", "op_2": "Concentration of industries in an area", "op_3": "Only farming clusters", "op_4": "No industrialisation", "ans": "Concentration of industries in an area" },
+    { "question": "Which industry uses raw cotton?", "op_1": "Steel industry", "op_2": "Textile industry", "op_3": "Oil refinery", "op_4": "Cement industry", "ans": "Textile industry" },
+    { "question": "What is product perishability?", "op_1": "Products that last long", "op_2": "Products that spoil quickly needing cold storage", "op_3": "Only electronics", "op_4": "Only machinery", "ans": "Products that spoil quickly needing cold storage" },
+    { "question": "Why promote small industries?", "op_1": "To increase unemployment", "op_2": "Create jobs and use local resources", "op_3": "Only to reduce exports", "op_4": "To cause pollution", "ans": "Create jobs and use local resources" }
+  ]
+}

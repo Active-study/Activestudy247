@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "question": "What does GDP measure?", "op_1": "Total exports", "op_2": "Total investment", "op_3": "Total value of goods and services produced", "op_4": "Total government spending", "ans": "Total value of goods and services produced" },
+    { "question": "What is per capita income?", "op_1": "Average income per person", "op_2": "Total national income", "op_3": "Income of the poorest 10%", "op_4": "Average tax paid", "ans": "Average income per person" },
+    { "question": "Which is a social indicator?", "op_1": "GDP", "op_2": "Literacy rate", "op_3": "Exports", "op_4": "Investment", "ans": "Literacy rate" },
+    { "question": "Which sector typically falls first during development?", "op_1": "Services", "op_2": "Industry", "op_3": "Agriculture", "op_4": "Banking", "ans": "Agriculture" },
+    { "question": "What does HDI include?", "op_1": "Only income", "op_2": "Income and population", "op_3": "Life expectancy, education, and per capita income", "op_4": "Exports and imports", "ans": "Life expectancy, education, and per capita income" },
+    { "question": "An example of informal work is:", "op_1": "Factory manager", "op_2": "Software developer", "op_3": "Street vendor", "op_4": "Bank clerk", "ans": "Street vendor" },
+    { "question": "Sustainable development seeks to:", "op_1": "Use all resources now", "op_2": "Ignore future needs", "op_3": "Meet present needs without harming future", "op_4": "Stop growth", "ans": "Meet present needs without harming future" },
+    { "question": "Which increases with better healthcare?", "op_1": "Unemployment", "op_2": "Life expectancy", "op_3": "Informal jobs", "op_4": "Poverty line", "ans": "Life expectancy" },
+    { "question": "FDI stands for:", "op_1": "Foreign Domestic Investment", "op_2": "Foreign Direct Investment", "op_3": "Fiscal Domestic Investment", "op_4": "Final Domestic Income", "ans": "Foreign Direct Investment" },
+    { "question": "Inclusive growth means:", "op_1": "Growth for elites only", "op_2": "Growth benefiting all sections", "op_3": "Growth without jobs", "op_4": "Decline in GDP", "ans": "Growth benefiting all sections" },
+    { "question": "Which is a limitation of GDP?", "op_1": "Counts unpaid household work", "op_2": "Shows income distribution", "op_3": "Ignores informal activities", "op_4": "Measures life expectancy", "ans": "Ignores informal activities" },
+    { "question": "Infrastructure helps by:", "op_1": "Reducing production", "op_2": "Increasing trade and access", "op_3": "Removing jobs", "op_4": "Lowering education", "ans": "Increasing trade and access" }
+  ]
+}
