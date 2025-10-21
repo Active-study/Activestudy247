@@ -10,35 +10,35 @@
     },
     {
       "subjectName": "Biology",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/main/biology/biology_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Biology.json"
     },
     {
       "subjectName": "Math",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/main/maths/maths_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Math/math_structure.json"
     },
     {
       "subjectName": "History",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/main/history/history_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/history_structure.json"
     },
     {
       "subjectName": "Geography",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/main/geography/geography_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/geography_structure.json"
     },
     {
       "subjectName": "Political Science",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/main/political_science/political_science_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/political_science/political_science_structure.json"
     },
     {
       "subjectName": "Economics",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/main/economics/economics_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/economics_structure.json"
     },
     {
       "subjectName": "English",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/main/english/english_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/english/english_structure.json"
     },
     {
       "subjectName": "Hindi",
-      "url": "https://raw.githubusercontent.com/Active-study/class9/main/hindi/hindi_structure.json"
+      "url": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/hindi/hindi_structure.json"
     }
   ]
 }
