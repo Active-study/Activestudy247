@@ -14,6 +14,9 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/control-and-coordination/quiz/medium.json", "qzname": "medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/control-and-coordination/quiz/hard.json", "qzname": "hard.json" }
         ],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/control-and-coordination/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
+        ],
         "worksheet": "https://example.com/biology/control-and-coordination/worksheet.pdf",
         "questions": [],
         "questionsPDF": [
@@ -33,6 +36,9 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/heredity-and-evolution/quiz/medium.json", "qzname": "medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/heredity-and-evolution/quiz/hard.json", "qzname": "hard.json" }
         ],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/heredity-and-evolution/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
+        ],
         "worksheet": "https://example.com/biology/heredity-and-evolution/worksheet.pdf",
         "questions": [],
         "questionsPDF": [
@@ -51,6 +57,9 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/quiz/easy.json", "qzname": "easy.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/quiz/medium.json", "qzname": "medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
         ],
         "worksheet": "https://example.com/biology/how-do-organisms-reproduce/worksheet.pdf",
         "questions": [],
@@ -83,6 +92,9 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Transportation_Medium.json", "qzname": "Transportation_Medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Transportation_Hard.json", "qzname": "Transportation_Hard.json" }
         ],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
+        ],
         "worksheet": "https://example.com/biology/life-processes/worksheet.pdf",
         "questions": [],
         "questionsPDF": [
@@ -101,6 +113,9 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/quiz/easy.json", "qzname": "easy.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/quiz/medium.json", "qzname": "medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
         ],
         "worksheet": "https://example.com/biology/our-environment/worksheet.pdf",
         "questions": [],
