@@ -27,10 +27,10 @@
           { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
         ],
         "questionsPDF": [
-          { "qpdf": "https://ncert.nic.in/textbook/pdf/iesc106.pdf", "qpdfname": "NCERT Exemplar" }
+          { "qpdf": "https://ncerts.nic.in/textbook/pdf/iesc106.pdf", "qpdfname": "NCERT Exemplar" }
         ],
-        "ncertbook": "https://ncert.nic.in/textbook/pdf/iesc106.pdf",
-        "Hindi_book": "https://ncert.nic.in/textbook/pdf/ihsc106.pdf"
+        "ncertbook": "https://ncerts.nic.in/textbook/pdf/iesc106.pdf",
+        "Hindi_book": "https://ncerts.nic.in/textbook/pdf/ihsc106.pdf"
       }
     },
     {
@@ -47,10 +47,10 @@
           { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/control-and-coordination/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
         ],
         "questionsPDF": [
-          { "qpdf": "https://ncert.nic.in/textbook/pdf/iesc107.pdf", "qpdfname": "NCERT Exemplar" }
+          { "qpdf": "https://ncerts.nic.in/textbook/pdf/iesc107.pdf", "qpdfname": "NCERT Exemplar" }
         ],
-        "ncertbook": "https://ncert.nic.in/textbook/pdf/iesc107.pdf",
-        "Hindi_book": "https://ncert.nic.in/textbook/pdf/ihsc107.pdf"
+        "ncertbook": "https://ncerts.nic.in/textbook/pdf/iesc107.pdf",
+        "Hindi_book": "https://ncerts.nic.in/textbook/pdf/ihsc107.pdf"
       }
     },
     {
@@ -67,10 +67,10 @@
           { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
         ],
         "questionsPDF": [
-          { "qpdf": "https://ncert.nic.in/textbook/pdf/iesc108.pdf", "qpdfname": "NCERT Exemplar" }
+          { "qpdf": "https://ncerts.nic.in/textbook/pdf/iesc108.pdf", "qpdfname": "NCERT Exemplar" }
         ],
-        "ncertbook": "https://ncert.nic.in/textbook/pdf/iesc108.pdf",
-        "Hindi_book": "https://ncert.nic.in/textbook/pdf/ihsc108.pdf"
+        "ncertbook": "https://ncerts.nic.in/textbook/pdf/iesc108.pdf",
+        "Hindi_book": "https://ncerts.nic.in/textbook/pdf/ihsc108.pdf"
       }
     },
     {
@@ -87,10 +87,10 @@
           { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/heredity-and-evolution/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
         ],
         "questionsPDF": [
-          { "qpdf": "https://ncert.nic.in/textbook/pdf/iesc109.pdf", "qpdfname": "NCERT Exemplar" }
+          { "qpdf": "https://ncerts.nic.in/textbook/pdf/iesc109.pdf", "qpdfname": "NCERT Exemplar" }
         ],
-        "ncertbook": "https://ncert.nic.in/textbook/pdf/iesc109.pdf",
-        "Hindi_book": "https://ncert.nic.in/textbook/pdf/ihsc109.pdf"
+        "ncertbook": "https://ncerts.nic.in/textbook/pdf/iesc109.pdf",
+        "Hindi_book": "https://ncerts.nic.in/textbook/pdf/ihsc109.pdf"
       }
     },
     {
@@ -107,10 +107,10 @@
           { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
         ],
         "questionsPDF": [
-          { "qpdf": "https://ncert.nic.in/textbook/pdf/iesc115.pdf", "qpdfname": "NCERT Exemplar" }
+          { "qpdf": "https://ncerts.nic.in/textbook/pdf/iesc115.pdf", "qpdfname": "NCERT Exemplar" }
         ],
-        "ncertbook": "https://ncert.nic.in/textbook/pdf/iesc115.pdf",
-        "Hindi_book": "https://ncert.nic.in/textbook/pdf/ihsc115.pdf"
+        "ncertbook": "https://ncerts.nic.in/textbook/pdf/iesc115.pdf",
+        "Hindi_book": "https://ncerts.nic.in/textbook/pdf/ihsc115.pdf"
       }
     }
   ]
