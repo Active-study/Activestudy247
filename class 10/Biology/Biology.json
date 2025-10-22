@@ -24,7 +24,7 @@
         ],
         "revisioncard": [
           { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/revision%20card/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncerts.nic.in/textbook/pdf/iesc106.pdf", "qpdfname": "NCERT Exemplar" }
