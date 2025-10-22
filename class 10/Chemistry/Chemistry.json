@@ -10,8 +10,11 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/Reactions%20and%20Equations/Quiz/medium.json", "qzname": "medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/Reactions%20and%20Equations/Quiz/hard.json", "qzname": "hard.json" }
         ],
-        "worksheet": "https://example.com/chemistry/reactions-and-equations/worksheet.pdf",
-        "questions": [],
+
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Chemistry/Reactions%20and%20Equations/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
+        ],
+        
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep101.pdf", "qpdfname": "Exemplar" }
         ],
@@ -29,8 +32,10 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/acids-bases-and-salts/quiz/medium.json", "qzname": "medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/acids-bases-and-salts/quiz/hard.json", "qzname": "hard.json" }
         ],
-        "worksheet": "https://example.com/chemistry/acids-bases-and-salts/worksheet.pdf",
-        "questions": [],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Chemistry/acids-bases-and-salts/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
+        ],
+        
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep102.pdf", "qpdfname": "Exemplar" }
         ],
@@ -48,8 +53,9 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/metals-and-non-metals/quiz/medium.json", "qzname": "medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/metals-and-non-metals/quiz/hard.json", "qzname": "hard.json" }
         ],
-        "worksheet": "https://example.com/chemistry/metals-and-non-metals/worksheet.pdf",
-        "questions": [],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Chemistry/metals-and-non-metals/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
+        ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep103.pdf", "qpdfname": "Exemplar" }
         ],
@@ -67,8 +73,9 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/carbon-and-its-compounds/quiz/medium.json", "qzname": "medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/carbon-and-its-compounds/quiz/hard.json", "qzname": "hard.json" }
         ],
-        "worksheet": "https://example.com/chemistry/carbon-and-its-compounds/worksheet.pdf",
-        "questions": [],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Chemistry/carbon-and-its-compounds/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
+        ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep104.pdf", "qpdfname": "Exemplar" }
         ],
@@ -86,8 +93,9 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/periodic-classification-of-elements/quiz/medium.json", "qzname": "medium.json" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Chemistry/periodic-classification-of-elements/quiz/hard.json", "qzname": "hard.json" }
         ],
-        "worksheet": "https://example.com/chemistry/periodic-classification-of-elements/worksheet.pdf",
-        "questions": [],
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Chemistry/periodic-classification-of-elements/revision%20card/revision_cards.json", "cardname": "revision_cards.json" }
+        ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep105.pdf", "qpdfname": "Exemplar" }
         ],

@@ -1,9 +1,114 @@
 {
   "chapters": [
-    { "chapterName": "Nationalism in India", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/nationalism-in-india/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/nationalism-in-india/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/nationalism-in-india/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/nationalism-in-india/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Print Culture and the Modern World", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/print-culture-and-the-modern-world/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/print-culture-and-the-modern-world/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/print-culture-and-the-modern-world/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/print-culture-and-the-modern-world/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "The Age of Industrialisation", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-age-of-industrialisation/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-age-of-industrialisation/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-age-of-industrialisation/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-age-of-industrialisation/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "The Making of a Global World", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-making-of-a-global-world/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-making-of-a-global-world/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-making-of-a-global-world/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-making-of-a-global-world/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "The Rise of Nationalism in Europe", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-rise-of-nationalism-in-europe/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-rise-of-nationalism-in-europe/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-rise-of-nationalism-in-europe/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-rise-of-nationalism-in-europe/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } }
+    {
+      "chapterName": "Nationalism in India",
+      "resources": {
+        "ncertsol": "https://example.com/history/nationalism-in-india/solutions",
+        "notes": "https://example.com/history/nationalism-in-india/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/nationalism-in-india/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/nationalism-in-india/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/nationalism-in-india/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/history/nationalism-in-india/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/nationalism-in-india/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/nationalism-in-india/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_history.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jhs_history.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jh_history_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Print Culture and the Modern World",
+      "resources": {
+        "ncertsol": "https://example.com/history/print-culture-and-the-modern-world/solutions",
+        "notes": "https://example.com/history/print-culture-and-the-modern-world/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/print-culture-and-the-modern-world/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/print-culture-and-the-modern-world/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/print-culture-and-the-modern-world/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/history/print-culture-and-the-modern-world/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/print-culture-and-the-modern-world/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/print-culture-and-the-modern-world/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_history.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jhs_history.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jh_history_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "The Age of Industrialisation",
+      "resources": {
+        "ncertsol": "https://example.com/history/the-age-of-industrialisation/solutions",
+        "notes": "https://example.com/history/the-age-of-industrialisation/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-age-of-industrialisation/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-age-of-industrialisation/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-age-of-industrialisation/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/history/the-age-of-industrialisation/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-age-of-industrialisation/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-age-of-industrialisation/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_history.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jhs_history.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jh_history_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "The Making of a Global World",
+      "resources": {
+        "ncertsol": "https://example.com/history/the-making-of-a-global-world/solutions",
+        "notes": "https://example.com/history/the-making-of-a-global-world/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-making-of-a-global-world/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-making-of-a-global-world/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-making-of-a-global-world/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/history/the-making-of-a-global-world/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-making-of-a-global-world/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-making-of-a-global-world/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_history.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jhs_history.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jh_history_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "The Rise of Nationalism in Europe",
+      "resources": {
+        "ncertsol": "https://example.com/history/the-rise-of-nationalism-in-europe/solutions",
+        "notes": "https://example.com/history/the-rise-of-nationalism-in-europe/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-rise-of-nationalism-in-europe/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-rise-of-nationalism-in-europe/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-rise-of-nationalism-in-europe/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/history/the-rise-of-nationalism-in-europe/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-rise-of-nationalism-in-europe/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/history/the-rise-of-nationalism-in-europe/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_history.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jhs_history.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jh_history_hi.pdf"
+      }
+    }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "chapters": [
+    {
+      "chapterName": "Challenges to Democracy",
+      "resources": {
+        "ncertsol": "https://example.com/political-science/challenges-to-democracy/solutions",
+        "notes": "https://example.com/political-science/challenges-to-democracy/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/political-science/challenges-to-democracy/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/political-science/challenges-to-democracy/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/political-science/challenges-to-democracy/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/political-science/challenges-to-democracy/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/political-science/challenges-to-democracy/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/political-science/challenges-to-democracy/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [ { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_political_science.pdf", "qpdfname": "NCERT Exemplar" } ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jpolitical.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jpolitical_hi.pdf"
+      }
+    }
+  ]
+}

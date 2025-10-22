@@ -1,10 +1,136 @@
 {
   "chapters": [
-    { "chapterName": "Agriculture", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/agriculture/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/agriculture/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/agriculture/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/agriculture/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Forest and Wildlife Resources", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Forest%20and%20Wildlife%20Resources/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Forest%20and%20Wildlife%20Resources/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Forest%20and%20Wildlife%20Resources/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Forest%20and%20Wildlife%20Resources/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Manufacturing Industries", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Manufacturing%20Industries/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Manufacturing%20Industries/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Manufacturing%20Industries/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Manufacturing%20Industries/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Minerals and Energy Resources", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Minerals%20and%20Energy%20Resources/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Minerals%20and%20Energy%20Resources/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Minerals%20and%20Energy%20Resources/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Minerals%20and%20Energy%20Resources/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Resources and Development", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Resources%20and%20Development/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Resources%20and%20Development/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Resources%20and%20Development/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Resources%20and%20Development/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Water Resources", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Water%20Resources/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Water%20Resources/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Water%20Resources/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Water%20Resources/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } }
+    {
+      "chapterName": "Agriculture",
+      "resources": {
+        "ncertsol": "https://example.com/geography/agriculture/solutions",
+        "notes": "https://example.com/geography/agriculture/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/agriculture/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/agriculture/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/agriculture/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/geography/agriculture/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/agriculture/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/agriculture/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_geography.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jgeo.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jgeo_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Forest and Wildlife Resources",
+      "resources": {
+        "ncertsol": "https://example.com/geography/forest-and-wildlife-resources/solutions",
+        "notes": "https://example.com/geography/forest-and-wildlife-resources/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Forest%20and%20Wildlife%20Resources/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Forest%20and%20Wildlife%20Resources/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Forest%20and%20Wildlife%20Resources/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/geography/forest-and-wildlife-resources/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Forest%20and%20Wildlife%20Resources/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Forest%20and%20Wildlife%20Resources/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_geography.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jgeo.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jgeo_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Manufacturing Industries",
+      "resources": {
+        "ncertsol": "https://example.com/geography/manufacturing-industries/solutions",
+        "notes": "https://example.com/geography/manufacturing-industries/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Manufacturing%20Industries/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Manufacturing%20Industries/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Manufacturing%20Industries/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/geography/manufacturing-industries/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Manufacturing%20Industries/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Manufacturing%20Industries/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_geography.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jgeo.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jgeo_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Minerals and Energy Resources",
+      "resources": {
+        "ncertsol": "https://example.com/geography/minerals-and-energy-resources/solutions",
+        "notes": "https://example.com/geography/minerals-and-energy-resources/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Minerals%20and%20Energy%20Resources/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Minerals%20and%20Energy%20Resources/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Minerals%20and%20Energy%20Resources/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/geography/minerals-and-energy-resources/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Minerals%20and%20Energy%20Resources/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Minerals%20and%20Energy%20Resources/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_geography.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jgeo.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jgeo_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Resources and Development",
+      "resources": {
+        "ncertsol": "https://example.com/geography/resources-and-development/solutions",
+        "notes": "https://example.com/geography/resources-and-development/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Resources%20and%20Development/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Resources%20and%20Development/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Resources%20and%20Development/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/geography/resources-and-development/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Resources%20and%20Development/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Resources%20and%20Development/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_geography.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jgeo.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jgeo_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Water Resources",
+      "resources": {
+        "ncertsol": "https://example.com/geography/water-resources/solutions",
+        "notes": "https://example.com/geography/water-resources/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Water%20Resources/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Water%20Resources/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Water%20Resources/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/geography/water-resources/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Water%20Resources/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/geography/Water%20Resources/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_geography.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jgeo.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jgeo_hi.pdf"
+      }
+    }
   ]
 }

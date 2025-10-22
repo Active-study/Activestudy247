@@ -10,7 +10,7 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/medium.json", "qzname": "Quiz(medium)" },
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/quiz/hard.json", "qzname": "Quiz(hard)" }
         ],
-        "worksheet": "https://example.com/light/worksheet.pdf",
+        
         "revisioncard": [
           { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/physics/light-reflection-and-refraction/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
           { "cardurl":"https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/physics/light-reflection-and-refraction/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }

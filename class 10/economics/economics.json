@@ -1,10 +1,136 @@
 {
   "chapters": [
-    { "chapterName": "Consumer Rights", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Consumer%20Rights/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Consumer%20Rights/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Consumer%20Rights/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Consumer%20Rights/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Development", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/development/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/development/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/development/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/development/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Globalisation and the Indian Economy", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Globalisation%20and%20the%20Indian%20Economy/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Globalisation%20and%20the%20Indian%20Economy/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Globalisation%20and%20the%20Indian%20Economy/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Globalisation%20and%20the%20Indian%20Economy/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Money and Credit", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Money%20and%20Credit/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Money%20and%20Credit/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Money%20and%20Credit/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Money%20and%20Credit/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Sectors of the Indian Economy", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Sectors%20of%20the%20Indian%20Economy/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Sectors%20of%20the%20Indian%20Economy/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Sectors%20of%20the%20Indian%20Economy/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Sectors%20of%20the%20Indian%20Economy/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } },
-    { "chapterName": "Understanding Economic Development", "resources": { "quiz": [ { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Understanding%20Economic%20Development/quiz/easy.json", "qzname": "easy.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Understanding%20Economic%20Development/quiz/medium.json", "qzname": "medium.json" }, { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Understanding%20Economic%20Development/quiz/hard.json", "qzname": "hard.json" } ], "revisioncard": [ { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Understanding%20Economic%20Development/revision%20card/revision_cards.json", "cardname": "revision_cards.json" } ] } }
+    {
+      "chapterName": "Consumer Rights",
+      "resources": {
+        "ncertsol": "https://example.com/economics/consumer-rights/solutions",
+        "notes": "https://example.com/economics/consumer-rights/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Consumer%20Rights/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Consumer%20Rights/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Consumer%20Rights/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/economics/consumer-rights/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Consumer%20Rights/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Consumer%20Rights/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_economics.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jeconomics.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jeconomics_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Development",
+      "resources": {
+        "ncertsol": "https://example.com/economics/development/solutions",
+        "notes": "https://example.com/economics/development/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/development/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/development/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/development/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/economics/development/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/development/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/development/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_economics.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jeconomics.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jeconomics_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Globalisation and the Indian Economy",
+      "resources": {
+        "ncertsol": "https://example.com/economics/globalisation/solutions",
+        "notes": "https://example.com/economics/globalisation/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Globalisation%20and%20the%20Indian%20Economy/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Globalisation%20and%20the%20Indian%20Economy/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Globalisation%20and%20the%20Indian%20Economy/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/economics/globalisation/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Globalisation%20and%20the%20Indian%20Economy/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Globalisation%20and%20the%20Indian%20Economy/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_economics.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jeconomics.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jeconomics_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Money and Credit",
+      "resources": {
+        "ncertsol": "https://example.com/economics/money-and-credit/solutions",
+        "notes": "https://example.com/economics/money-and-credit/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Money%20and%20Credit/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Money%20and%20Credit/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Money%20and%20Credit/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/economics/money-and-credit/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Money%20and%20Credit/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Money%20and%20Credit/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_economics.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jeconomics.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jeconomics_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Sectors of the Indian Economy",
+      "resources": {
+        "ncertsol": "https://example.com/economics/sectors/solutions",
+        "notes": "https://example.com/economics/sectors/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Sectors%20of%20the%20Indian%20Economy/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Sectors%20of%20the%20Indian%20Economy/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Sectors%20of%20the%20Indian%20Economy/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/economics/sectors/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Sectors%20of%20the%20Indian%20Economy/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Sectors%20of%20the%20Indian%20Economy/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_economics.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jeconomics.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jeconomics_hi.pdf"
+      }
+    },
+    {
+      "chapterName": "Understanding Economic Development",
+      "resources": {
+        "ncertsol": "https://example.com/economics/understanding-economic-development/solutions",
+        "notes": "https://example.com/economics/understanding-economic-development/notes",
+        "quiz": [
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Understanding%20Economic%20Development/quiz/easy.json", "qzname": "easy.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Understanding%20Economic%20Development/quiz/medium.json", "qzname": "medium.json" },
+          { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Understanding%20Economic%20Development/quiz/hard.json", "qzname": "hard.json" }
+        ],
+        "worksheet": "https://example.com/economics/understanding-economic-development/worksheet.pdf",
+        "revisioncard": [
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Understanding%20Economic%20Development/revision%20card/revision_cards.json", "cardname": "revision_cards.json" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/economics/Understanding%20Economic%20Development/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+        ],
+        "questionsPDF": [
+          { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/social_science/jeep_economics.pdf", "qpdfname": "NCERT Exemplar" }
+        ],
+        "ncertbook": "https://ncert.nic.in/textbook/pdf/jeconomics.pdf",
+        "Hindi_book": "https://ncert.nic.in/textbook/pdf/jeconomics_hi.pdf"
+      }
+    }
   ]
 }
