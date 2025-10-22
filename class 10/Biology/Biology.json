@@ -23,8 +23,8 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/Quez/Transportation_Hard.json", "qzname": "Transportation_Hard" }
         ],
         "revisioncard": [
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/Life%20Processes/revisioncard/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/Life%20Processes/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/Life%20Processes/revision%20card/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep106.pdf", "qpdfname": "NCERT Exemplar Life Processes" }
@@ -44,7 +44,8 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/control-and-coordination/quiz/hard.json", "qzname": "hard" }
         ],
         "revisioncard": [
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/control-and-coordination/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/control-and-coordination/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/control-and-coordination/revision%20card/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep107.pdf", "qpdfname": "NCERT Exemplar Control & Coordination" }
@@ -64,7 +65,8 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/quiz/hard.json", "qqname": "hard" }
         ],
         "revisioncard": [
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/how-do-organisms-reproduce/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/how-do-organisms-reproduce/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/how-do-organisms-reproduce/revision%20card/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep108.pdf", "qpdfname": "NCERT Exemplar How Do Organisms Reproduce" }
@@ -84,7 +86,8 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/heredity-and-evolution/quiz/hard.json", "qzname": "hard" }
         ],
         "revisioncard": [
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/heredity-and-evolution/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/heredity-and-evolution/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/heredity-and-evolution/revision%20card/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep109.pdf", "qpdfname": "NCERT Exemplar Heredity & Evolution" }
@@ -104,7 +107,8 @@
           { "qz": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/quiz/hard.json", "qzname": "hard" }
         ],
         "revisioncard": [
-          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/refs/heads/main/class%2010/Biology/our-environment/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" }
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/our-environment/revision%20card/revision_cards.json", "cardname": "PQ Full Chapter Revision" },
+          { "cardurl": "https://raw.githubusercontent.com/Active-study/Activestudy247/main/class%2010/Biology/our-environment/revision%20card/fullch.json", "cardname": "PQ Full Chapter Revision (legacy)" }
         ],
         "questionsPDF": [
           { "qpdf": "https://ncert.nic.in/pdf/publication/exemplarproblem/classX/science/jeep115.pdf", "qpdfname": "NCERT Exemplar Our Environment" }
